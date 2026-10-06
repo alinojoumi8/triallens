@@ -1,0 +1,137 @@
+[
+  {
+    "directory": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417",
+    "planHash": "432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6",
+    "schedulingStop": null,
+    "independentStop": null,
+    "controls": {
+      "executed": 80,
+      "matched": 80,
+      "transportRetries": 0,
+      "transportErrors": []
+    },
+    "trials": [
+      {
+        "id": "hearing-Rowan",
+        "variant": "Rowan",
+        "scenario": null,
+        "actors": 81,
+        "accepted": 81,
+        "sourceRepairFlagFirstAccepted": 66,
+        "firstReceivedDraftAccepted": 65,
+        "acceptedRegeneratedDrafts": 16,
+        "successfulAuthorResponses": 100,
+        "repaired": 15,
+        "failures": [],
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecisionBeforeCharge": true,
+          "chargeGate": true,
+          "juryRestart": true,
+          "instructionVersions": true,
+          "juryBallots": false,
+          "deliberationInstructionVersions": true,
+          "deliberationTurns": true,
+          "changedVoteReasons": false,
+          "decisionIntegrity": true,
+          "fullCompleted": true,
+          "decisionRestart": true
+        },
+        "ballots": 24,
+        "changedFinalBallots": 4,
+        "decision": [
+          {
+            "outcome": "no_verdict",
+            "complete": false,
+            "counts": {
+              "not_guilty": 10,
+              "guilty": 1
+            }
+          }
+        ],
+        "usage": {
+          "providerHttpCalls": 215,
+          "providerInputCharacters": 9870379,
+          "actualTokens": null,
+          "actualCost": null,
+          "elapsedMs": 7805907.1503
+        }
+      },
+      {
+        "id": "hearing-Morgan",
+        "variant": "Morgan",
+        "scenario": null,
+        "actors": 81,
+        "accepted": 81,
+        "sourceRepairFlagFirstAccepted": 72,
+        "firstReceivedDraftAccepted": 72,
+        "acceptedRegeneratedDrafts": 9,
+        "successfulAuthorResponses": 94,
+        "repaired": 9,
+        "failures": [],
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecisionBeforeCharge": true,
+          "chargeGate": true,
+          "juryRestart": true,
+          "instructionVersions": true,
+          "juryBallots": false,
+          "deliberationInstructionVersions": true,
+          "deliberationTurns": true,
+          "changedVoteReasons": false,
+          "decisionIntegrity": true,
+          "fullCompleted": true,
+          "decisionRestart": true
+        },
+        "ballots": 24,
+        "changedFinalBallots": 1,
+        "decision": [
+          {
+            "outcome": "no_verdict",
+            "complete": false,
+            "counts": {
+              "not_guilty": 11
+            }
+          }
+        ],
+        "usage": {
+          "providerHttpCalls": 209,
+          "providerInputCharacters": 9368799,
+          "actualTokens": null,
+          "actualCost": null,
+          "elapsedMs": 6386489.6319
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 509,
+      "httpErrors": 18,
+      "failed": 1,
+      "incomplete": 0,
+      "hashMismatches": 0,
+      "knownTokens": 5579896,
+      "inputMismatches": 0,
+      "nativeManifests": 158,
+      "manifestMismatches": 0,
+      "legalPacketMismatches": 0,
+      "committedOutputMismatches": 0
+    },
+    "drift": []
+  }
+]

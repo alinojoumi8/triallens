@@ -1,0 +1,75 @@
+{
+  "run": "tmp\\qa\\courtroom\\jury-current-concurrence\\live-030d44574b1573c3661733b81680cc5c00b2e44fb60f16e3197845f3dbdb5c8e-1791215546864",
+  "planHash": "030d44574b1573c3661733b81680cc5c00b2e44fb60f16e3197845f3dbdb5c8e",
+  "received": 17,
+  "incomplete": 1,
+  "failed": 0,
+  "httpErrors": 0,
+  "hashMismatches": 0,
+  "knownReportedTokens": 130516,
+  "cost": null,
+  "sourceSnapshot": "tmp/qa/jury-current-concurrence-v1-source",
+  "sourceMismatches": [],
+  "jobs": [
+    {
+      "id": "captured-acknowledgment-positive",
+      "state": "no_terminal_result",
+      "expectedMatched": null,
+      "authors": 2,
+      "checkers": 7,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": null
+    },
+    {
+      "id": "captured-current-agreement-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 1,
+      "checkers": 3,
+      "repairs": 0,
+      "verificationRetries": 1,
+      "resultHash": "bc17b1c12bd2a2400060892f7c18e5032954a45ccb75dcb57e5ec58519330860"
+    },
+    {
+      "id": "acknowledgement-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "634b7d58be93f69e16aabc28d7d1142c2e461586eb395909425be5fc21c73eb6"
+    },
+    {
+      "id": "prior-mutual-agreement-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "b2e76a0070bbd4f85d2ac35abd2b242384899e2be39c67f28a0abf463bf8931b"
+    },
+    {
+      "id": "unavailable-opponent-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "0df23caf413b610dfa58efc543fa987458218d35397101a9501e752ea1687efa"
+    },
+    {
+      "id": "strengthened-opponent-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "3a3565c0939b31e4d41b4e36db45b19bfb2d03448ecb9bfbcf8b17b44ab46a98"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "directory": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-contract-matrix-v6\\tmp\\qa\\courtroom\\full-jury\\live-3716f47044205fdaa7e487e47c437f3e3487a8dc1dfa7cd41ea6bc2673d0c4e0-1791207717319",
+    "planHash": "3716f47044205fdaa7e487e47c437f3e3487a8dc1dfa7cd41ea6bc2673d0c4e0",
+    "schedulingStop": null,
+    "independentStop": null,
+    "controls": {
+      "executed": 92,
+      "matched": 90,
+      "transportRetries": 0,
+      "transportErrors": []
+    },
+    "trials": [],
+    "rawIntegrity": {
+      "pairs": 107,
+      "httpErrors": 15,
+      "failed": 0,
+      "incomplete": 0,
+      "hashMismatches": 0,
+      "knownTokens": 511728,
+      "inputMismatches": 0,
+      "nativeManifests": 0,
+      "manifestMismatches": 0,
+      "legalPacketMismatches": 0,
+      "committedOutputMismatches": 0
+    },
+    "drift": []
+  }
+]

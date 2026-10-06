@@ -1,0 +1,287 @@
+{
+  "candidate": "9372b7aea65b4119a4a267267327164c9458808ebdf122547850b71d12b4091c",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1
+      ],
+      "status": "passed",
+      "note": "Opening accurately attributes handover and unknown contents, limits account use, preserves burden and explicitly labels unsupplied elements."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1
+      ],
+      "status": "passed",
+      "note": "Opening accurately attributes handover and uncertainty, limits account use, distinguishes unsupplied knowing-participation element and promises only approved account."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Defence preserves burden/source limit; objection and ruling strike only the unsupported question with timely pre-return instruction, retaining the account and uncertainty. Neutral questions and answer add no facts; answer's scope deferral includes both source sentences."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        2
+      ],
+      "status": "passed",
+      "note": "Defence explicitly distinguishes missing offence elements from the actual described handover, preserving uncertainty, use limit and Crown burden."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Scoped objection/ruling preserve E-001 attribution-only use, question-only strike, neutral questioning and required exact instruction before jury return."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "status": "passed",
+      "note": "Answer retains identities and unknown contents; absent-detail deferral refers to contents identity. Completion is bounded to the fully elicited approved passage. Cross question is neutral; answer explicitly includes the unknown-contents statement in its scope summary."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "status": "passed",
+      "note": "Neutral direct questions; answers accurately restate observed handover and unknown contents without claiming non-observation. Completion bounds fully elicited account."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "passed",
+      "note": "Neutral scope/reexamination questions; source summaries expressly retain handover plus unknown contents. Generic scope wording is verbose but does not omit the explicit knowledge statement. Counsel completion introduces no source claim."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "status": "passed",
+      "note": "Contents-specific answer accurately says unknown contents, not an absence of all source statements. Counsel ends reexamination after both supplied points, as own completion. Closing preserves uncertainty/use limit, exact element name and burden without stale jury-return instruction."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "passed",
+      "note": "Neutral questions ask unsupplied physical details/other people. Answers defer those specific missing details without inventing absence of observers, and explicitly preserve sealed description, identities and unknown contents."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        21,
+        22,
+        23
+      ],
+      "status": "passed",
+      "note": "Defence closing accurately echoes actual Crown source/burden limits without stale return directive. Initial ballots use only E-001 and current charge; no invented prior votes/peer dialogue."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Completion and neutral reexamination preserve both account points and defer missing visual details. No non-observation claim; inability to add facts is bounded by exercise scope."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        24
+      ],
+      "status": "passed",
+      "note": "Initial private ballot applies current charge, attributed uncertainty and limited use. No invented history or peer position."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        20,
+        21
+      ],
+      "status": "passed",
+      "note": "Closings accurately acknowledge actual opposing use-limit agreement, distinguish absent named elements from conduct, preserve unknown contents and burden, and contain no stale return directive."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        25,
+        26
+      ],
+      "status": "passed",
+      "note": "Initial ballots preserve precise unsupplied element names, attributed handover/unknown contents and limited use; no fabricated personal/peer history."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        22,
+        23
+      ],
+      "status": "passed",
+      "note": "Initial ballots apply current charge and attributed uncertainty to placeholder condition. One stored change-reason ends mid-sentence but factual proposition remains accurate; no changed vote occurs at this stage."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        27
+      ],
+      "status": "passed",
+      "note": "Initial independent ballot accurately attributes source and applies use restriction/current charge; no invented history."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        28,
+        29
+      ],
+      "status": "passed",
+      "note": "Ballots distinguish attribution/unknown contents from proof, absence of additional supplied sources and absence of actual-law offence. No claim that quantification/corroboration is a legally required element."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        24,
+        25,
+        26
+      ],
+      "status": "passed",
+      "note": "Initial ballots assess current fictional condition against attribution-only source, maintain knowledge uncertainty and source boundary. No invented other testimony, prior vote or legal element."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        30
+      ],
+      "status": "passed",
+      "note": "Initial ballot distinguishes the placeholder fictional condition from an actual substantive offence element; attributed uncertainty/use limit remains the basis, no invented source."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        27
+      ],
+      "status": "passed",
+      "note": "Initial ballot recognizes packet is fictional and contains no actual-law certification; preserves attribution-only uncertainty. This toy response is not proof of legal reasoning quality."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        31,
+        32
+      ],
+      "status": "passed",
+      "note": "Initial ballots correctly apply limited use and uncertainty. Documentary-proof reference is bounded to additional supplied proof, not a legal corroboration requirement or underlying disclosure absence."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        28
+      ],
+      "status": "passed",
+      "note": "Initial ballot distinguishes actual offence elements from placeholder condition and source uncertainty; own initial position only."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        33
+      ],
+      "status": "passed",
+      "note": "Final initial-round juror maintains limited attribution and unknown contents; absence statements are confined to supplied placeholder packet and corroboration. No required actual-law validation inferred."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        34
+      ],
+      "status": "passed",
+      "note": "First actual inventory contribution accurately retains own initial position, source uncertainty/use limit and burden. Correctly says no prior visible juror discussion at this first turn."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        29,
+        30
+      ],
+      "status": "passed",
+      "note": "Initial ballots, including repaired juror-08 response, preserve source, burden/current instruction and no prior peer history. Long stored change-reason clipping remains an editorial limitation, not invented evidence."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        35,
+        36
+      ],
+      "status": "passed",
+      "note": "Inventory contributions apply the exact placeholder issue, actual permitted source and limited-use instruction. Contents wording concerns identification, not a denial of the explicit unknown-contents statement; missing chronology means no additional supplied timeline. Own initial positions preserved."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        31,
+        32
+      ],
+      "status": "passed",
+      "note": "Initial ballots attribute handover and unknown contents; current charge/fictional condition and own history accurately scoped."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        37
+      ],
+      "status": "failed",
+      "note": "No prior juror-04 vote recorded contradicts own supplied usable initial not-guilty assessment; automated auditor accepted."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        33
+      ],
+      "status": "passed",
+      "note": "Final initial ballot faithful to attributed handover/unknown contents, use restriction and current charge."
+    }
+  ],
+  "remainingOutputs": "Not independently certified; stopped after own-history contradiction"
+}

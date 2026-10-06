@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-05",
+  "project": "D:/myprojects/judgeandjurry-codex",
+  "tests": {
+    "command": "$env:RUN_BROWSER_COVERAGE='1'; $env:BROWSER_COVERAGE='1'; npx vitest run --coverage --maxWorkers=1",
+    "passed": 317,
+    "files": 49,
+    "exitCode": 0,
+    "log": "tmp/qa/jury-ledger-final-v3-tests.log"
+  },
+  "coverage": {
+    "command": "npx tsx scripts/merge-browser-coverage.ts",
+    "exitCode": 0,
+    "statements": 84.8,
+    "branches": 81.97,
+    "functions": 84.39,
+    "lines": 85.59,
+    "log": "tmp/qa/jury-ledger-final-v3-coverage.log"
+  },
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0,
+    "log": "tmp/qa/jury-ledger-final-v3-build.log"
+  },
+  "lint": {
+    "command": "npm run lint",
+    "exitCode": 0,
+    "log": "tmp/qa/jury-ledger-final-v3-lint.log"
+  },
+  "targetedPlanHash": "06e332d5405583cba060123947a7b5d1c54d67589e7f9dff0f8f83b2af0bec34",
+  "matrixPlanHash": "95b429ae6fd777c1a8abce87d2d96a67c966d3216c89db6445ca32622023c892",
+  "matrixStatus": "terminal: 7/14 mechanical passes; 11 independently rejected trials and 3 incomplete quality gates; old source snapshot preserved",
+  "tdd": [
+    {
+      "regression": "invented arguments, record locators, purpose permissions, exact quotations",
+      "checkpoints": [
+        "ea5fee0",
+        "27134c3",
+        "535150e",
+        "df85926",
+        "c1e0209",
+        "0b7c7ae",
+        "493e951"
+      ],
+      "green": "24d72f0"
+    },
+    {
+      "regression": "nominal receipt denial, shared framing, faithful agreement, quoted conclusions",
+      "checkpoints": [
+        "6874b3b",
+        "7667b1e",
+        "a0af4a5"
+      ],
+      "green": "5140802"
+    },
+    {
+      "regression": "unsupported checker finding with an omitted exact visible quote locator",
+      "redLog": "tmp/qa/jury-ledger-quote-locator-red.log",
+      "greenLog": "tmp/qa/jury-ledger-quote-locator-green.log",
+      "checkpoints": [
+        "7aae970"
+      ],
+      "green": "5140802"
+    },
+    {
+      "regression": "Expressly rejected Defence inference: valid public citation accepted; wrong speaker role rejected",
+      "redLog": "tmp/qa/jury-ledger-party-red.log",
+      "greenLog": "tmp/qa/jury-ledger-party-green.log",
+      "green": "a9e7699",
+      "fixtureCorrection": "989a371"
+    }
+  ],
+  "limitations": [
+    "Unit/browser checks and provider source checks do not establish independent whole-response quality.",
+    "Two matrix candidates stopped during controls with zero actor inputs are not completed trial executions.",
+    "Earlier frozen trials retain their original failures; these changes do not retroactively upgrade them.",
+    "Lexical guards and fictional scenarios do not certify actual legal analysis."
+  ],
+  "finalHearingsPlanHash": "432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6",
+  "finalHearingsStatus": "terminal: 80/80 controls; both workflows completed with 81 accepted actors each; 0/2 all-check mechanical passes; 0/2 source-quality passes established; each has 23/24 valid ballots and an incomplete no_verdict decision",
+  "browserFailure": "One previous suite had 311 passes and a browser click timeout on Run three-seed lab. Its log is retained; complete subsequent suites passed.",
+  "latestTargetedResult": {
+    "matched": 14,
+    "jobs": 14,
+    "controls": 13,
+    "freshWholeResponseReview": "passed_with_wording_risks",
+    "received": 20,
+    "httpErrors": 0,
+    "failed": 0,
+    "incomplete": 0,
+    "hashMismatches": 0,
+    "knownTokensLowerBound": 191888
+  },
+  "recoveryPlanHash": "432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6",
+  "recoveryStatus": "terminal: 80/80 controls; both workflows completed with 81 accepted actors each; 0/2 all-check mechanical passes; 0/2 source-quality passes established; each has 23/24 valid ballots and an incomplete no_verdict decision",
+  "recoveryProcessExitCode": 1,
+  "recoveryRawIntegrity": {
+    "pairs": 509,
+    "httpErrors": 18,
+    "failed": 1,
+    "incomplete": 0,
+    "hashMismatches": 0,
+    "knownTokens": 5579896,
+    "inputMismatches": 0,
+    "nativeManifests": 158,
+    "manifestMismatches": 0,
+    "legalPacketMismatches": 0,
+    "committedOutputMismatches": 0
+  },
+  "recoveryOverloadAudit": {
+    "responses529": 18,
+    "identicalFollowingBodies": 18,
+    "incompleteExchanges": 0
+  },
+  "auditScope": "Native committed-text comparison covers witness answers and jury contributions; ballot validity and change links are separate checks. Draft counts use successful author HTTP responses, not source-repair flags."
+}

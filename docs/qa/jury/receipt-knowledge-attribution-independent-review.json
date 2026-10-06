@@ -1,0 +1,22 @@
+{
+  "planHash": "37238a44a2399beaa37e6ac8a953cca1cd83593a7a6bf02e3ef02088db2fea3f",
+  "status": "passed_with_wording_risks",
+  "scope": "Independent root source review of the fresh captured-request regeneration and corrected broad-support positive. Not full-matrix or human legal certification.",
+  "freshContent": "Initial ballot on issue-1: not_guilty. E-002 records Tavi stating Ellis was seen standing at the desk and that Tavi does not know whether Ellis received any token; this permitted account does not establish blue-token receipt from Morgan beyond a reasonable doubt.",
+  "freshRationale": "E-002 attributes to Tavi a stated lack of knowledge about any token receipt; the Crown has not established the blue-token receipt element beyond a reasonable doubt on the supplied record.",
+  "assessment": "Unknown token receipt remains qualified as receipt, observed Ellis preserved. Applies supplied Morgan blue-token condition and Crown BRD burden without inventing all-token knowledge limit. Initial instruction and permitted source citation match actual request; no prior assessment exists.",
+  "firstDraftAccepted": true,
+  "authorResponses": 1,
+  "freshRepairs": 0,
+  "freshVerificationRetries": 0,
+  "nativeMetadata": {
+    "instructionMatches": true,
+    "permittedCitationMatches": true,
+    "initialHistoryMatches": true
+  },
+  "positiveAssessment": "Explicit broader statement is now attributed to Tavi rather than asserted as independently established knowledge. This preserves source support without blanket banning token-knowledge statements.",
+  "wordingRisks": [
+    "Only permitted source refers to the supplied usable E-002 projection; it should not be read as completeness of all underlying disclosure."
+  ],
+  "evidence": "receipt-knowledge-attribution-evidence-summary.json"
+}

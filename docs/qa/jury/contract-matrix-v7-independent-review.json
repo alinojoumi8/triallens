@@ -1,0 +1,677 @@
+{
+  "planHash": "97fe1ca79f8296b43793b27d0cfaaca6bfbe42c94d0ca414c8a4ede611fbb9bf",
+  "status": "failed_partial_review",
+  "method": "Root review of listed accepted outputs against exact actor input, actual source-purpose and classification, supplied fictional condition/burden, approved actor role and authorized visible events. No full-trial success until all accepted outputs and final native causality are reviewed. Fictional testing is not qualified human legal review.",
+  "controls": {
+    "executed": 96,
+    "matched": 96,
+    "scope": "Captured positive/negative calibration only; does not certify fresh trial outputs."
+  },
+  "trials": [
+    {
+      "id": "hearing-Rowan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor8 preserves source unknown contents then says the account does not address that point. This can defer actual contents details but ambiguously sounds like denial of the recorded knowledge statement. The answer should identify precisely which detail is unsupplied."
+      ],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "12053298e8a9e339e39cd66f2093b3f7cc3ea2a825de63455dad2d14d9d65b56",
+          "resultSha256": "61a5e719d9c0ea65b87d8009bb19fad8ac985b03bed28271e33d3eba7329550b",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "30855be704efe002b2c12fd3d8a6e89050f499cd2c787c559ca3605e18aa110a",
+          "resultSha256": "a7a4ba93e5a2de5020219b06d5beb9947a912f7f6593d23df60e431228f28909",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "10a333971bc46a2dc3784eaa8a2e23dbbe8da17c5b4ae954ec28414333c9a4a2",
+          "resultSha256": "bcf5b212d30e34d20223d523a957a2734517057c9efa86d2bf7900dc4bd459f3",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 4,
+          "inputSha256": "221ac221cab4fb0254c1f6c80bb56ebce695f135132038ea5c987a03eaf37831",
+          "resultSha256": "271266b1c3cce2358d974469ad1057272f5a266d1e6462bc789fe972cad7fae8",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 5,
+          "inputSha256": "1368cd15e24891f72721561ef95a8b63324a5e341b50cd953f82ed0fff509a0f",
+          "resultSha256": "4304be0643535f0c7bc538c4869a18e24a1a9a3802a4bb9d9ed2ba29c92a92f4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 6,
+          "inputSha256": "871da1b75a3595b5a660c8c2799be5e908459b7dcb4e3f421cb04fc5f9c3981a",
+          "resultSha256": "3d546d430f429de85e7f1dad2121d361a31e398c698962f4c8d587c36090c4e3",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 7,
+          "inputSha256": "bfddd4f90566c51e605efc871e3a1ab5ea972e68f47fad10bb27941d7b51056c",
+          "resultSha256": "30018591371d77be85d78d42d2105ba075cd0ba19918fd7dad15685b4141e4f9",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 8,
+          "inputSha256": "e2431ffa6938a4f64cba644eb13b1ebc7436ea02468f12ad6ebcdd622638ab9c",
+          "resultSha256": "2887ee0ea893108c3bc533b7e12a4b00e6fa04e78c62abf669cae206b6f736c3",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actors6/8 say the approved account does not address anything beyond the handover. This may mean later events; actor6 explicitly preserves unknown contents. It would overstate the source if read to deny that included contents-knowledge statement. Prefer specific unsupplied event details over an unqualified account-boundary phrase."
+      ],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "817bb8badd0fa703f36b8ecae1e8c05d9168357aba49b227f1074c6a3f3e7bbf",
+          "resultSha256": "0ed00c6e8b1c486f7f5ca5294e66d59c054f7ceee29e8fa8153a868f5e016230",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "f36e294a3a0a1f9a72a6328cea568a72eb8a8b9b513c96803538081837630371",
+          "resultSha256": "8765d2a16e86cd3077915a78b30c8ab233585826b0e35e8cae9c2fcd2eb4be6f",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "3bb0c97791f4fde42419ea28eba67d7cb1ac0b27077fb297df911abe7d387490",
+          "resultSha256": "81e0561abce67c0b44c473d8a4add81eff6417163806224ece58bbb7744decc4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 4,
+          "inputSha256": "7e82bee0b1603b6153c05e6d47cf4b99e2948866937d211e9e3e18fff0ad0a9c",
+          "resultSha256": "704397ad2f596d3318477b4e1b6edae28c08699d629eefa86693a12685c3a7e0",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 5,
+          "inputSha256": "791dd0da104e79384e096e2778f7e55ed585f0b2801fa255a93f027f9c06789d",
+          "resultSha256": "d7d05b802cceca2c26668372aeb72b2ce2c238fcf26d1ef2228598ff2700c119",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 6,
+          "inputSha256": "9d60c4796bb8c70d2392e4c4e58feece970398c0b483c9d6f5fdb282180fb74c",
+          "resultSha256": "4391e8a7bc2181fde399c38398b852ead386c59a232a913467d1cf292161e2b2",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 7,
+          "inputSha256": "3dd337e8295381cd66ba249afba60d1a028ad2c55501c7720350701adf86f959",
+          "resultSha256": "870a6b2836a76e2b9c2324ab6331cb86a91546e591221055f6b807d183b62871",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 8,
+          "inputSha256": "b23043d22e86cc880e6b6b49898c266786879e385a6c99f9827a982786db2aa7",
+          "resultSha256": "bfede26bf243ce4e1f73e7c5071aa2024b660e2cfc97c57ffa08507118ec4164",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some source paraphrases use unsupplied gender pronouns; source identity and handover direction remain intact.",
+        "Exclusively attributed material cannot prove follows express admission for assessment. This can mean attribution alone is not established truth, but could be read as replacing actual assessment permission with a blanket proof ban; it should distinguish these meanings explicitly. No assertion that the actual permitted purpose is exclusively attribution-only is made."
+      ],
+      "assessment": "No confirmed material failure in listed outputs; source qualifiers, actual burden, supplied condition and actual party/event attributions preserved. Full trial review remains pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "c4c9fc8e26c3cc34834a02e5812765b86ff659b4042d208041728a8f7d6507f9",
+          "resultSha256": "2f50b216d84091baa2e440be26a63f96e0a30d9cde2482b2c84cbebf0d8ecb95",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "8f25a8210a658e38cde3b8a3aa85426dce8d271dcc77e78da9b17ffb0615bea8",
+          "resultSha256": "6ad062db28ee6b81455d9dd30a3826ec6882444252bd77145ac09a770da90390",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some source paraphrases use unsupplied gender pronouns; source identity and handover direction remain intact.",
+        "Token remained in hand paraphrases the recorded departure with token still in hand without repeating departure. No never-left or continuous-coverage claim is made; temporal precision could improve.",
+        "Direct conflict/opposite observation describes tension between handover and departure/non-observation accounts. It should not be read as proof of continuous observation or proven handover nonoccurrence; neither is asserted explicitly here."
+      ],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "477ad48c0b2557bc6a4f1a6651707f6dcb4109db47aec0abf0f0c54fa130f035",
+          "resultSha256": "18d02d60323b8a65750e330b53363fc05ad1502c34ef04e21f214fe2fac47034",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "2098dad87d9484ed88ad23da84a03390b3f839520a767f7499ac54aaa070d8da",
+          "resultSha256": "31072c6b8ca23e60554fa12852ed591fa6909ec4cca2c890339855ebe75ca0a4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "76b57824c16bca0c3747934be3b457410758aed3f1dd256eecdd6d19b84deacf",
+          "resultSha256": "5497734c1df4e855a19de56e51bda037a1121139ef7b19c38595220df3b9d3ae",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001",
+            "E-002"
+          ]
+        },
+        {
+          "actor": 4,
+          "inputSha256": "3bdfae3b68129a7e9967788103af5cc978acd1a8ee969f18046c54a1361891b4",
+          "resultSha256": "4c3d86305c02d0d4438b6cb23bf093e9db676491bcd5871c12c20f9c94ad0664",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001",
+            "E-002"
+          ]
+        },
+        {
+          "actor": 5,
+          "inputSha256": "0e899dfc33613f8fc8bd3c11fbec9179a43d1a34228b8a602688b2c9826b09b6",
+          "resultSha256": "944cb5a73d754cf6101448e0e609123e3b70a8536d3e7d4c83e3a39f3350dfb6",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001",
+            "E-002"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some source paraphrases use unsupplied gender pronouns; source identity and handover direction remain intact.",
+        "Direct conflict/opposite observation describes tension between handover and departure/non-observation accounts. It should not be read as proof of continuous observation or proven handover nonoccurrence; neither is asserted explicitly here."
+      ],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "bb1f0dd94c8c0f55ba47c2b5126fea2f4be437ab04a5aeb96ca4a9b4d80fa06a",
+          "resultSha256": "e246a0f50c357d66f8d8456581dceb6013a8525e60fed79a0cba10159b7a5ee4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "89ed5ca29949a00c758aa0c9ccc6929e71e1660dda95a363e5c80b4472e1a016",
+          "resultSha256": "2a15a94376f0cc1235850503b91229e53cbf9827051a22070fc204bc4f21dbc3",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "a2b1de10fefd113f1379d2ef6bdb45faeb1c292b4db000ed21ddb594aca45f1e",
+          "resultSha256": "e902e7f685b732e3ce1f4120b134627a97720a8d14e9e383961b9460102f9540",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001",
+            "E-002"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "142213884777d78d155d23699672a5bc22410d1e26b5e2b7f133f2960c114772",
+          "resultSha256": "483d071176ef7f81feb17f091d49612ec01a1ce89578cddccd213ae09943906c",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "87773c84ce0dd7d27dc685720cfe2d4aba472e718ca34070bd3213749599a587",
+          "resultSha256": "5eb7cc7cd7f0d348fe3e05f692d6d0c5616722667d2646f0d6933d5aec3bb007",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "2920343f11f8a272b6b32e2363e12f92f15b2ae3fe859865f44797f9cf79230b",
+          "resultSha256": "3ce291d50b5c7e47c91ff98432a0b7b6f90bc222543035c147a700dcfac6a657",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-002"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        5
+      ],
+      "materialFailures": [
+        {
+          "actor": 5,
+          "stage": "juror_ballot",
+          "content": "Initial ballot on issue-1: E-002's permitted account records Fictional Ellis at the desk but Tavi states no knowledge of any token, so the Crown has not met its BRD burden on the blue-token receipt condition.",
+          "rationale": "E-002 records Tavi stating Fictional Ellis stood at the desk and explicitly disclaimed knowledge of any token. The Crown bears BRD on receipt; this permitted account does not establish that element.",
+          "source": "Tavi states: I saw Fictional Ellis standing at the desk. I do not know whether Ellis received any token.",
+          "issue": "Unknown whether Ellis received any token does not establish that Tavi disclaimed knowledge of any token generally. Receipt qualifier omitted in content and rationale.",
+          "regression": "tests/juryReceiptKnowledge.test.ts; dbf3b9b RED three failed/five passed; focused GREEN35 passed; live and full validation pending"
+        }
+      ],
+      "wordingRisks": [],
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "0240eb77d6364a53e061f8ec2bc585e5ebdd3ec383a9e089164036dcafa285bb",
+          "resultSha256": "b42121594529cef1b12d3209d801318d43deb99ed4ca2fea143f8d9d47c0a8ef",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "025a6e5996846a73c8364230b2cc7da940ea436ae4f50edda0a69614a88317e7",
+          "resultSha256": "b219f2d6201bb14a20f487038c845e4fcdec3637113c2287e9453597c0abdeb0",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 5,
+          "inputSha256": "8720335ad7dbd50967e512914c89fb2b6403877da9fd8e1bf1a9f360402a78df",
+          "resultSha256": "3c245f867ba6fc8f56a98072499ccd0efd47d8d7ef779fab3c7cc24097a508cc",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ],
+      "assessment": "Accepted actor5 broadens uncertainty about receipt into absence of all knowledge about any token. The not-guilty assessment does not cure this unsupported witness-knowledge premise."
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Cannot satisfy the burden is categorical wording, but the full response applies it to the supplied unknown-receipt account and concludes on the supplied record. It does not assert a binding prohibition on assessing the admitted disputed account."
+      ],
+      "assessment": "No confirmed material failure in listed outputs; source qualifiers, actual burden, supplied condition and actual party/event attributions preserved. Full trial review remains pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "786ebc932310ef27779a72bc73caf1ea1848db8c65a832a3faa84f0b01934f92",
+          "resultSha256": "7871d508f5ae4748646798389376aafa640b8c96f0eb3d312e7cae2be8b33c60",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "793fcb98a0f177eabca6abf9498c86713a1b6520c3cbd1e0d0d50b81cbf24d54",
+          "resultSha256": "7a928881eb554dc2d99e689fa51e849e1ee781f815a371d5f147aa7f4d14cebd",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "f3dc9b977828bea1f86e0095068dade5ac7336d481495877fc062540607b57b6",
+          "resultSha256": "4f61ad120eb2b48a50217bf227dbc70ffea221767e8be2f86dd3b76666389e17",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-002"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "d64dc95d97f2678387236d183f3a35310e751e3f4554569aafca3fc529d6587c",
+          "resultSha256": "6a191cda3bbeb74e2319f19cb99f39a27f54780475c2fe4783a9ac165b8b4d32",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "3a25ca8a4bdcb3420a979cce011ac2f2d5c2214347f5b3b9a46ca8c7345c10e5",
+          "resultSha256": "9655cd6852dc1bd46d7c79b681092556b956933ec8b61fa1521336690c3acb16",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 4,
+          "inputSha256": "0850a662bf8875e28c10b1eccf9e5e35b362191028ce1c700da21cc7245b75e6",
+          "resultSha256": "dbaef21f4e52d9ecb65a33640b0e4134170dbec3d52a6cac9a932da13f4436c8",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 5,
+          "inputSha256": "1269311e6a374263b33cd31a9a42a394af1de790ae8c9e31c37426bf8af069ee",
+          "resultSha256": "0e9b418c2a0483864e87ff38d4905ffa84b15b61b8ea97fdca6021e860b8e1cf",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No confirmed material failure in listed outputs; source qualifiers, actual burden, supplied condition and actual party/event attributions preserved. Full trial review remains pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "3b264e584919b10890d7d281d702ee08e02766e37697ca548c41e1a7df9aad8f",
+          "resultSha256": "a97895e07ea1314e205479809ff484de7f563a6871387bff3901d7ba14833c98",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "6f946a4d397010193569820c839433bcdafee04540c0fdbb0eb9757dc1a91170",
+          "resultSha256": "7d4d9cb59eb07516ab0954f68440ce214776763def8deb006432cf90b117ccb7",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "cef0b07e023d54e4218a9e5756c5bd868f2b8f7f34677807c656a140e20edc03",
+          "resultSha256": "86c1e2c4d8b5c3ae9f3936bc5a01bf411c64e580a90af04d282c7a378ee2be6a",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "ff382b5b9b6dc7722fc67767d63f6ebf51e2c33969da4c0e6b779fcaf4b02371",
+          "resultSha256": "81e55e130236847f13774b5099ab0c719fa3ad6f78fdd91a562a4160a791449d",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "2350559a7dd757e7b141e60a36e820a01319ace99c3af96a9053400e27ce1971",
+          "resultSha256": "c5a5a64a5295a03b79ba07c639ffda8839f289c3f51fb0b01ff05d66769a454b",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "78ea753d2d805961eaa15d00f33fa3f1fdb57cb9d4e6f8c27b73cb4c3aa7132e",
+          "resultSha256": "5389f09934d77a92ee833d8f87158c8972fc561e29eddbf330cd09fc0d1787de",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "b6602a7ea75cc36229fa13f57d6767453a644705bba563d10ff33607b60f438f",
+          "resultSha256": "1e57ecad41aec997af213570dc137333b204d1f465adbb3a6b7919fc20650831",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "4332493b9de4205846cd5c1562bbc32c48f641ab7fdd7ffdbe423a1814face17",
+          "resultSha256": "4a3b2dda01cc4284aeecc333144c3194413e0cc3aeb2dc57da7d459ab16691ee",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 4,
+          "inputSha256": "2c1dc503ab1c3fa41e0cf710a73b7705b76b400c89f6ce69e26f290519f17f77",
+          "resultSha256": "981cd85171d6c00ecf573b0ab4b48b038add1934776cb1da87b0cc31c4212602",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 5,
+          "inputSha256": "9ae953e46d31f47f158845c55e2ed2f05b741fab931250203bddf8effe3f3fe9",
+          "resultSha256": "a2d541265b7dabb859c7d7f245c921ed104a27fbab9bdbbe33499141f4864c69",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 6,
+          "inputSha256": "f58c8575e6eb12401c0414f8465396a7a3ab6c59c67aac5bc7f1bdb4d0779914",
+          "resultSha256": "0483fc0c717d89acaf770b4c7b85681a9222694428fb4ee84c5603c3c416629e",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor2 says permitted for assessment but not proof. The whole response applies this to failure to identify a blue token and preserves actual assessment permission, but not proof could ambiguously suggest a blanket use prohibition. No categorical attribution-only replacement is stated.",
+        "Rationale says E-001 records a sealed envelope handover rather than explicitly re-attributing it to Mira; the content explicitly attributes Mira and the rationale immediately preserves her unknown contents."
+      ],
+      "assessment": "Listed outputs independently reviewed against actual input/source restrictions and current condition/burden. No confirmed material failure; wording risks retained. Full trial review pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "1d0b2514fdff3d9d99eee3628eff56cfe5f08320b56ee3e7ce40451a3e59257d",
+          "resultSha256": "c3692702d07434511f1d3e29cd4ad98a14d81f0767231432ebfdbc0a31b97fb4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "929ff5e650579ee6e10c5d876c91d78b4ca23eb48af696a5cc2702a767ea009f",
+          "resultSha256": "3cc5f740e86c13680073cd83a4e060f7c872b6d53a9d9d0f7635b8a9769e2dc6",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 3,
+          "inputSha256": "b99451f67e96a7d9acefcfbe5cd43d49379b14ffa91926236767b48318e0dba8",
+          "resultSha256": "8b2046944c2596cad0055ec681cdd79f7813b93e9101ae2755f9b01e4330bd30",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 4,
+          "inputSha256": "84465b84ede99d727797f75caa65f4a82c4d6e7aaae83ae1a68ffcfe3bf62853",
+          "resultSha256": "4c4805e04b55d311c9f8f537e60a4e8497160fe72b85c9030fb655f8c69c8b57",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 5,
+          "inputSha256": "8a73ae5c66c5467a0c465f1c0207735bfbe971f742369f26d2a5216697b80b51",
+          "resultSha256": "f05fbb8025b1a8ec6e80e844de966591e2a26d01fa069b11f1a4f6e3fcf8ea1b",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 6,
+          "inputSha256": "f1f237a893b88f1d6c69230ad87af384c1adf9a1e396de31ce9eed22d6c8db91",
+          "resultSha256": "6966b533c9672beed9b42c05df30b7135fc3763de7baa0f38081a0ba4976b312",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        },
+        {
+          "actor": 7,
+          "inputSha256": "0bcbef587c809d9487590bce9051c5340fa245eaff23879e3caa55c3b64c0952",
+          "resultSha256": "f55f37d29b05d0ecb5048bed57a55e31c061332c0b587e112b8e5c3727d24998",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order",
+          "initialBallotInstructionMatches": true,
+          "ballotSourceRefs": [
+            "E-001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Listed outputs preserve source attribution, knowledge/non-observation qualifiers, actual source-purpose and fictional condition/burden. Actual concessions match visible Crown submissions. No confirmed material failure identified; full trial review remains pending.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "e0ab596e04e05a5d4f44742e3c336dc255f3209eaf85efc972fe2658147f80a9",
+          "resultSha256": "35abaab98427fd52b768791de04cad184813eb1a2ab8979892aa26d8b8bd8cc4",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    }
+  ]
+}

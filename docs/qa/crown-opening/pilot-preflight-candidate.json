@@ -1,0 +1,590 @@
+{
+  "head": "4df18ff2bea2c3bd572683995cdf887cc31c58a7",
+  "testedMixedWorktreeManifestHash": "0bc04db615330d11a20f994d7b1a1352eab6b05c35fcdffe0af8c8ebb655fd72",
+  "files": [
+    {
+      "path": "e2e/arguments.ts",
+      "sha256": "bd1c99e15aaa6ec5dee99fcb63ccce64874af1ceb50bba3f2644198e2324c64a"
+    },
+    {
+      "path": "e2e/browserCoverage.ts",
+      "sha256": "2ccb66b6ca5eb72fc6d0ef6478cdf407655faadcf5d97fa8fec24f9b486e5324"
+    },
+    {
+      "path": "e2e/courtroom.ts",
+      "sha256": "ec9be1aff873de7308c27916d782f29a057908287b3f5c859bbe2188b51d8de6"
+    },
+    {
+      "path": "e2e/simulation.ts",
+      "sha256": "854418c5ed48fd434ec70789b05395184c8a6be452cb8b9bed10dcefed497359"
+    },
+    {
+      "path": "e2e/smoke.ts",
+      "sha256": "300dcd0dd7395be6d3b124fba59f0e2cc5e2aa7d6360157b2a2fb8c5f0561f32"
+    },
+    {
+      "path": "samples/courtroom-realism\\fixture.ts",
+      "sha256": "5a6288975a672139f0c5446eac3c25501995e3ca63e397264774e8819c22e21b"
+    },
+    {
+      "path": "samples/courtroom-realism\\manifest.json",
+      "sha256": "c603464e53fa6717330e564f54729ac6e810c42227f715142d5d15a80b1655a7"
+    },
+    {
+      "path": "samples/courtroom-realism\\opening-recording.json",
+      "sha256": "e27494c3c11eac7930109202b3c7a4189332c4f6bbf2c7c3dcd4df91b8e0defe"
+    },
+    {
+      "path": "samples/courtroom-realism\\supported-opening.ts",
+      "sha256": "460989e95be6e0c3e0472bd286dde6a517af5dccb58f86079a8597323592f0cc"
+    },
+    {
+      "path": "scripts/check-authority-links.ts",
+      "sha256": "9c1d904746ec017a00110079fcd08b4bf6ddac465facf5e6b378f2c3457cabc8"
+    },
+    {
+      "path": "scripts/coverage-all.ts",
+      "sha256": "0b6975ed8ba60135d8137045d2b7338b55da61d71e4eab95977e369bec6574c1"
+    },
+    {
+      "path": "scripts/evaluate-courtroom.ts",
+      "sha256": "fb88c3cfc20c4aeaa06bb48d50648411020131b6aa1aff7eac9fdfb47c36aeb4"
+    },
+    {
+      "path": "scripts/evaluate-crown-opening.ts",
+      "sha256": "53f618a1ca13d5b7c73dc3c76d1cf2e0d0970b51bc055c0f5c270cffd3bfecab"
+    },
+    {
+      "path": "scripts/merge-browser-coverage.ts",
+      "sha256": "b97e28a763a54cee6a7d0580a6076cb19198e2fda69747359a7b15f1de803334"
+    },
+    {
+      "path": "scripts/pilotEvidence.ts",
+      "sha256": "6968e2595dd254b9b7a55fee6bb97ab7cafe9efab3c539cb4002fa2a583b382a"
+    },
+    {
+      "path": "scripts/validate-trial-engine-v2-live.ts",
+      "sha256": "a00b0425578dfd5e94fc3f7a85b4e26485b4944f05687f23c1118afd19a8d11c"
+    },
+    {
+      "path": "server/actorContext.ts",
+      "sha256": "4e64110dd9af575da55f72f00f056f629044f067baaeb1d549b64c341de5b7fe"
+    },
+    {
+      "path": "server/actorMemory.ts",
+      "sha256": "019802f84cac25894a65bcf7101a283aaeba880a7154795104e376c0cc074f86"
+    },
+    {
+      "path": "server/app.ts",
+      "sha256": "d1db03d84f16998a423420a44250bc53039525f2f35d3039faf6f6c9b089dd8c"
+    },
+    {
+      "path": "server/authorityRegistry.ts",
+      "sha256": "1cdd072b34ee6d760053bdf23ed7d63caf5224b7c2997f02feebda552bdf6d69"
+    },
+    {
+      "path": "server/casePacket.ts",
+      "sha256": "1ebd6f25481d1dd7efd9a5f403a4da891b0dba1662a172af0eca80f5c2bb8acd"
+    },
+    {
+      "path": "server/caseWorkflow.ts",
+      "sha256": "5fbbfc371642085d18593268d15b0395bbc74fde2e2f2106ebd1129111707eee"
+    },
+    {
+      "path": "server/citations.ts",
+      "sha256": "58caad8fb930b4576c6a5a707f029e7a1410bb1b1279c5b470670507a2b16f01"
+    },
+    {
+      "path": "server/corpus.ts",
+      "sha256": "cce2b4715f578d5344c801d518c9ac6508050d69a524856d2ef73283ac52f99b"
+    },
+    {
+      "path": "server/courtroom.ts",
+      "sha256": "fc886d433c6eadf1ca650ada2a34f3dbb71a1cd2980c2298e2a04a353db30a03"
+    },
+    {
+      "path": "server/courtroomEvaluation.ts",
+      "sha256": "29bf164e1f51d32615e23870b12eee429110617578dbeef9950649db7add0b3c"
+    },
+    {
+      "path": "server/courtroomState.ts",
+      "sha256": "1d25279c4aa77356134179ff3f907a6524682ab6c978d42ec2d85fd64b2b872e"
+    },
+    {
+      "path": "server/courtroomTypes.ts",
+      "sha256": "d1a1f715a5ba1738fa1b0f829688cd8f7130fb3ac366ee9d3508549719f37c79"
+    },
+    {
+      "path": "server/db.ts",
+      "sha256": "5ca3097b35849080176bcc6184ad76e95378580b35f9509ccdd9d5dc9c931bb4"
+    },
+    {
+      "path": "server/decisionTrace.ts",
+      "sha256": "6e7e4fefe572126fa8135fed867b080da4bcb4f055536779746360ed59c1480d"
+    },
+    {
+      "path": "server/evidence.ts",
+      "sha256": "e890e189057325c1cf9024b037770bd6f6cea192f5a0aa8d5ddc80e207875f95"
+    },
+    {
+      "path": "server/evidenceRestrictions.ts",
+      "sha256": "ab5faa3cb0f8ff13fb832cc46b357fe29c9846ef2c69d17527e529a545d39dfb"
+    },
+    {
+      "path": "server/evidenceSearch.ts",
+      "sha256": "0930b2d1faaf051c98e052fa6d84ed0d180a8014214eb4c9acfeb6f8e7df145f"
+    },
+    {
+      "path": "server/evidenceStorage.ts",
+      "sha256": "0c14bf75209de0cbce899d0258f0582633b279ac5a8727c0727a1adddd930854"
+    },
+    {
+      "path": "server/grounding.ts",
+      "sha256": "896f749d29175fa624fd3c3c587a09b8d42017cc3cd17ec4113f971e8d0826a5"
+    },
+    {
+      "path": "server/index.ts",
+      "sha256": "2dc46e5b1ca40439233c0325fd98b1cd93b70203097d1c86b83f3ba01826f7b1"
+    },
+    {
+      "path": "server/jurors.ts",
+      "sha256": "a79187a9d2bb66354a2cd01aa6740495946e66030e4dbca12a81aac26677f636"
+    },
+    {
+      "path": "server/legalPacket.ts",
+      "sha256": "7e516a2882a7b7dc6227c03641777e5ce746ed04081edbe7c7c5105aed90b0dc"
+    },
+    {
+      "path": "server/legalPacketSchema.ts",
+      "sha256": "30eaf0b7f765fb3df6217a62546ef4a77633ac26264fde6d105f8c9d1c251556"
+    },
+    {
+      "path": "server/logger.ts",
+      "sha256": "e5d3c91514e5535d9e05005bae3a127c9424292c65b1ab34c80e8812ce22cc6d"
+    },
+    {
+      "path": "server/matterArchive.ts",
+      "sha256": "e8760e3e2b8e6a436be724f425753ca8fd5f0f84ff374eaca46699bdddbdd2db"
+    },
+    {
+      "path": "server/matterArchiveRepository.ts",
+      "sha256": "e506802e837d6121bae605bc304e2166bdcfb41484b8fbd09829269fef698c29"
+    },
+    {
+      "path": "server/migrations.ts",
+      "sha256": "6d3178e87b87a279513d4595f2a02d081787675b611e41cce51cd8c5b071f16b"
+    },
+    {
+      "path": "server/minimax.ts",
+      "sha256": "c9acb289ef2910bca99e0c7f0fbb0e007a55637a494ccdcaf71bac4b680e2e55"
+    },
+    {
+      "path": "server/orchestrator.ts",
+      "sha256": "5792c01589e7c446dd630878708d1f9ab02c796058b5f618f7374c250b4c6f7e"
+    },
+    {
+      "path": "server/procedureAdapters.ts",
+      "sha256": "d79024d6a8655f0fb7eb8a067e8046d1f73c778d22a1778bd9904a1e1742492d"
+    },
+    {
+      "path": "server/recordCoverage.ts",
+      "sha256": "29ee78d217557b8d280197909bb953ca769ebc5e57ff7c314b232d1cc5eb9ed8"
+    },
+    {
+      "path": "server/report.ts",
+      "sha256": "fed5e60103b2adb81bfdebcad4c75e3857ba50010331599913e4681c9b6c9ee2"
+    },
+    {
+      "path": "server/routes\\corpus.ts",
+      "sha256": "1e00428dab299a453f08f2ecb0a35c902e97ae26519fea33bba8e3822be888dd"
+    },
+    {
+      "path": "server/routes\\hardening.ts",
+      "sha256": "ac777149a32e65a5bcc1cd830a894a16e1094b9e21865f3f15c8cccc02ede122"
+    },
+    {
+      "path": "server/routes\\workflow.ts",
+      "sha256": "b4b1efa46fdd124c6c590dd59c8305416b065b9ca23e32a1c9e342c74caafaf2"
+    },
+    {
+      "path": "server/runConfig.ts",
+      "sha256": "96bda994746266f3420feab86f36dac0d74765482247b6a96385f9fde38fb036"
+    },
+    {
+      "path": "server/scenarioComparison.ts",
+      "sha256": "2d882431c268e888636983eb707ff53912070f4fb09501636a4cb98aacd4a391"
+    },
+    {
+      "path": "server/security.ts",
+      "sha256": "5ff1059eed7789adce62c993c6b3cd17926727d7b8f3f634b1e2377cadcf3d73"
+    },
+    {
+      "path": "server/stages.ts",
+      "sha256": "02c4f547a58e453e08bb267ec858e13f4391088fbb96b0d0c3dba37e6dc6c6d4"
+    },
+    {
+      "path": "server/time.ts",
+      "sha256": "4bbe809098217babc30230d6ef1e4f21471b50b51bafe6fd36c54d3f57fbaaaf"
+    },
+    {
+      "path": "server/trialEngine.ts",
+      "sha256": "0c01f12cd1221ca6ea2be6d6887cc494ff51fa24cadf077a43517cc3ff045d89"
+    },
+    {
+      "path": "server/trialEngineTypes.ts",
+      "sha256": "f64277d6199be2b6f490fd2f6fcf1a37ee4a20f9d77a081dd296919860146bcd"
+    },
+    {
+      "path": "server/trialforge.ts",
+      "sha256": "662fba10c551fb5791926b20520aa3f697036418daa5ad909d4f5e3b601aca5e"
+    },
+    {
+      "path": "server/trialforgeRules.ts",
+      "sha256": "eacc3507eff7f2288a6b78ce17c9fdfb726b469e176cb938d185b54bbae8a51e"
+    },
+    {
+      "path": "server/types.ts",
+      "sha256": "e50dc20b50d953c9357f1338299f235fb407ccd4c09e278ad17d9cfb636c994f"
+    },
+    {
+      "path": "server/workflowRepository.ts",
+      "sha256": "05a35628d26ad8ca44f01db41a9ab792f384123cced50af14e7ba389d7f8a230"
+    },
+    {
+      "path": "server/workflowSchemas.ts",
+      "sha256": "53303028eadd0f3637c769547f7d19f9b851d6e3e2ec1f24fe9dad21849fae06"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "8a6db5fd5b5a17a6cee07bfb7d8aa71384a5db600411cf79464fecaf8b8f4b3b"
+    },
+    {
+      "path": "src/api.ts",
+      "sha256": "17e7ae5d90648f659d8c0ecb065692b8f4663761a60a05dac42bef06049f5e56"
+    },
+    {
+      "path": "src/clientLogger.ts",
+      "sha256": "ebbf9dd45e76f0bbf6a8c2a5e8650560d8d9bdd6fc40c8f859635422bb020aa3"
+    },
+    {
+      "path": "src/components\\BrandMark.tsx",
+      "sha256": "b49345b7f0546926989fd6866ad7520758b71fced23bb26b033b3b0ada836d15"
+    },
+    {
+      "path": "src/components\\CaseIntake.tsx",
+      "sha256": "2cfbeae22c303c99c54cdc2b57d48de74474beda5050b254aecceeb055ac3d95"
+    },
+    {
+      "path": "src/components\\CourtroomPanel.tsx",
+      "sha256": "04ef34d7ea5002c853e56e7effaa10158df56c9e64053d8b2f02f146f6b62f0e"
+    },
+    {
+      "path": "src/components\\DecisionSummary.tsx",
+      "sha256": "5f68f69603158075bce6579471a03ff1c882ccf2d64332551be11a2896b215d9"
+    },
+    {
+      "path": "src/components\\EvidenceDecisionWorkspace.tsx",
+      "sha256": "33403de4e27ff452b4c8297f54ba4ee618c3d62c82801d7f9abec678174ac311"
+    },
+    {
+      "path": "src/components\\EvidenceInspector.tsx",
+      "sha256": "12c0eb6dfefec65461246972c030cdfc48c2e39338e58aadeb2bc7d4ec997e25"
+    },
+    {
+      "path": "src/components\\FullWorkflowWorkspace.tsx",
+      "sha256": "b7c8fac048f5512811ddac4b64adfd8faffe418df06055138f81d30ec0330feb"
+    },
+    {
+      "path": "src/components\\GroundingAudit.tsx",
+      "sha256": "0eeb6ecbc219b1a0ab9ebfd5b2ebb55279d823be189e2c3bdf6d7bf1fe3bf126"
+    },
+    {
+      "path": "src/components\\LegalReadinessPanel.tsx",
+      "sha256": "932da104125081a122a6d254ccee99e119451fae5ea2a374abdf238eee4ef8bc"
+    },
+    {
+      "path": "src/components\\ParticipantMemoryPanel.tsx",
+      "sha256": "61e8e1fb7c62ba5cfcaf6aa1327cdb6df75b3be13eb38db22f591467c4cfbac0"
+    },
+    {
+      "path": "src/components\\ProviderBanner.tsx",
+      "sha256": "505f6ffbb1662bf85e5c310f6d0e60ddcef81098bbeb1ab423092c3ed51eb6e4"
+    },
+    {
+      "path": "src/components\\RunSettingsModal.tsx",
+      "sha256": "830aa01017225ce1bd9fa4bc400020900b499c6c853ffce434ad5a2b2ecf4746"
+    },
+    {
+      "path": "src/components\\Sidebar.tsx",
+      "sha256": "785d23dc423a6af144f6ff10e648faee73bf5207d79ca3da6a3c6454a72b30a1"
+    },
+    {
+      "path": "src/components\\Timeline.tsx",
+      "sha256": "c3a8ade1a853fea00ab92cd7f04114ed365c263510136524159465f4de57af87"
+    },
+    {
+      "path": "src/components\\TrialForgeConsole.tsx",
+      "sha256": "a5b721f88d6c839fb3c8b9f6c643fb3992d663facd2191c35b97d4331fbc4eff"
+    },
+    {
+      "path": "src/components\\WorkflowEditors.tsx",
+      "sha256": "74ef72e5ee601197b3d60d42ba472d4d6d38c4f9954b659fbbdbad54b819f6f4"
+    },
+    {
+      "path": "src/hooks\\useMatterArchives.ts",
+      "sha256": "851984b1fefd8dc45e316c525de1b4632b03bd548dbe0628cb4db3860e6bf91b"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "b15bdac16015ca5f7141d11c1edd12655f2efab69f590ec1ae5d9133d2e1f521"
+    },
+    {
+      "path": "src/panelRules.ts",
+      "sha256": "81b8647d4f41a7ea4c915d57b1c93ce9736029b461e730b8c12609d9b3abf22a"
+    },
+    {
+      "path": "src/trialEngineTypes.ts",
+      "sha256": "b07b4ed56d59a214f55422fa18cc6fef1a551b59df08eb8966d382322e74afdd"
+    },
+    {
+      "path": "src/types.ts",
+      "sha256": "27ce464624bace0380e83dfc61f487b037fbe9a6af133f633cda7db56a1a3fa7"
+    },
+    {
+      "path": "tests/actorMemory.test.ts",
+      "sha256": "d48c387947f4797fbb112648bdaa0f702887caa4eb14aca638e9ebb6c693f600"
+    },
+    {
+      "path": "tests/api.test.ts",
+      "sha256": "ee26de0a20d1f088db725d86bb2815d0599f945b3fdd08302551da21f6ca98bc"
+    },
+    {
+      "path": "tests/archiveV2.test.ts",
+      "sha256": "0e1221d9a8162cf07535aa3c1e1205b3495ec3a7e2e6013bd5d2f048063cb65a"
+    },
+    {
+      "path": "tests/browserJourneys.test.ts",
+      "sha256": "5da0a5a34ca506afa10e5a79c72500a746b05513443a6838a99e8e384d962ebb"
+    },
+    {
+      "path": "tests/casePacket.test.ts",
+      "sha256": "ddcb233f5613bc9b51cd0b7d58ccc973aa4d3e2279d7dd73683673b2cd9a8c9c"
+    },
+    {
+      "path": "tests/citations.test.ts",
+      "sha256": "d74a4693644efa0a52b4f76daea7b4576fc0ccf46243440368731865812e0ec3"
+    },
+    {
+      "path": "tests/corpus.test.ts",
+      "sha256": "b51d1ecf4babafaed3dcf81f4c0b55d0a4ae5dc2cf5d00b0766ed9e47f944950"
+    },
+    {
+      "path": "tests/corpusFormats.test.ts",
+      "sha256": "7289b8fa4b5e8212f20180624d7eadd340bf91620e862330ebcb21bbb2132d8f"
+    },
+    {
+      "path": "tests/courtroomEvaluation.test.ts",
+      "sha256": "4468c49b7bf5fadb2e4b9bebd02d023e2e0dbb77fe92ad0944396a230877b050"
+    },
+    {
+      "path": "tests/courtroomFailureRecovery.test.ts",
+      "sha256": "af07cf470c4c19bf941240019b871ac89a8a31ec395634a81c442ad28aec9c0a"
+    },
+    {
+      "path": "tests/courtroomIntegration.test.ts",
+      "sha256": "022db71b6cd1149457b0bec3399bffcf3a38d60a1b5ca22a91c933e9a643ee6d"
+    },
+    {
+      "path": "tests/courtroomMigration.test.ts",
+      "sha256": "b45e1f80ce80c2b68be64c825843a22789ecd43b9f1d2a04e62fd9f4d0f9e47a"
+    },
+    {
+      "path": "tests/courtroomPrompts.test.ts",
+      "sha256": "fbbd8061c94f0386341dac3d652a14df86f61bc612381d22b72ab4bb77635e7e"
+    },
+    {
+      "path": "tests/courtroomState.test.ts",
+      "sha256": "99a7780980392bee98182f7b534cc8ef80d53d79e2fa156f44b34f6d2810ceb8"
+    },
+    {
+      "path": "tests/courtroomWorkflow.test.ts",
+      "sha256": "acdfb19de4a4591a720e5ccb170b2d12b25e6915e96c70e120db56ebb1e9b0d8"
+    },
+    {
+      "path": "tests/crownOpeningFaithfulness.test.ts",
+      "sha256": "6f99da158ddf970efd02fc2a6ffd61d97c30ad702c09a36419c95b67dd20792d"
+    },
+    {
+      "path": "tests/decisionTrace.test.ts",
+      "sha256": "c6597f4a1a2b8a9db3f9ec74201fd350ce2b3baa50f49883947f4f77dc59931b"
+    },
+    {
+      "path": "tests/durability.test.ts",
+      "sha256": "45a158c7fb2579f777015722c1b70ffe20494e09b8e678abea3d569638adf282"
+    },
+    {
+      "path": "tests/evidence.test.ts",
+      "sha256": "ae36b988e687d76cea860ddbff25d593853d6512fbb938a2afe2b9a3a48bf65e"
+    },
+    {
+      "path": "tests/evidenceRestrictions.test.ts",
+      "sha256": "4c4402339a5fb6bc84a0a8a608d468282bba61b5edbdca30dbacdf85a192744c"
+    },
+    {
+      "path": "tests/evidenceSearch.test.ts",
+      "sha256": "d7b159392a59a53a02b6e7b38fb98bcccc09aab1eb849e07b4791b5006e7ebd0"
+    },
+    {
+      "path": "tests/grounding.test.ts",
+      "sha256": "04458af255a770a0d08f4232338505a525fb2311840361a4743d2e6f408b12dc"
+    },
+    {
+      "path": "tests/hardening.test.ts",
+      "sha256": "58120027cb7a54f0beb14b9e87e1537033a5223fae58e6c9bb91135af9112315"
+    },
+    {
+      "path": "tests/jurors.test.ts",
+      "sha256": "2a42c85b4808efae9e8c730a9e4fe4378b92964b65f583fbd1965f1760164a94"
+    },
+    {
+      "path": "tests/legalPacket.test.ts",
+      "sha256": "88e173ef04148b78ab75c580f35c7b3191e715aff436f9fad3c8bfea69dc43d1"
+    },
+    {
+      "path": "tests/logging.test.ts",
+      "sha256": "bd070571277dadf9427651f248513868006636569c2f94cab81aee0d08e7f980"
+    },
+    {
+      "path": "tests/modelProvider.test.ts",
+      "sha256": "81dd85ef812b94d77f6e16a9c68d46d007b09b8ad847956725d0374b31a65235"
+    },
+    {
+      "path": "tests/orchestrator.test.ts",
+      "sha256": "feb8bd4c0ba9882e0b2599f5cc89164fbab6f91487de4716f1fc1e78f69f4f5e"
+    },
+    {
+      "path": "tests/pdfCoverage.test.ts",
+      "sha256": "5f9d888cef22508455ed1194a57c77176df5bded95c23df741a71ff891d6a2ad"
+    },
+    {
+      "path": "tests/pilotEvidence.test.ts",
+      "sha256": "df2fe5a56d560dce396d6c203b007be72a070668168de0fbce9428e75d8911a5"
+    },
+    {
+      "path": "tests/recordCoverage.test.ts",
+      "sha256": "cb290047747f0fdb36388a8cb333c8ba715a1248d3167f1d48931b7e0b5927b9"
+    },
+    {
+      "path": "tests/runConfig.test.ts",
+      "sha256": "fbeaf3d66fc49626b6463a63343fdf25350182920ebff3675c4c7a41640027a1"
+    },
+    {
+      "path": "tests/trialEngineV2.test.ts",
+      "sha256": "f996efced2641bce4c75a968145f2f26048146d78b69130f248615eb6b2ef109"
+    },
+    {
+      "path": "tests/trialforge.test.ts",
+      "sha256": "ef5a50a7e29789da0c501f18c4111cdd783de39c885059e28a54d3ef873d2440"
+    },
+    {
+      "path": "tests/workflowApi.test.ts",
+      "sha256": "5050dc2752b3f29ac4c903553925a49768e2f0a9a43f43b0dc2ed067f0b3fa22"
+    },
+    {
+      "path": "package.json",
+      "sha256": "94d923cb64913a34b7de17d3a157432b114f3c59db6395a23e963dfea5b6f360"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "cf884169c1fd0c05b1733f09d2ddd476ecf2956173c211eac32a2d69fa7466dc"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "362f4be31b0afccbe11a0792c14c9414cac5468ca392e5e05ccef3ee796d3ba9"
+    }
+  ],
+  "planSha256": "4d463535880b5505448a2f14cc0a65307a92af6d62bb723661ab4332acfbb591",
+  "actorInputHash": "a68cb80ba3b6b14d087fde4583f7c922afb5b3654a4b5db6e405851ab2c52161",
+  "allocation": [
+    {
+      "attempt": 1,
+      "caseId": "original-limited-notice",
+      "dataClass": "development"
+    },
+    {
+      "attempt": 2,
+      "caseId": "original-limited-notice",
+      "dataClass": "development"
+    },
+    {
+      "attempt": 3,
+      "caseId": "original-limited-notice",
+      "dataClass": "development"
+    }
+  ],
+  "budget": {
+    "maxCalls": 24,
+    "maxInputCharacters": 2000000,
+    "maxElapsedMs": 720000
+  },
+  "provider": {
+    "name": "minimax",
+    "model": "MiniMax-M3",
+    "baseUrl": "https://api.minimax.io/v1",
+    "timeoutMs": 120000,
+    "maxRetries": 1
+  },
+  "settings": {
+    "temperature": 0,
+    "maxOutputTokens": 16000,
+    "reasoningEffort": "medium"
+  },
+  "frozenGenerationPromptVerifierAndOriginalFixtureUnchanged": true,
+  "results": {
+    "focused": 16,
+    "transportRegressions": 9,
+    "totalTests": 202,
+    "testFiles": 35,
+    "coverage": {
+      "lines": {
+        "total": 8984,
+        "covered": 7649,
+        "skipped": 0,
+        "pct": 85.14
+      },
+      "statements": {
+        "total": 9794,
+        "covered": 8247,
+        "skipped": 0,
+        "pct": 84.2
+      },
+      "functions": {
+        "total": 1677,
+        "covered": 1399,
+        "skipped": 0,
+        "pct": 83.42
+      },
+      "branches": {
+        "total": 4988,
+        "covered": 3997,
+        "skipped": 0,
+        "pct": 80.13
+      },
+      "branchesTrue": {
+        "total": 0,
+        "covered": 0,
+        "skipped": 0,
+        "pct": 100
+      }
+    },
+    "build": "pass",
+    "typecheck": "pass",
+    "lint": "pass",
+    "simulation": "14 scripted checks pass",
+    "scriptedCourtroom": "30/30",
+    "auditVulnerabilities": 0
+  },
+  "paidCallsMade": 0,
+  "authorization": "Execution clarification / exact-plan approval pending; user stated unlimited spending.",
+  "reviewStatus": "Independent semantic and qualified human/legal review pending."
+}

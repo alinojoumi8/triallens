@@ -1,0 +1,210 @@
+{
+  "planHash": "af73d4c31f519adb6646706cc36bb803c897cec3d402eabdc20ebe61e31a231e",
+  "status": "mechanical_failure_partial_review",
+  "method": "Root review of accepted responses against exact actor inputs and approved source packets. Lists identify reviewed actors only; partial coverage cannot establish whole-trial success. Qualified human legal review is not completed.",
+  "trials": [
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 2 calls non-observation attribution-only in a generic explanatory sentence, while the actual sources permit assessment. The response preserves disputed assessment and the observation-versus-nonoccurrence distinction, but should avoid implying an exclusive purpose for E-002.",
+        "Direct contradiction and cannot establish wording is an individual assessment of competing disputed accounts. It should distinguish credibility tension from proof of nonoccurrence and avoid implying a universal rule against attributed evidence."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 2 labels the Crown non-exclusion statement speculation. The Crown framed a possibility, not an established earlier transfer; the Defence could address that distinction more precisely. Actor 1 uses an unsupplied gender pronoun.",
+        "Direct contradiction and cannot establish wording is an individual assessment of competing disputed accounts. It should distinguish credibility tension from proof of nonoccurrence and avoid implying a universal rule against attributed evidence."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 2 compresses departure to remained in hand and says a condition cannot rest on competing attributed statements. In context this is an assessment of the supplied disputed record, but should avoid implying a universal corroboration rule.",
+        "Direct contradiction and cannot establish wording is an individual assessment of competing disputed accounts. It should distinguish credibility tension from proof of nonoccurrence and avoid implying a universal rule against attributed evidence."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed. Actor 3 correctly states neither classified as primary, preserving missing classification rather than asserting non-primary status."
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "hearing-Rowan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 2 says no allegation of receipt supplied. The only permitted source asserts uncertainty; this should be bounded to that source, not read as absence of allegations in underlying proceedings or excluded material."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 2 says no knowing-participation element so participation not in issue. The packet still requires physical receipt; wording should distinguish a missing knowing-participation element from the supplied conduct condition."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "At its highest places a sealed item in Ellis hands is a qualified assessment of the permitted handover account, not an additional account of the mechanics of receipt."
+      ],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "mechanical_failure",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed.",
+      "falseRejections": [
+        {
+          "actor": 2,
+          "finding": "Final regenerated Defence closing accurately accepts an actual cited Crown concession. Parser recognizes only verbal party claims, misses nominal Crown concession, and falsely requires an exhibit quotation; initial acknowledges form also confuses the author present action with historical Defence speech.",
+          "validRejectedText": "The Defence accepts the Crown's concession on this record.",
+          "recordEventId": "2c9f6e10-9ea1-4d3f-ae84-337cc77ffc72",
+          "regression": "77cabb4:4failed/3passed; d172f3d:65focused checks pass. Live calibration pending."
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed response content and available juror rationale/change fields against source identity/uncertainty, actual use permission, fictional condition/burden, and visible submissions. No material failure identified in these listed outputs; later stages remain unreviewed."
+    }
+  ]
+}

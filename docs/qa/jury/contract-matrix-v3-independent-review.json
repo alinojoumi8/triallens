@@ -1,0 +1,375 @@
+{
+  "planHash": "c919c20d20c24747dc7f82083fd05341486f88e5ae34a95e849dd451cadc0b24",
+  "status": "failed_partial_review",
+  "method": "Root review of each listed accepted response against that exact actor input, source-use permission, supplied condition/burden, current state and visible events. Reviewed actor lists are exact; partial coverage does not establish a whole-trial pass. Qualified human legal review is not completed.",
+  "trials": [
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "materialFailures": [
+        {
+          "actor": 6,
+          "stage": "juror_ballot",
+          "finding": "Invented source classification: accepted content calls the record non-primary, and rationale asserts no primary source. The exact input labels both sources unclassified/unknown, not verified non-primary.",
+          "acceptedText": "On this contradicted, non-primary record, the fictional Crown has not met the beyond-reasonable-doubt burden.",
+          "repair": "ECC regression juryClassification.test.ts: 5 failures/6 passes before fix; 56 focused checks pass after classification guard correction. Original frozen candidate retained."
+        }
+      ],
+      "wordingRisks": [
+        "Direct conflict characterizations across actors 3-8 are credibility assessments, not independently proven handover nonoccurrence; a clearer distinction would preserve the missing timing/coverage qualifiers."
+      ],
+      "assessment": "Source identities, observation/knowledge qualifiers and actual permitted purposes preserved; current fictional condition and burden applied without assuming token contents, inventing other proof, or treating attribution as unrestricted truth."
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Only material supplied is bounded to assessment sources, not complete court disclosure. No further proof promised is an awkward negative promise-status claim; the input contains no prior Crown promise and an empty evidence plan, but a present refusal to promise unsupplied proof would be clearer.",
+        "Actors 2-4 compress departure with the token into remaining in hand and describe direct conflict. The accounts create credibility tension; absent continuous observation or timing, they do not independently establish nonoccurrence of a handover. These responses still attribute both accounts and assess doubt rather than find no handover as fact.",
+        "Some ballots say no primary documentary proof supplied. Source classification is unchecked, so this should be phrased as no source classified as primary, rather than certainty about source type. Individual absence of corroboration/insufficiency assessments are not themselves a binding requirement for corroboration."
+      ],
+      "assessment": "Source identities, observation/knowledge qualifiers and actual permitted purposes preserved; current fictional condition and burden applied without assuming token contents, inventing other proof, or treating attribution as unrestricted truth."
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actors 2-3 use neither is proof and direct contradiction. The packet permits assessment of disputed accounts; these are insufficiency conclusions in context, but wording should distinguish unresolved tension from an absolute prohibition on proof use or a verified nonoccurrence.",
+        "Some ballots say no primary documentary proof supplied. Source classification is unchecked, so this should be phrased as no source classified as primary, rather than certainty about source type. Individual absence of corroboration/insufficiency assessments are not themselves a binding requirement for corroboration."
+      ],
+      "assessment": "Reviewed listed responses against exact source accounts, actor role, actual fictional burden, allowed purposes and available state/events."
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Reviewed listed responses against exact source accounts, actor role, actual fictional burden, allowed purposes and available state/events."
+    },
+    {
+      "id": "hearing-Rowan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 3 and ruling use no cash-contents allegation bounded to the pinned packet. This must not be read as a verified absence of allegations elsewhere; the pending question itself assumes cash.",
+        "Actor 16 defines hand as give or deliver within the account. This is a linguistic paraphrase, not an additional observation of physical mechanics, but an explicit distinction would be clearer."
+      ],
+      "assessment": "Source identities, observation/knowledge qualifiers and actual permitted purposes preserved; current fictional condition and burden applied without assuming token contents, inventing other proof, or treating attribution as unrestricted truth."
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Actor 1 uses an unsupplied gender pronoun for Tavi; actor 2 compresses the account to presence at the desk without naming Ellis. These do not alter the receipt analysis, but explicit source identity and neutral pronouns would be clearer.",
+        "Some language compresses the source to presence or says no documentary proof. The account reports Ellis at the desk and uncertainty about receipt; it does not locate Tavi there or establish full disclosure completeness. Assessment remains bounded to supplied permitted sources."
+      ],
+      "assessment": "Reviewed listed responses against exact source accounts, actor role, actual fictional burden, allowed purposes and available state/events."
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some language compresses the source to presence or says no documentary proof. The account reports Ellis at the desk and uncertainty about receipt; it does not locate Tavi there or establish full disclosure completeness. Assessment remains bounded to supplied permitted sources."
+      ],
+      "assessment": "Reviewed listed accepted content and every juror rationale/change explanation against exact source packet, actor role, permissions, burden and available state/events. Non-knowledge was not converted to denial or personal non-observation; remaining-source individual insufficiency was not treated as automatic source exclusion."
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Only proper verdict is forceful present advocacy under the supplied fictional burden; it is not a binding judicial direction or actual-law certification.",
+        "Some language compresses the source to presence or says no documentary proof. The account reports Ellis at the desk and uncertainty about receipt; it does not locate Tavi there or establish full disclosure completeness. Assessment remains bounded to supplied permitted sources."
+      ],
+      "assessment": "Source identities, observation/knowledge qualifiers and actual permitted purposes preserved; current fictional condition and burden applied without assuming token contents, inventing other proof, or treating attribution as unrestricted truth."
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some responses compress knowledge uncertainty to a contents disclaimer or use attribution cannot satisfy the burden. In context the reason is the missing blue-token identification; this must not become a general bar against assessment-permitted accounts."
+      ],
+      "assessment": "Reviewed listed accepted responses against actual envelope source and blue-token condition. Missing item identification was assessed as insufficient; unknown contents did not become empty contents, receipt/nonreceipt certainty, or an invented offence element."
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some responses compress knowledge uncertainty to a contents disclaimer or use attribution cannot satisfy the burden. In context the reason is the missing blue-token identification; this must not become a general bar against assessment-permitted accounts."
+      ],
+      "assessment": "Reviewed listed accepted responses against actual envelope source and blue-token condition. Missing item identification was assessed as insufficient; unknown contents did not become empty contents, receipt/nonreceipt certainty, or an invented offence element."
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "Source identities, observation/knowledge qualifiers and actual permitted purposes preserved; current fictional condition and burden applied without assuming token contents, inventing other proof, or treating attribution as unrestricted truth."
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Attribution-alone language is imprecise under assessment permission; in context this source explicitly lacks receipt knowledge, so individual insufficiency remains justified. Qualifiers should stay attached to observation/knowledge claims."
+      ],
+      "assessment": "Reviewed listed accepted responses against only permitted Mira account, unknown receipt, blue-token condition, Crown burden, and actual actor role. Struck testimony content was not used. Actor 23 foreperson status is explicitly supplied (juror-09), not inferred from other trials."
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Attribution-alone language is imprecise under assessment permission; in context this source explicitly lacks receipt knowledge, so individual insufficiency remains justified. Qualifiers should stay attached to observation/knowledge claims."
+      ],
+      "assessment": "Reviewed listed accepted responses against only permitted Mira account, unknown receipt, blue-token condition, Crown burden, and actual actor role. Struck testimony content was not used. Actor 23 foreperson status is explicitly supplied (juror-09), not inferred from other trials."
+    }
+  ]
+}

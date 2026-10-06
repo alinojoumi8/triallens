@@ -1,0 +1,20 @@
+{
+  "planHash": "38b23d18de2b1b1fb1d05a645cf54bca110a5c982dd4b702aa9119c23f729ba2",
+  "status": "passed_with_wording_risks",
+  "scope": "Independent root review of one fresh captured-request regeneration; not full-matrix certification.",
+  "source": "Tavi states: I saw Fictional Ellis standing at the desk. I do not know whether Ellis received any token.",
+  "freshContent": "Initial private ballot on issue-1: based on the permitted E-002 account, Tavi states Fictional Ellis was at the desk but does not know whether a blue token was received; the supplied record does not establish the receipt element.",
+  "freshRationale": "E-002 records Tavi's stated lack of knowledge about token receipt. The Crown bears the burden beyond a reasonable doubt, and the supplied account does not establish the blue-token receipt element from Fictional Morgan.",
+  "assessment": "Receipt-qualified uncertainty preserved; no invented lack of all token knowledge. Correct observed person, current fictional blue-token condition and Crown burden. Initial-history statement matches empty own assessments. Current instruction and permitted E-002 citation match exact request.",
+  "nativeMetadata": {
+    "instructionMatches": true,
+    "permittedCitationMatches": true,
+    "initialHistoryMatches": true
+  },
+  "firstDraftAccepted": true,
+  "evidence": "Seven received exchanges: five calibration checkers, one author, one fresh checker; zero repairs or verification retries in fresh grounding.",
+  "wordingRisks": [
+    "Source states unknown receipt of any token; fresh content says unknown receipt of a blue token. This is a narrower unknown claim aligned with the supplied condition, not an invented blue-token observation."
+  ],
+  "limitations": "Fictional fixture; qualified human legal review not completed."
+}

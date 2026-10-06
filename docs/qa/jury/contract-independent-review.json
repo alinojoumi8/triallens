@@ -1,0 +1,32 @@
+{
+  "planHash": "48d188c8ef8ae4d174aa6ff2579e24cc111b562e778fbb69f2129980fe9f2bb2",
+  "status": "terminal_failed_quality",
+  "method": "Root review of completed generated content, rationale and mindChangedBecause against retained authorized inputs; native metadata contract checked separately.",
+  "jobs": [
+    {
+      "id": "hearing-Rowan-25",
+      "status": "failed",
+      "reason": "The Crown/guilty ballot uses only attribution-only descriptions as its proof basis. Replacing addressed by with described within the attributed account does not supply permission to infer receipt truth. The original passive addressed-by claim was also misaccepted."
+    },
+    {
+      "id": "hearing-Morgan-24",
+      "status": "passed_with_wording_risks",
+      "reason": "Accurate Morgan-to-Ellis attributed handover, attribution-only purpose, supplied receipt condition and current instruction retained; initial history accurately states no prior ballot. Stable is awkward for an initial ballot but does not invent a changed vote."
+    },
+    {
+      "id": "hearing-Morgan-72",
+      "status": "passed_with_wording_risks",
+      "reason": "Final changed ballot selects actual juror-01 deliberation_review event25fc82c6 with shared E-001. The actual turn addresses receipt burden, attributed account and absent supplied corroboration. Generic final-review explanation could be more explicit but invents no new instruction or evidence."
+    },
+    {
+      "id": "hearing-Rowan-75",
+      "status": "incomplete",
+      "reason": "Original proof misuse rejected; no accepted fresh reply after source-verification retries."
+    },
+    {
+      "id": "hearing-Rowan-76",
+      "status": "incomplete",
+      "reason": "Original source review passed, verified same-juror E-001 citation propagated with recorded correction, and metadata then passes. Fresh reply unavailable after length-contract failure. Original correction is not a fresh whole-response pass."
+    }
+  ]
+}

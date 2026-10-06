@@ -1,0 +1,86 @@
+{
+  "candidate": "67be3918c61de6668735dbc2ff945571884b0baa568959332fbc0bfcf3cd16c4",
+  "reviewer": "Root Codex independent semantic review",
+  "status": "failed",
+  "failure": "Rowan actor 11 falsely accepted a broad absence-of-source-statement claim. Stopped before jury trials.",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Openings, objection and proposed scoped ruling preserve attributed handover, unknown contents, explicit unsupplied offence elements and neutral-question permission. The pre-return instruction is timely at this stage and is delivered by the declared prepared control, not treated as a model-completed delivery."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Both openings and objection accurately attribute Morgan-to-Ellis handover, distinguish missing actual-law elements and disclosure coverage, and object only to cash/knowledge presuppositions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "status": "passed",
+      "note": "Direct questions elicit exactly the handover and stated unknown contents; witness reaffirms the same approved account without inventing non-observation. Completion accurately refers to those visible answers."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        4,
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Scope ruling matches the supplied rule and pending question. Direct question and answer repeat the approved handover and unknown contents with explicit attribution."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        10,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "passed",
+      "note": "Questions neutrally request approved-account scope; other answers accurately restate the handover/unknown contents and defer additional conduct. Completion describes actual questioning."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        11
+      ],
+      "status": "failed",
+      "note": "The account explicitly contains an unknown-contents statement; denying any statement about contents misdescribes it. A correct restatement later in the response does not cure the unqualified source-absence claim."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "passed",
+      "note": "Prepared-account questions and answers retain unknown contents and distinguish unsupplied opening, purpose and agreement details from negative observations. Repairs remain separate from first-pass acceptance."
+    }
+  ]
+}

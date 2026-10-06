@@ -1,0 +1,33 @@
+{
+  "planHash": "406ba52cb9a95f6dfef0ef7ecfc1718ccb4243b09d5cf036b918389f24811358",
+  "method": "Additional independent review of three changed final ballots against exact prior assessments, current instruction and referenced visible deliberation events. These are local reason-support judgments, not upgrades of rejected trial quality.",
+  "ballots": [
+    {
+      "id": "hearing-Morgan-actor-72",
+      "juror": "juror-03",
+      "initial": "guilty",
+      "final": "not_guilty",
+      "status": "supported_reason_with_wording_risks",
+      "trigger": "671d606d-61a3-4baf-a48a-f07eb6fd4273",
+      "notes": "Own prior reconsideration explicitly corrects exclusive-attribution use. Actual event, current charge and final explanation agree. Corroboration shorthand remains wording risk."
+    },
+    {
+      "id": "hearing-Morgan-actor-78",
+      "juror": "juror-09",
+      "initial": "guilty",
+      "final": "not_guilty",
+      "status": "supported_reason_with_wording_risks",
+      "trigger": "4f84c768-4107-4124-bb72-8355d1f57932",
+      "notes": "Actual juror04 challenge explains exclusive-attribution limit and supplied corroboration gap. It supports the stated reason without inventing peer content."
+    },
+    {
+      "id": "conflicting-witnesses-1-actor-61",
+      "juror": "juror-11",
+      "initial": "guilty",
+      "final": "not_guilty",
+      "status": "supported_reason_with_wording_risks",
+      "trigger": "03456b83-d08e-4c80-b528-89665c61da60",
+      "notes": "Own actual contradiction/doubt contribution supports revised burden assessment. Non-observation alone must not become event absence; departure with token is separately supplied. Characterizing the accounts as directly contradictory remains wording risk."
+    }
+  ]
+}

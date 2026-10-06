@@ -1,0 +1,57 @@
+{
+  "candidate": "3d5df750a377de57cf1aaf7f9164781f5deb6bba52b1bb9e91f0f90702dfc276",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "status": "passed",
+      "note": "Openings explicitly preserve concrete sealed-envelope receipt condition, attributed handover/unknown contents, use limit and burden. Objection accurately quotes actual pending question; ruling strikes question only with exact timely instruction; neutral direct question."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Openings preserve concrete receipt condition, source attribution/uncertainty and exact missing knowing-participation element. Role representation matches approved Ellis party; no promise beyond account. Scoped objection preserves neutral questions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        6,
+        9
+      ],
+      "status": "passed",
+      "note": "First answer preserves source handover/unknown contents and record-bound deferral. Counsel completes direct questioning."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        7,
+        8
+      ],
+      "status": "failed",
+      "note": "Leading question and confirmation promote the account's recorded observation into an overall personal-observation limit. Account states the handover/unknown contents, not that no other personal observations existed."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        4,
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Repaired scoped ruling preserves question-only strike and exact timely instruction. Neutral question and answer preserve source points and bounded deferral."
+    }
+  ],
+  "remainingOutputs": "Not independently certified; stopped after physical-observation scope error"
+}

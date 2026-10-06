@@ -1,0 +1,1101 @@
+{
+  "label": "Current-baseline reconstruction, NOT historical outbound bytes. Random IDs/timestamps differ.",
+  "request": {
+    "courtroomProtocol": true,
+    "stage": "crown_opening",
+    "packet": "Approved issue(s): issue-1: Fictional disputed transfer\nPrivate theory for this advocate only: CROWN_PRIVATE_713\nProof gaps: None recorded.\nActor: crown\nDo not reveal private strategy or chain-of-thought.\nSource-use restrictions (apply to the visible source record):\nE-001: limited; permitted purposes: Notice only; not proof of truth\nRecord coverage:\nAbsent from this run does not mean absent from the disclosure or that evidence does not exist. Restrict conclusions to the supplied record.\n\nE-001: unclassified; unknown; \nNo source is classified as a primary document in the usable record. Findings may depend on summaries or unclassified material.\nSource type or completeness remains unchecked for some material.\nTreat preparation summaries as summaries and advocacy as advocacy, not independently established facts. Do not turn gaps in the supplied packet into claims that the underlying evidence does not exist.\nPinned legal packet 54345c3d7efdb6bbed698b40ff7e9daf0f402276334674993c9891cd1e0e6818: {\"issues\":[{\"issueId\":\"issue-1\",\"respondingPartyIds\":[\"accused-1\"],\"elements\":[{\"elementId\":\"issue-1-element-1\",\"text\":\"Fictional fixture condition for issue-1-element-1; no statement of applicable law.\",\"burdenPartyId\":\"crown\",\"standard\":\"Beyond a reasonable doubt\",\"authorityIds\":[\"fixture\"]}],\"outcomes\":[\"guilty\",\"not_guilty\",\"no_verdict\"],\"alternatives\":[]}],\"instructions\":[{\"id\":\"duties\",\"kind\":\"duties\",\"text\":\"Fictional duties instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.\",\"authorityIds\":[\"fixture\"]},{\"id\":\"burden\",\"kind\":\"burden\",\"text\":\"Fictional burden instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.\",\"authorityIds\":[\"fixture\"]},{\"id\":\"elements\",\"kind\":\"elements\",\"text\":\"Fictional elements instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.\",\"authorityIds\":[\"fixture\"]},{\"id\":\"limited_use\",\"kind\":\"limited_use\",\"text\":\"Fictional limited_use instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.\",\"authorityIds\":[\"fixture\"]},{\"id\":\"deliberation\",\"kind\":\"deliberation\",\"text\":\"Fictional deliberation instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.\",\"authorityIds\":[\"fixture\"]}]}",
+    "evidence": [
+      {
+        "id": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+        "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+        "exhibitId": "E-001",
+        "name": "notice.txt",
+        "type": "text",
+        "mimeType": "text/plain",
+        "size": 30,
+        "text": "Early material fact: notice was delivered.",
+        "summary": "Fictional notice.",
+        "tags": [],
+        "uploadedAt": "2026-10-03T08:16:07.326Z",
+        "sha256": null,
+        "sourceAvailable": false,
+        "ingestionStatus": "stored",
+        "extractionWarning": null,
+        "archivedAt": null
+      }
+    ],
+    "previousTurns": "f30e892f-c360-4bc0-a914-2a26f3247464 procedure: {\"disclaimer\":\"Synthetic actors are a preparation and stress-testing tool, not a statistically representative panel or a prediction of a real outcome.\",\"actors\":[{\"id\":\"crown\",\"role\":\"crown\",\"partyId\":\"crown\"},{\"id\":\"accused-1\",\"role\":\"defence\",\"partyId\":\"accused-1\"},{\"id\":\"judge-1\",\"role\":\"judge\"},{\"id\":\"juror-01\",\"role\":\"foreperson\"},{\"id\":\"juror-02\",\"role\":\"juror\"},{\"id\":\"juror-03\",\"role\":\"juror\"},{\"id\":\"juror-04\",\"role\":\"juror\"},{\"id\":\"juror-05\",\"role\":\"juror\"},{\"id\":\"juror-06\",\"role\":\"juror\"},{\"id\":\"juror-07\",\"role\":\"juror\"},{\"id\":\"juror-08\",\"role\":\"juror\"},{\"id\":\"juror-09\",\"role\":\"juror\"},{\"id\":\"juror-10\",\"role\":\"juror\"},{\"id\":\"juror-11\",\"role\":\"juror\"},{\"id\":\"juror-12\",\"role\":\"juror\"}],\"initialAdmissionLedgerId\":\"6502d5b1-e648-4942-bb2c-e1c9d0d3a86c\",\"procedureAdapter\":\"ontario_criminal_jury_v1\",\"decisionRule\":\"Every accused/count verdict-sheet item requires 12 valid, unanimous final ballots.\",\"legalSources\":[{\"title\":\"National Judicial Institute model jury instructions\",\"sourceKind\":\"official\",\"sourceUrl\":\"https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/?langSwitch=en\",\"jurisdiction\":\"Ontario, Canada\",\"revisionDate\":\"2026-07-18\",\"checkedAt\":\"2026-07-18T00:00:00.000Z\",\"legalReviewStatus\":\"requires-lawyer-review\",\"note\":\"Tailored instructions must be selected from the curated registry; the model must not invent the governing charge.\"},{\"title\":\"NJI Requirements for a Verdict\",\"sourceKind\":\"official\",\"sourceUrl\":\"https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/deliberations/requirements-for-a-verdict/?langSwitch=en\",\"jurisdiction\":\"Ontario, Canada\",\"revisionDate\":\"2026-07-18\",\"checkedAt\":\"2026-07-18T00:00:00.000Z\",\"legalReviewStatus\":\"requires-lawyer-review\",\"note\":\"Used for the per-item unanimity rule.\"}]}\n3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e procedure: {\"phase\":\"setup\"}\nf9addc81-1cdf-4264-bc3f-13eb880b5a29 procedure: {\"phase\":\"setup\"}\nb9d73eb2-a02a-40d2-94c8-7f76ef913f4c procedure: {\"phase\":\"motions\"}\nbfd1d31f-9ac3-4a28-8206-452ead9d7b31 procedure: {\"motions\":[]}\nb7fdc831-84f8-4dac-9970-6fa94ffdad1a procedure: {\"phase\":\"motions\"}\ncbd78565-5946-4898-afa0-fddfe2a3b5ec procedure: {\"phase\":\"jury_selection\"}\n1a391210-abce-40b0-ab54-7cbc60c2a8ad procedure: {\"phase\":\"jury_selection\"}\neb3fa0e7-7e75-4b64-bc42-eb8a6eb55388 procedure: {\"phase\":\"openings\"}\n067ba09c-45f7-4a6a-9d56-00bc46ab6185 procedure: {\"move\":\"openings\",\"claimIds\":[\"3ae4e9c1-8224-40bd-8d92-d1ba58e45497\",\"04c1a1ab-6c9c-49f1-a67d-01fc1db53905\"]}",
+    "groundingRequired": true,
+    "groundingContext": "Source-use restrictions:\nE-001: limited; permitted purposes: Notice only; not proof of truth\nRecord coverage:\nAbsent from this run does not mean absent from the disclosure or that evidence does not exist. Restrict conclusions to the supplied record.\n\nE-001: unclassified; unknown; \nNo source is classified as a primary document in the usable record. Findings may depend on summaries or unclassified material.\nSource type or completeness remains unchecked for some material.\nTreat preparation summaries as summaries and advocacy as advocacy, not independently established facts. Do not turn gaps in the supplied packet into claims that the underlying evidence does not exist.",
+    "runConfig": {
+      "providerMode": "local",
+      "templateId": "criminal_defence",
+      "jurorCount": 12,
+      "deliberationMode": "independent",
+      "stages": [
+        "intake_normalization",
+        "issue_spotting",
+        "crown_opening",
+        "defence_opening",
+        "crown_rebuttal",
+        "defence_rebuttal",
+        "jury_instructions",
+        "jury_deliberation",
+        "judge_ruling"
+      ],
+      "retrievalDepth": 6,
+      "externalDisclosureConfirmed": false
+    },
+    "legalTemplate": {
+      "id": "criminal_defence",
+      "label": "Criminal Defence",
+      "description": "Charge-screening and trial-risk simulation focused on burden of proof, credibility, disclosure, mens rea, and reasonable doubt.",
+      "burdenLabel": "Crown must prove every element beyond a reasonable doubt.",
+      "defenceLabel": "Defence",
+      "crownLabel": "Crown",
+      "judgeLabel": "Judge",
+      "juryLabel": "Jury Panel",
+      "defaultJurorCount": 12,
+      "outcomeLabels": [
+        "Guilty (elements proven beyond a reasonable doubt)",
+        "Not guilty (reasonable doubt remains)",
+        "Hung jury - no verdict"
+      ],
+      "packetGuidance": [
+        "Keep actus reus, mens rea, identity, credibility, and admissibility separate.",
+        "Do not treat complainant allegations as proven unless exhibit support is identified.",
+        "Flag missing disclosure and Charter or evidentiary issues without inventing facts."
+      ],
+      "stagePrompts": {
+        "issue_spotting": "criminal elements actus reus mens rea identity credibility disclosure admissibility reasonable doubt",
+        "crown_opening": "crown proof elements witness reliability corroboration timeline motive opportunity",
+        "defence_opening": "defence reasonable doubt missing proof credibility inconsistency alternate innocent explanation",
+        "crown_rebuttal": "crown reply corroboration circumstantial proof witness reliability inference",
+        "defence_rebuttal": "defence closing inconsistencies disclosure gaps burden admissibility credibility",
+        "jury_instructions": "jury charge burden reasonable doubt elements credibility WD framework circumstantial evidence unanimity",
+        "jury_deliberation": "jury reasonable doubt credibility burden competing explanations reliability",
+        "judge_ruling": "judge charge screen elements proof reasonable doubt unresolved disclosure next steps"
+      }
+    }
+  },
+  "caseModel": {
+    "schemaVersion": 1,
+    "legalPacket": {
+      "schemaVersion": 1,
+      "jurisdiction": "Ontario",
+      "proceeding": "ontario_criminal_jury_v1",
+      "issues": [
+        {
+          "issueId": "issue-1",
+          "respondingPartyIds": [
+            "accused-1"
+          ],
+          "elements": [
+            {
+              "elementId": "issue-1-element-1",
+              "text": "Fictional fixture condition for issue-1-element-1; no statement of applicable law.",
+              "burdenPartyId": "crown",
+              "standard": "Beyond a reasonable doubt",
+              "authorityIds": [
+                "fixture"
+              ]
+            }
+          ],
+          "outcomes": [
+            "guilty",
+            "not_guilty",
+            "no_verdict"
+          ],
+          "alternatives": []
+        }
+      ],
+      "instructions": [
+        {
+          "id": "duties",
+          "kind": "duties",
+          "text": "Fictional duties instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.",
+          "authorityIds": [
+            "fixture"
+          ]
+        },
+        {
+          "id": "burden",
+          "kind": "burden",
+          "text": "Fictional burden instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.",
+          "authorityIds": [
+            "fixture"
+          ]
+        },
+        {
+          "id": "elements",
+          "kind": "elements",
+          "text": "Fictional elements instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.",
+          "authorityIds": [
+            "fixture"
+          ]
+        },
+        {
+          "id": "limited_use",
+          "kind": "limited_use",
+          "text": "Fictional limited_use instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.",
+          "authorityIds": [
+            "fixture"
+          ]
+        },
+        {
+          "id": "deliberation",
+          "kind": "deliberation",
+          "text": "Fictional deliberation instruction: use only presented, permitted sources; counsel allegations are submissions; no preferred verdict.",
+          "authorityIds": [
+            "fixture"
+          ]
+        }
+      ],
+      "authorities": [
+        {
+          "id": "fixture",
+          "title": "Fictional scenario conditions",
+          "jurisdiction": "Ontario",
+          "type": "guidance",
+          "url": "https://fixture.invalid/scenario",
+          "pinpoint": "Scenario conditions",
+          "asOf": "2026-10-03",
+          "retrievedAt": "2026-10-03",
+          "reviewed": true
+        }
+      ],
+      "contentHash": "54345c3d7efdb6bbed698b40ff7e9daf0f402276334674993c9891cd1e0e6818",
+      "review": {
+        "kind": "fictional_fixture",
+        "reviewer": "Software fixture author",
+        "reviewedAt": "2026-10-03",
+        "packetHash": "54345c3d7efdb6bbed698b40ff7e9daf0f402276334674993c9891cd1e0e6818",
+        "attestation": "Fictional software fixture only. No lawyer certification or legal validation."
+      }
+    },
+    "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+    "procedureAdapter": "ontario_criminal_jury_v1",
+    "title": "Courtroom fixture Fictional Rowan",
+    "parties": [
+      {
+        "id": "crown",
+        "name": "Crown",
+        "role": "crown",
+        "sourceRefs": [
+          {
+            "attribution": "manual"
+          }
+        ]
+      },
+      {
+        "id": "accused-1",
+        "name": "Courtroom fixture Fictional Rowan",
+        "role": "accused",
+        "sourceRefs": [
+          {
+            "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+            "exhibitId": "E-001",
+            "locator": {
+              "document": 1
+            },
+            "attribution": "source"
+          }
+        ]
+      }
+    ],
+    "decisionIssues": [
+      {
+        "id": "issue-1",
+        "kind": "criminal_count",
+        "label": "Fictional disputed transfer",
+        "claimantPartyId": "crown",
+        "respondingPartyIds": [
+          "accused-1"
+        ],
+        "elements": [
+          {
+            "id": "issue-1-element-1",
+            "label": "Essential elements require user/legal review",
+            "burden": "Beyond a reasonable doubt",
+            "sourceRefs": [
+              {
+                "attribution": "unresolved"
+              }
+            ]
+          }
+        ],
+        "permittedOutcomes": [
+          "guilty",
+          "not_guilty",
+          "no_verdict"
+        ],
+        "sourceRefs": [
+          {
+            "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+            "exhibitId": "E-001",
+            "locator": {
+              "document": 1
+            },
+            "attribution": "source"
+          }
+        ]
+      }
+    ],
+    "witnesses": [
+      {
+        "id": "w1",
+        "name": "Fictional Rowan",
+        "calledByPartyId": "crown",
+        "sourceRefs": [],
+        "approvedStatementRefs": [
+          {
+            "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+            "exhibitId": "E-001",
+            "quote": "Early material fact: notice was delivered.",
+            "attribution": "source"
+          }
+        ]
+      },
+      {
+        "id": "w2",
+        "name": "Other fictional witness",
+        "sourceRefs": [],
+        "approvedStatementRefs": [
+          {
+            "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+            "quote": "OTHER_WITNESS_527",
+            "attribution": "source"
+          }
+        ]
+      }
+    ],
+    "disputedFacts": [
+      {
+        "id": "fact-1",
+        "proposition": "Fictional notice.",
+        "issueIds": [
+          "issue-1"
+        ],
+        "supporting": [
+          {
+            "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+            "exhibitId": "E-001",
+            "locator": {
+              "document": 1
+            },
+            "attribution": "source"
+          }
+        ],
+        "contradicting": [],
+        "attribution": "source"
+      },
+      {
+        "id": "fact-2",
+        "proposition": "E-002 requires factual review.",
+        "issueIds": [
+          "issue-1"
+        ],
+        "supporting": [
+          {
+            "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+            "exhibitId": "E-002",
+            "locator": {
+              "document": 1
+            },
+            "attribution": "source"
+          }
+        ],
+        "contradicting": [],
+        "attribution": "source"
+      }
+    ],
+    "remedies": [],
+    "evidenceMatrix": [],
+    "unresolved": [
+      "Confirm the governing law and tailored elements against National Judicial Institute model jury instructions; NJI Requirements for a Verdict."
+    ],
+    "id": "0d94be9d-4dbd-4a21-826a-475a83f5185f",
+    "version": 2,
+    "status": "approved",
+    "createdAt": "2026-10-03T08:16:07.346Z",
+    "approvedAt": "2026-10-03T08:16:07.346Z"
+  },
+  "theoryBriefs": [
+    {
+      "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+      "caseModelId": "0d94be9d-4dbd-4a21-826a-475a83f5185f",
+      "partyId": "accused-1",
+      "side": "defence",
+      "title": "Courtroom fixture Fictional Rowan theory",
+      "narrative": "DEFENCE_PRIVATE_829",
+      "claims": [
+        {
+          "id": "7db4735f-d2eb-448e-87cd-60fb3776e5f9",
+          "proposition": "Fictional notice.",
+          "issueIds": [
+            "issue-1"
+          ],
+          "witnessIds": [],
+          "supporting": [
+            {
+              "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+              "exhibitId": "E-001",
+              "locator": {
+                "document": 1
+              },
+              "attribution": "source"
+            }
+          ],
+          "contradicting": [],
+          "proofGaps": []
+        },
+        {
+          "id": "fa1eac61-e62e-41cb-9481-b60f2fc57c9e",
+          "proposition": "E-002 requires factual review.",
+          "issueIds": [
+            "issue-1"
+          ],
+          "witnessIds": [],
+          "supporting": [
+            {
+              "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+              "exhibitId": "E-002",
+              "locator": {
+                "document": 1
+              },
+              "attribution": "source"
+            }
+          ],
+          "contradicting": [],
+          "proofGaps": []
+        }
+      ],
+      "visibility": "private",
+      "sourceKind": "user",
+      "id": "e5261644-dd01-4c37-98ec-966866bf39a0",
+      "createdAt": "2026-10-03T08:16:07.347Z",
+      "updatedAt": "2026-10-03T08:16:07.347Z"
+    },
+    {
+      "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+      "caseModelId": "0d94be9d-4dbd-4a21-826a-475a83f5185f",
+      "partyId": "crown",
+      "side": "crown",
+      "title": "Crown theory",
+      "narrative": "CROWN_PRIVATE_713",
+      "claims": [
+        {
+          "id": "3ae4e9c1-8224-40bd-8d92-d1ba58e45497",
+          "proposition": "Fictional notice.",
+          "issueIds": [
+            "issue-1"
+          ],
+          "witnessIds": [],
+          "supporting": [
+            {
+              "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+              "exhibitId": "E-001",
+              "locator": {
+                "document": 1
+              },
+              "attribution": "source"
+            }
+          ],
+          "contradicting": [],
+          "proofGaps": []
+        },
+        {
+          "id": "04c1a1ab-6c9c-49f1-a67d-01fc1db53905",
+          "proposition": "E-002 requires factual review.",
+          "issueIds": [
+            "issue-1"
+          ],
+          "witnessIds": [],
+          "supporting": [
+            {
+              "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+              "exhibitId": "E-002",
+              "locator": {
+                "document": 1
+              },
+              "attribution": "source"
+            }
+          ],
+          "contradicting": [],
+          "proofGaps": []
+        }
+      ],
+      "visibility": "private",
+      "sourceKind": "user",
+      "id": "0e01dbaf-3fe9-4924-9da9-0dbbf1d83103",
+      "createdAt": "2026-10-03T08:16:07.347Z",
+      "updatedAt": "2026-10-03T08:16:07.347Z"
+    }
+  ],
+  "admissionLedger": {
+    "id": "6502d5b1-e648-4942-bb2c-e1c9d0d3a86c",
+    "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+    "version": 1,
+    "reason": "Fictional fixture conditions",
+    "evidenceUses": [
+      {
+        "id": "03497353-e399-48ae-bacb-ab4376921789",
+        "ledgerVersionId": "6502d5b1-e648-4942-bb2c-e1c9d0d3a86c",
+        "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+        "status": "excluded",
+        "purposes": [],
+        "redactions": [],
+        "hiddenFrom": [],
+        "note": ""
+      },
+      {
+        "id": "970823d7-02d2-4565-9cf2-eff71858fd33",
+        "ledgerVersionId": "6502d5b1-e648-4942-bb2c-e1c9d0d3a86c",
+        "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+        "status": "limited",
+        "purposes": [
+          "Notice only; not proof of truth"
+        ],
+        "redactions": [],
+        "hiddenFrom": [],
+        "note": ""
+      }
+    ],
+    "createdAt": "2026-10-03T08:16:07.347Z"
+  },
+  "actorProjection": {
+    "events": [
+      {
+        "id": "f30e892f-c360-4bc0-a914-2a26f3247464",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 1,
+        "phase": "setup",
+        "type": "run_created",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "disclaimer": "Synthetic actors are a preparation and stress-testing tool, not a statistically representative panel or a prediction of a real outcome.",
+          "actors": [
+            {
+              "id": "crown",
+              "role": "crown",
+              "partyId": "crown"
+            },
+            {
+              "id": "accused-1",
+              "role": "defence",
+              "partyId": "accused-1"
+            },
+            {
+              "id": "judge-1",
+              "role": "judge"
+            },
+            {
+              "id": "juror-01",
+              "role": "foreperson"
+            },
+            {
+              "id": "juror-02",
+              "role": "juror"
+            },
+            {
+              "id": "juror-03",
+              "role": "juror"
+            },
+            {
+              "id": "juror-04",
+              "role": "juror"
+            },
+            {
+              "id": "juror-05",
+              "role": "juror"
+            },
+            {
+              "id": "juror-06",
+              "role": "juror"
+            },
+            {
+              "id": "juror-07",
+              "role": "juror"
+            },
+            {
+              "id": "juror-08",
+              "role": "juror"
+            },
+            {
+              "id": "juror-09",
+              "role": "juror"
+            },
+            {
+              "id": "juror-10",
+              "role": "juror"
+            },
+            {
+              "id": "juror-11",
+              "role": "juror"
+            },
+            {
+              "id": "juror-12",
+              "role": "juror"
+            }
+          ],
+          "initialAdmissionLedgerId": "6502d5b1-e648-4942-bb2c-e1c9d0d3a86c",
+          "procedureAdapter": "ontario_criminal_jury_v1",
+          "decisionRule": "Every accused/count verdict-sheet item requires 12 valid, unanimous final ballots.",
+          "legalSources": [
+            {
+              "title": "National Judicial Institute model jury instructions",
+              "sourceKind": "official",
+              "sourceUrl": "https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/?langSwitch=en",
+              "jurisdiction": "Ontario, Canada",
+              "revisionDate": "2026-07-18",
+              "checkedAt": "2026-07-18T00:00:00.000Z",
+              "legalReviewStatus": "requires-lawyer-review",
+              "note": "Tailored instructions must be selected from the curated registry; the model must not invent the governing charge."
+            },
+            {
+              "title": "NJI Requirements for a Verdict",
+              "sourceKind": "official",
+              "sourceUrl": "https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/deliberations/requirements-for-a-verdict/?langSwitch=en",
+              "jurisdiction": "Ontario, Canada",
+              "revisionDate": "2026-07-18",
+              "checkedAt": "2026-07-18T00:00:00.000Z",
+              "legalReviewStatus": "requires-lawyer-review",
+              "note": "Used for the per-item unanimity rule."
+            }
+          ]
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.350Z"
+      },
+      {
+        "id": "3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 2,
+        "phase": "setup",
+        "type": "phase_started",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "setup"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.352Z"
+      },
+      {
+        "id": "f9addc81-1cdf-4264-bc3f-13eb880b5a29",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 3,
+        "phase": "setup",
+        "type": "phase_completed",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "setup"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.353Z"
+      },
+      {
+        "id": "b9d73eb2-a02a-40d2-94c8-7f76ef913f4c",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 4,
+        "phase": "motions",
+        "type": "phase_started",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "motions"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.353Z"
+      },
+      {
+        "id": "bfd1d31f-9ac3-4a28-8206-452ead9d7b31",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 5,
+        "phase": "motions",
+        "type": "motion_docket_called",
+        "actorId": "judge-1",
+        "visibleTo": [
+          "user",
+          "role:judge",
+          "role:adjudicator",
+          "role:crown",
+          "role:staff",
+          "role:plaintiff",
+          "role:defence",
+          "role:respondent",
+          "role:system"
+        ],
+        "payload": {
+          "motions": []
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.354Z"
+      },
+      {
+        "id": "b7fdc831-84f8-4dac-9970-6fa94ffdad1a",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 6,
+        "phase": "motions",
+        "type": "phase_completed",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "motions"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.356Z"
+      },
+      {
+        "id": "cbd78565-5946-4898-afa0-fddfe2a3b5ec",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 7,
+        "phase": "jury_selection",
+        "type": "phase_started",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "jury_selection"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.356Z"
+      },
+      {
+        "id": "1a391210-abce-40b0-ab54-7cbc60c2a8ad",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 8,
+        "phase": "jury_selection",
+        "type": "phase_completed",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "jury_selection"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.356Z"
+      },
+      {
+        "id": "eb3fa0e7-7e75-4b64-bc42-eb8a6eb55388",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 9,
+        "phase": "openings",
+        "type": "phase_started",
+        "actorId": "system",
+        "visibleTo": [
+          "public"
+        ],
+        "payload": {
+          "phase": "openings"
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.356Z"
+      },
+      {
+        "id": "067ba09c-45f7-4a6a-9d56-00bc46ab6185",
+        "trialRunId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+        "sequence": 10,
+        "phase": "openings",
+        "type": "private_strategy_selected",
+        "actorId": "crown",
+        "visibleTo": [
+          "crown",
+          "role:system"
+        ],
+        "payload": {
+          "move": "openings",
+          "claimIds": [
+            "3ae4e9c1-8224-40bd-8d92-d1ba58e45497",
+            "04c1a1ab-6c9c-49f1-a67d-01fc1db53905"
+          ]
+        },
+        "sourceRefs": [],
+        "createdAt": "2026-10-03T08:16:07.357Z"
+      }
+    ],
+    "evidence": [
+      {
+        "evidence": {
+          "id": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+          "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+          "exhibitId": "E-001",
+          "name": "notice.txt",
+          "type": "text",
+          "mimeType": "text/plain",
+          "size": 30,
+          "text": "Early material fact: notice was delivered.",
+          "summary": "Fictional notice.",
+          "tags": [],
+          "uploadedAt": "2026-10-03T08:16:07.326Z",
+          "sha256": null,
+          "sourceAvailable": false,
+          "ingestionStatus": "stored",
+          "extractionWarning": null,
+          "archivedAt": null
+        },
+        "use": "limited"
+      }
+    ],
+    "memory": {
+      "schemaVersion": 1,
+      "runId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+      "actorId": "crown",
+      "roles": [
+        "crown"
+      ],
+      "throughSequence": 10,
+      "heardEventIds": [
+        "f30e892f-c360-4bc0-a914-2a26f3247464",
+        "3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e",
+        "f9addc81-1cdf-4264-bc3f-13eb880b5a29",
+        "b9d73eb2-a02a-40d2-94c8-7f76ef913f4c",
+        "bfd1d31f-9ac3-4a28-8206-452ead9d7b31",
+        "b7fdc831-84f8-4dac-9970-6fa94ffdad1a",
+        "cbd78565-5946-4898-afa0-fddfe2a3b5ec",
+        "1a391210-abce-40b0-ab54-7cbc60c2a8ad",
+        "eb3fa0e7-7e75-4b64-bc42-eb8a6eb55388",
+        "067ba09c-45f7-4a6a-9d56-00bc46ab6185"
+      ],
+      "invalidatedEventIds": [],
+      "records": [
+        {
+          "eventId": "f30e892f-c360-4bc0-a914-2a26f3247464",
+          "sequence": 1,
+          "kind": "procedure",
+          "payload": {
+            "disclaimer": "Synthetic actors are a preparation and stress-testing tool, not a statistically representative panel or a prediction of a real outcome.",
+            "actors": [
+              {
+                "id": "crown",
+                "role": "crown",
+                "partyId": "crown"
+              },
+              {
+                "id": "accused-1",
+                "role": "defence",
+                "partyId": "accused-1"
+              },
+              {
+                "id": "judge-1",
+                "role": "judge"
+              },
+              {
+                "id": "juror-01",
+                "role": "foreperson"
+              },
+              {
+                "id": "juror-02",
+                "role": "juror"
+              },
+              {
+                "id": "juror-03",
+                "role": "juror"
+              },
+              {
+                "id": "juror-04",
+                "role": "juror"
+              },
+              {
+                "id": "juror-05",
+                "role": "juror"
+              },
+              {
+                "id": "juror-06",
+                "role": "juror"
+              },
+              {
+                "id": "juror-07",
+                "role": "juror"
+              },
+              {
+                "id": "juror-08",
+                "role": "juror"
+              },
+              {
+                "id": "juror-09",
+                "role": "juror"
+              },
+              {
+                "id": "juror-10",
+                "role": "juror"
+              },
+              {
+                "id": "juror-11",
+                "role": "juror"
+              },
+              {
+                "id": "juror-12",
+                "role": "juror"
+              }
+            ],
+            "initialAdmissionLedgerId": "6502d5b1-e648-4942-bb2c-e1c9d0d3a86c",
+            "procedureAdapter": "ontario_criminal_jury_v1",
+            "decisionRule": "Every accused/count verdict-sheet item requires 12 valid, unanimous final ballots.",
+            "legalSources": [
+              {
+                "title": "National Judicial Institute model jury instructions",
+                "sourceKind": "official",
+                "sourceUrl": "https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/?langSwitch=en",
+                "jurisdiction": "Ontario, Canada",
+                "revisionDate": "2026-07-18",
+                "checkedAt": "2026-07-18T00:00:00.000Z",
+                "legalReviewStatus": "requires-lawyer-review",
+                "note": "Tailored instructions must be selected from the curated registry; the model must not invent the governing charge."
+              },
+              {
+                "title": "NJI Requirements for a Verdict",
+                "sourceKind": "official",
+                "sourceUrl": "https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/deliberations/requirements-for-a-verdict/?langSwitch=en",
+                "jurisdiction": "Ontario, Canada",
+                "revisionDate": "2026-07-18",
+                "checkedAt": "2026-07-18T00:00:00.000Z",
+                "legalReviewStatus": "requires-lawyer-review",
+                "note": "Used for the per-item unanimity rule."
+              }
+            ]
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e",
+          "sequence": 2,
+          "kind": "procedure",
+          "payload": {
+            "phase": "setup"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "f9addc81-1cdf-4264-bc3f-13eb880b5a29",
+          "sequence": 3,
+          "kind": "procedure",
+          "payload": {
+            "phase": "setup"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "b9d73eb2-a02a-40d2-94c8-7f76ef913f4c",
+          "sequence": 4,
+          "kind": "procedure",
+          "payload": {
+            "phase": "motions"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "bfd1d31f-9ac3-4a28-8206-452ead9d7b31",
+          "sequence": 5,
+          "kind": "procedure",
+          "payload": {
+            "motions": []
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "b7fdc831-84f8-4dac-9970-6fa94ffdad1a",
+          "sequence": 6,
+          "kind": "procedure",
+          "payload": {
+            "phase": "motions"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "cbd78565-5946-4898-afa0-fddfe2a3b5ec",
+          "sequence": 7,
+          "kind": "procedure",
+          "payload": {
+            "phase": "jury_selection"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "1a391210-abce-40b0-ab54-7cbc60c2a8ad",
+          "sequence": 8,
+          "kind": "procedure",
+          "payload": {
+            "phase": "jury_selection"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "eb3fa0e7-7e75-4b64-bc42-eb8a6eb55388",
+          "sequence": 9,
+          "kind": "procedure",
+          "payload": {
+            "phase": "openings"
+          },
+          "sourceRefs": []
+        },
+        {
+          "eventId": "067ba09c-45f7-4a6a-9d56-00bc46ab6185",
+          "sequence": 10,
+          "kind": "procedure",
+          "payload": {
+            "move": "openings",
+            "claimIds": [
+              "3ae4e9c1-8224-40bd-8d92-d1ba58e45497",
+              "04c1a1ab-6c9c-49f1-a67d-01fc1db53905"
+            ]
+          },
+          "sourceRefs": []
+        }
+      ],
+      "usableSources": [
+        {
+          "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+          "exhibitId": "E-001",
+          "status": "limited",
+          "purposes": [
+            "Notice only; not proof of truth"
+          ]
+        }
+      ],
+      "instructionEventIds": [],
+      "unresolvedQuestions": [],
+      "issueAssessments": [],
+      "projectionHash": "f5236e3490698e73d6950b81877d810fd635dc037cbcf7ff34d4b7ac2b940c90"
+    },
+    "manifest": {
+      "schemaVersion": 1,
+      "runId": "85b1650b-b4bc-4462-ac5d-98377a9b7044",
+      "actorId": "crown",
+      "throughSequence": 10,
+      "projectionHash": "f5236e3490698e73d6950b81877d810fd635dc037cbcf7ff34d4b7ac2b940c90",
+      "contextHash": "d726558e45b2ae3218a32ace41ee06e16605e1c62e6a0ab154d70dcf3f54ae4e",
+      "inputHash": "",
+      "eventRefs": [
+        {
+          "id": "f30e892f-c360-4bc0-a914-2a26f3247464",
+          "hash": "10f6d4c66191775c2da813c5cacffcbfa7912daa8d3f2d588c9fa26ad981f2e0"
+        },
+        {
+          "id": "3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e",
+          "hash": "7bd8048b365ba3520b3f778433520b0095b99d30dad5bcf4e33618d452d4d36c"
+        },
+        {
+          "id": "f9addc81-1cdf-4264-bc3f-13eb880b5a29",
+          "hash": "085d51bbaac52f9c49307925aaf045891382162d19b45a0f41c448aa30c4b3b1"
+        },
+        {
+          "id": "b9d73eb2-a02a-40d2-94c8-7f76ef913f4c",
+          "hash": "c07b32f8167e212559eab012cc7be0e629ebf98e91ce9f2ac146a453c7055fff"
+        },
+        {
+          "id": "bfd1d31f-9ac3-4a28-8206-452ead9d7b31",
+          "hash": "d8e6bc3916c9b1c63e4fdde11dadd6d64aaee8b46f23cd52bfd9e0cfa6b0afae"
+        },
+        {
+          "id": "b7fdc831-84f8-4dac-9970-6fa94ffdad1a",
+          "hash": "7c3e1b11eb5c61f775aa2fab419d1fe502be52702611f1be95e32e1765baa67b"
+        },
+        {
+          "id": "cbd78565-5946-4898-afa0-fddfe2a3b5ec",
+          "hash": "645e7d22d86bfdf4e36480a305f073f91374cade8019d7763efc91a2c1388244"
+        },
+        {
+          "id": "1a391210-abce-40b0-ab54-7cbc60c2a8ad",
+          "hash": "7f7f196567eac0009b0018e52086edef5d0e9955b203aa5b624914729b44e034"
+        },
+        {
+          "id": "eb3fa0e7-7e75-4b64-bc42-eb8a6eb55388",
+          "hash": "1eb7af5f5f373113b07d56e5ffcf2527b8bb9d9198a10fb02907a410e69e090e"
+        },
+        {
+          "id": "067ba09c-45f7-4a6a-9d56-00bc46ab6185",
+          "hash": "2ee5c39db2ea6606898d899d8e8c518b93a932a3bbcf3fe874548f4666c265c4"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+          "hash": "12432a60da9638a434eda980b17fe38557b7467e2f205a999064b4643a2694c8"
+        }
+      ],
+      "retrieval": "all-authorised-records-v1",
+      "characterBudget": 240000,
+      "omittedEventIds": []
+    },
+    "previousTurns": "f30e892f-c360-4bc0-a914-2a26f3247464 procedure: {\"disclaimer\":\"Synthetic actors are a preparation and stress-testing tool, not a statistically representative panel or a prediction of a real outcome.\",\"actors\":[{\"id\":\"crown\",\"role\":\"crown\",\"partyId\":\"crown\"},{\"id\":\"accused-1\",\"role\":\"defence\",\"partyId\":\"accused-1\"},{\"id\":\"judge-1\",\"role\":\"judge\"},{\"id\":\"juror-01\",\"role\":\"foreperson\"},{\"id\":\"juror-02\",\"role\":\"juror\"},{\"id\":\"juror-03\",\"role\":\"juror\"},{\"id\":\"juror-04\",\"role\":\"juror\"},{\"id\":\"juror-05\",\"role\":\"juror\"},{\"id\":\"juror-06\",\"role\":\"juror\"},{\"id\":\"juror-07\",\"role\":\"juror\"},{\"id\":\"juror-08\",\"role\":\"juror\"},{\"id\":\"juror-09\",\"role\":\"juror\"},{\"id\":\"juror-10\",\"role\":\"juror\"},{\"id\":\"juror-11\",\"role\":\"juror\"},{\"id\":\"juror-12\",\"role\":\"juror\"}],\"initialAdmissionLedgerId\":\"6502d5b1-e648-4942-bb2c-e1c9d0d3a86c\",\"procedureAdapter\":\"ontario_criminal_jury_v1\",\"decisionRule\":\"Every accused/count verdict-sheet item requires 12 valid, unanimous final ballots.\",\"legalSources\":[{\"title\":\"National Judicial Institute model jury instructions\",\"sourceKind\":\"official\",\"sourceUrl\":\"https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/?langSwitch=en\",\"jurisdiction\":\"Ontario, Canada\",\"revisionDate\":\"2026-07-18\",\"checkedAt\":\"2026-07-18T00:00:00.000Z\",\"legalReviewStatus\":\"requires-lawyer-review\",\"note\":\"Tailored instructions must be selected from the curated registry; the model must not invent the governing charge.\"},{\"title\":\"NJI Requirements for a Verdict\",\"sourceKind\":\"official\",\"sourceUrl\":\"https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/deliberations/requirements-for-a-verdict/?langSwitch=en\",\"jurisdiction\":\"Ontario, Canada\",\"revisionDate\":\"2026-07-18\",\"checkedAt\":\"2026-07-18T00:00:00.000Z\",\"legalReviewStatus\":\"requires-lawyer-review\",\"note\":\"Used for the per-item unanimity rule.\"}]}\n3783c4ce-7e77-42ef-a7ab-bc56c54f4f8e procedure: {\"phase\":\"setup\"}\nf9addc81-1cdf-4264-bc3f-13eb880b5a29 procedure: {\"phase\":\"setup\"}\nb9d73eb2-a02a-40d2-94c8-7f76ef913f4c procedure: {\"phase\":\"motions\"}\nbfd1d31f-9ac3-4a28-8206-452ead9d7b31 procedure: {\"motions\":[]}\nb7fdc831-84f8-4dac-9970-6fa94ffdad1a procedure: {\"phase\":\"motions\"}\ncbd78565-5946-4898-afa0-fddfe2a3b5ec procedure: {\"phase\":\"jury_selection\"}\n1a391210-abce-40b0-ab54-7cbc60c2a8ad procedure: {\"phase\":\"jury_selection\"}\neb3fa0e7-7e75-4b64-bc42-eb8a6eb55388 procedure: {\"phase\":\"openings\"}\n067ba09c-45f7-4a6a-9d56-00bc46ab6185 procedure: {\"move\":\"openings\",\"claimIds\":[\"3ae4e9c1-8224-40bd-8d92-d1ba58e45497\",\"04c1a1ab-6c9c-49f1-a67d-01fc1db53905\"]}",
+    "theories": [
+      {
+        "matterId": "8cadf678-7f43-4754-953e-4bd5dd3bd32b",
+        "caseModelId": "0d94be9d-4dbd-4a21-826a-475a83f5185f",
+        "partyId": "crown",
+        "side": "crown",
+        "title": "Crown theory",
+        "narrative": "CROWN_PRIVATE_713",
+        "claims": [
+          {
+            "id": "3ae4e9c1-8224-40bd-8d92-d1ba58e45497",
+            "proposition": "Fictional notice.",
+            "issueIds": [
+              "issue-1"
+            ],
+            "witnessIds": [],
+            "supporting": [
+              {
+                "evidenceId": "5bde6026-7e89-4335-9399-afb64d93c0cf",
+                "exhibitId": "E-001",
+                "locator": {
+                  "document": 1
+                },
+                "attribution": "source"
+              }
+            ],
+            "contradicting": [],
+            "proofGaps": []
+          },
+          {
+            "id": "04c1a1ab-6c9c-49f1-a67d-01fc1db53905",
+            "proposition": "E-002 requires factual review.",
+            "issueIds": [
+              "issue-1"
+            ],
+            "witnessIds": [],
+            "supporting": [
+              {
+                "evidenceId": "0b13ee55-cd4f-4418-883f-8a53919e681f",
+                "exhibitId": "E-002",
+                "locator": {
+                  "document": 1
+                },
+                "attribution": "source"
+              }
+            ],
+            "contradicting": [],
+            "proofGaps": []
+          }
+        ],
+        "visibility": "private",
+        "sourceKind": "user",
+        "id": "0e01dbaf-3fe9-4924-9da9-0dbbf1d83103",
+        "createdAt": "2026-10-03T08:16:07.347Z",
+        "updatedAt": "2026-10-03T08:16:07.347Z"
+      }
+    ]
+  },
+  "historical": {
+    "source": "tmp/qa/courtroom/live-evaluation-2026-10-03T07-56-16-993Z.json",
+    "sha256": "2f27089b54d2723d71f54950f0018ad56aad74c9c8e2280e6c0f15b48024666e",
+    "reconstruction": "Drafts reconstructed from recorded sentence units; original raw JSON and whitespace unavailable. Prior failures precede final findings.",
+    "historicalInputHash": "a6653f8730e54a6d8cce975260d9389708f72a53a11ea502c53eb50f4c0eedea",
+    "historicalContextHash": "21ab636c11f34747c29cd2267d037e7a15ae870a59f8662aba666aac871eb579"
+  }
+}

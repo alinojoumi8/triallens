@@ -1,0 +1,35 @@
+{
+  "method": "Independent root review of exact approved public record, generated public speech/rationale/reason and preceding peer contributions. Source/format calibration controls are scored separately from whole-response quality.",
+  "runs": [
+    {
+      "planHash": "f311511149693366708695546efa8de89dfde543fe93776e481eddb86c7f8379",
+      "jobs": [
+        {
+          "id": "hearing-Morgan-actor-55",
+          "status": "passed_with_wording_risks",
+          "notes": "Challenges an actual prior carve-out of physical receipt from the exclusive-attribution limit (jurors03/09 in request). Preserves governing limit and stable vote; broad chronology shorthand remains wording risk."
+        },
+        {
+          "id": "hearing-Rowan-actor-48",
+          "status": "failed",
+          "notes": "Correct source-use explanation but says 'I challenge the proof point that Mira's account proves receipt'. Exact 14 prior contributions all preserve exclusive attribution and unmet proof; none supplies that claimed prior proof point. This is a peer-argument failure, separate from the corrected negation false positive."
+        }
+      ]
+    },
+    {
+      "planHash": "0b1953243c44a223ef8e4f453209296778e66575b3d24098ef6197dacff2319d",
+      "jobs": [
+        {
+          "id": "hearing-Morgan-actor-55",
+          "status": "passed_with_wording_risks",
+          "notes": "Preserves exclusive attribution and supplied-record scope. Defence framing agreement is explicitly present in the approved opening submission; it is not an invented concession. Broad corroboration shorthand remains a wording risk."
+        },
+        {
+          "id": "hearing-Rowan-actor-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Preserves the fictional receipt condition and exclusive-attribution cap. No invented prior proof point. Foundation absence is read in the expressly supplied-record scope; concise rationale retains wording risk."
+        }
+      ]
+    }
+  ]
+}

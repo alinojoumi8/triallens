@@ -1,0 +1,282 @@
+{
+  "planHash": "3d74dee632a77b25d3f6947437d53f20127ca922a2de1db02d72e308c9b2d943",
+  "status": "failed_partial_review",
+  "method": "Root review of listed accepted outputs against exact actor input/source permission, supplied condition/burden and visible party events. Fictional software validation, not human legal certification.",
+  "controls": {
+    "executed": 99,
+    "matched": 99
+  },
+  "trials": [
+    {
+      "id": "hearing-Rowan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "6106a8a30d4ff6f60e2ddd8706e218e5b9c675ec78be75605b97a3908c8334f5",
+          "resultSha256": "dc44c3976774e510392f79c53f9fefb2813dd6843537aaa104dbd08731038008",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "43d4aae94af3b2005c464e12fc517ebd550840921682a723107f33372c0d9378",
+          "resultSha256": "272efe3489645b5eb91cc787bb4b97a89e63e248976257e30e4bc5f8ab303faf",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "ca4f79e5e5a4d6373eaee8d0d4a4f209fa2825872fe93ed7ef1733b939232236",
+          "resultSha256": "b9cdeaf2e73c43c6e32baf416df0d915c637ec763977d68ecca535c03a689d3e",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "pending_review",
+      "reviewedActors": [],
+      "materialFailures": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "742819108398d77e28c46969888ac9856045c3666855bf5027638bfbcfc6edac",
+          "resultSha256": "66b59410cf18bda8325e593e49e04544d96a634ae3f6cb8ff77e2de15933253c",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "3edce5065a988ce7a451953f8094ea332537bbe0f5e37b21c12be168791f5426",
+          "resultSha256": "e9bc463e484220a24d7d63c975b58bf4e77a487931486b9d007dc2e726bdac37",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "8657ead2da2963b226ad395557502fe7682892d4479959ec8c0dbb5f4a3f1662",
+          "resultSha256": "eb54756dade011d3cadad91f12286e85d1ab498bef2d01ad7c7070f7d4421b9d",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "d2a9e618d6c5c39ffb16311565126623959ae229e6691dbe81092c36b3d3d14a",
+          "resultSha256": "f713b1e8f8efe61a43e65691e185cccbe155490f7f19db533e0ba3c0daac8886",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [
+        {
+          "actor": 1,
+          "stage": "crown_rebuttal",
+          "claim": "The Crown must not ask this panel to infer receipt from an expressly disclaimed observation.",
+          "source": "Tavi states: I saw Fictional Ellis standing at the desk. I do not know whether Ellis received any token.",
+          "issue": "Unknown whether token receipt occurred is not an express non-observation disclaimer. The verified paragraph quotation does not support this premise.",
+          "regression": "ed5442b RED five failed/thirteen passed; GREEN45 focused checks passed; full/live validation pending."
+        }
+      ],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "371f2d12f75248c333b3949d8f2598084e3eea6204fc02bc446cfb6fc3976fdb",
+          "resultSha256": "8d9ba32b6238d3107675c9db6722379ce049ef901e3a880600b6f77609e73a07",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "78242a5c5a2d2ea7052079b1579f322bcafb9a5f261ee86c8f39944c708b90a1",
+          "resultSha256": "fd5339139fbe6f9904374990a6b0a84bfb53ae82563d2db30538dfc194eb7f6a",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "pending_review",
+      "reviewedActors": [],
+      "materialFailures": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "5b266522b02794331fa0a33a9415d7b8e69abf41ae1b4efffb460de3e3f9be03",
+          "resultSha256": "fe7f2c2edf49503e1be14d11d3783f9eb147b2d268094cc04513ad61ee53ce81",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        },
+        {
+          "actor": 2,
+          "inputSha256": "7e5fd8bd434bfc237483f92886784fc5b6fc76930d29612496b5141963a918b2",
+          "resultSha256": "257b9e87fde238c817392c4e0508353c0b74d68f35fb1bef78d2eca251657542",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "struck-testimony-3",
+      "status": "pending_review",
+      "reviewedActors": [],
+      "materialFailures": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "bb52671771329e2f87e1ddedcd0738614c9307bf35e093a83dfb216aa0c5a1de",
+          "resultSha256": "b4de55860cf8319933e6aeedcb1c32e6ccabae4ae7927aa16ad4005280901316",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "c11006d20bd1d7c7805dc6ed64f28feb1164e155276f406026b095dd846bc0b7",
+          "resultSha256": "7e92538938c8888c39dbb3bca4ab47bc0087d778235b53017a374d7a9cdfdde0",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Some paraphrases use unsupplied gender pronouns. Negative proof conclusions are treated as present assessment, not as an invented binding ban on assessing the source."
+      ],
+      "assessment": "Listed outputs preserve source attribution/uncertainty and supplied fictional condition/burden; actual Defence concession attributions match preceding visible Crown submissions. No confirmed material failure except the separately recorded later-exclusion-3 actor1.",
+      "reviewEvidence": [
+        {
+          "actor": 1,
+          "inputSha256": "540907e9fda23002a5c30a4484e17a956221607913fcf8f7cad72947e410658b",
+          "resultSha256": "0c850b48f6bdd727e2daa3096326a8e82eaf369814fdfeda7c92ff5e33cfc833",
+          "resultHashMethod": "SHA256 compact JSON of result, preserving parsed key order"
+        }
+      ]
+    }
+  ]
+}

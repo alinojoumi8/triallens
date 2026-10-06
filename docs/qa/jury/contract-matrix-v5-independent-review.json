@@ -1,0 +1,211 @@
+{
+  "planHash": "277818716e75057267c96140ddf156ec5b855bfc993c2aa163d844affb206309",
+  "status": "failed_partial_review",
+  "method": "Root review of listed accepted responses against exact actor input/source permissions, stage, supplied condition/burden and visible events. Whole-trial success requires complete coverage and native checks. Qualified human legal review is not completed.",
+  "trials": [
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Unsupplied gender pronouns appear in some source summaries; source identities and observation/nonoccurrence distinction remain intact. Descriptions of disagreement are credibility assessments, not proven handover absence."
+      ],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Unsupplied gender pronouns appear in some source summaries; source identities and observation/nonoccurrence distinction remain intact. Descriptions of disagreement are credibility assessments, not proven handover absence."
+      ],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3
+      ],
+      "materialFailures": [
+        {
+          "actor": 3,
+          "finding": "Rationale calls the collective source record attribution-only although both sources are expressly admitted for assessment. Sentence-local exhibit-ID matching missed this generic two-source permission claim.",
+          "text": "The direct conflict leaves receipt unproven beyond a reasonable doubt on attribution-only material.",
+          "regression": "1154ec6:4fail8pass; a13525d:62focused checks pass. Live calibration pending."
+        }
+      ],
+      "wordingRisks": [
+        "Unsupplied gender pronouns appear in some source summaries; source identities and observation/nonoccurrence distinction remain intact. Descriptions of disagreement are credibility assessments, not proven handover absence."
+      ],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "hearing-Rowan",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "materialFailures": [
+        {
+          "actor": 6,
+          "finding": "Witness invents the full extent of personal observation from a short approved account; later account deferral does not cure that claim.",
+          "text": "As stated in E-001, that is the full extent of my personal observation regarding the handover; my approved account does not address any further detail of the moment.",
+          "regression": "1154ec6:4fail8pass; a13525d:62focused checks pass. Live calibration pending."
+        }
+      ],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Assessment-permitted accounts are sometimes described as attributed only or summarized as presence; actual permission remains assessment of disputed evidence, and the observed person is Ellis. Receipt insufficiency is justified by stated non-knowledge, not a universal bar against attributed accounts."
+      ],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "in_progress",
+      "reviewedActors": [
+        1
+      ],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "in_progress",
+      "reviewedActors": [],
+      "materialFailures": [],
+      "wordingRisks": [],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    },
+    {
+      "id": "struck-testimony-3",
+      "status": "in_progress",
+      "reviewedActors": [
+        1,
+        2
+      ],
+      "materialFailures": [],
+      "wordingRisks": [
+        "Assessment-permitted accounts are sometimes described as attributed only or summarized as presence; actual permission remains assessment of disputed evidence, and the observed person is Ellis. Receipt insufficiency is justified by stated non-knowledge, not a universal bar against attributed accounts.",
+        "Actor 2 spells the exhibit E-1 in prose, with structured citations correctly E-001. This alias should be normalized for clarity."
+      ],
+      "assessment": "No material failure identified in listed outputs; source directions, uncertainty, fictional condition and actual burden preserved. Later stages remain unreviewed."
+    }
+  ],
+  "followUp": {
+    "red": "1154ec6: four failed and eight passed",
+    "green": "a13525d: 62 focused tests passed",
+    "fullTests": "381 tests in 57 files passed; build and lint passed",
+    "liveCalibration": {
+      "planHash": "73fe3f64bd012477e4e7dcf3823c2d97e0cac8a2fe6160cc2d29e8af4e5f82d9",
+      "matched": 6,
+      "total": 6,
+      "evidence": "collective-scope-evidence-summary.json"
+    },
+    "freshMatrix": "3716f47044205fdaa7e487e47c437f3e3487a8dc1dfa7cd41ea6bc2673d0c4e0 running; previous failed outcomes preserved"
+  }
+}

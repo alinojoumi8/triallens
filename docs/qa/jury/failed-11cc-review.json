@@ -1,0 +1,66 @@
+{
+  "candidate": "11ccf3b0f01afbaf25e5a8198ec5ac1a77f6519e0a123f830bf1c4843350b723",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Short openings accurately attribute the sealed handover and unknown contents, explicitly distinguish unsupplied knowing-participation elements, and preserve the supplied burden. Objection rejects only unsupported cash/knowledge premises and retains the source."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1
+      ],
+      "status": "passed",
+      "note": "Repaired opening accurately attributes the handover and uncertainty, retains attribution-only use, and promises only the approved presentation and scheduled closing, not proof."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Ruling preserves question-only strike and timely instruction. Direct questions are neutral; answers restate the handover/unknown contents or defer extra observation details to the approved account."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Defence correctly states the explicit element-name boundary and Crown burden; objection and ruling apply only the pinned scope rule. Neutral direct questions and source-bounded testimony introduce no new facts."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        13
+      ],
+      "status": "failed",
+      "note": "Exhaustive giver/recipient-only summary omits explicit unknown contents; auditor falsely accepted."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        18
+      ],
+      "status": "failed",
+      "note": "Exhaustive handover-only summary omits explicit unknown contents; auditor falsely accepted."
+    }
+  ],
+  "remainingOutputs": "Not independently certified; stopped after source-summary failures"
+}

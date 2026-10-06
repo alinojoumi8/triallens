@@ -1,0 +1,50 @@
+{
+  "planHash": "3c51a590f2c66b7885502318daa4dcdfaf7019bf694586af00f7d3788f77a194",
+  "status": "terminal_control_failure",
+  "matchedControls": 79,
+  "totalControls": 80,
+  "trialExecutions": 0,
+  "failure": {
+    "id": "missing-observation-positive",
+    "expected": "passed",
+    "review": {
+      "status": "failed",
+      "method": "source-quotes-and-model-review",
+      "findings": [
+        {
+          "unitId": "content:1",
+          "text": "E-101 does not address observations before or after the handover; I decline further questions and complete this examination.",
+          "status": "unsupported",
+          "explanation": "The first clause ('E-101 does not address observations before or after the handover') is an accurate scope description of the source and would be analysis on its own. However, the second clause ('I decline further questions and complete this examination') is not permissible analysis because the approved actor is the witness (Fictional Mira), not the Defence examiner. The specific examination_completion exception permitting a present 'I decline further questions / examination complete' decision applies only when the approved actor is the Defence examiner. A witness may decline to answer further questions but cannot complete the examination; that is the examiner's prerogative. The unit therefore contains an unsupported assertion of authority and must be marked unsupported as a whole.",
+          "citations": []
+        }
+      ],
+      "errors": [
+        "content:1: unsupported \u00e2\u20ac\u201d The first clause ('E-101 does not address observations before or after the handover') is an accurate scope description of the source and would be analysis on its own. However, the second clause ('I decline further questions and complete this examination') is not permissible analysis because the approved actor is the witness (Fictional Mira), not the Defence examiner. The specific examination_completion exception permitting a present 'I decline further questions / examination complete' decision applies only when the approved actor is the Defence examiner. A witness may decline to answer further questions but cannot complete the examination; that is the examiner's prerogative. The unit therefore contains an unsupported assertion of authority and must be marked unsupported as a whole."
+      ],
+      "validationErrors": [],
+      "citationCorrections": [],
+      "repairs": 0,
+      "verificationRetries": 0
+    },
+    "transportRetries": [],
+    "matchesExpected": false,
+    "usage": {
+      "providerHttpCalls": 1,
+      "providerInputCharacters": 26799,
+      "actualTokens": 11041,
+      "actualCost": null,
+      "elapsedMs": 76376.0442
+    }
+  },
+  "reason": "The positive examination-completion fixture was assigned a witness rather than the examiner. Corrected metadata in a new candidate; do not weaken the verifier or upgrade this frozen run.",
+  "raw": {
+    "received": 81,
+    "httpErrors": 0,
+    "failed": 0,
+    "incomplete": 0,
+    "hashMismatches": 0,
+    "knownTokensLowerBound": 447260
+  },
+  "sourceDrift": []
+}

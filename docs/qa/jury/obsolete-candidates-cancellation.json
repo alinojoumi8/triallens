@@ -1,0 +1,154 @@
+{
+  "candidates": [
+    {
+      "planHash": "c919c20d20c24747dc7f82083fd05341486f88e5ae34a95e849dd451cadc0b24",
+      "status": "cancelled_after_known_failure",
+      "reason": "Accepted non-primary classification for unclassified sources, plus terminal hearing false rejections.",
+      "processStopRecords": [
+        {
+          "pid": 51188,
+          "hash": "c919c20d20c24747dc7f82083fd05341486f88e5ae34a95e849dd451cadc0b24",
+          "stoppedAt": "2026-10-05T14:19:41.1976154Z",
+          "reason": "Obsolete frozen candidate already failed an independent-quality or terminal mechanical gate; retain artifacts and prioritize fresh candidate."
+        },
+        {
+          "pid": 14944,
+          "hash": "c919c20d20c24747dc7f82083fd05341486f88e5ae34a95e849dd451cadc0b24",
+          "stoppedAt": "2026-10-05T14:19:41.2754542Z",
+          "reason": "Obsolete frozen candidate already failed an independent-quality or terminal mechanical gate; retain artifacts and prioritize fresh candidate."
+        }
+      ],
+      "artifactsRetained": true,
+      "mechanicalCompletionClaimed": false,
+      "note": "Only processes identified by this exact plan hash, evaluation-script name and creation time were stopped. Current candidate v8 was excluded. In-flight exchanges may remain incomplete due to cancellation.",
+      "rawAuditFile": "contract-matrix-v3-cancelled-evidence-summary.json",
+      "rawAuditAtCancellation": {
+        "pairs": 2637,
+        "httpErrors": 285,
+        "failed": 7,
+        "incomplete": 5,
+        "hashMismatches": 0,
+        "knownTokens": 25011721,
+        "inputMismatches": 0,
+        "nativeManifests": 558,
+        "manifestMismatches": 0,
+        "legalPacketMismatches": 0,
+        "committedOutputMismatches": 0
+      },
+      "frozenSourceDrift": []
+    },
+    {
+      "planHash": "af73d4c31f519adb6646706cc36bb803c897cec3d402eabdc20ebe61e31a231e",
+      "status": "cancelled_after_known_failure",
+      "reason": "Terminal false rejection of valid Defence acceptance of actual Crown concession.",
+      "processStopRecords": [
+        {
+          "pid": 38572,
+          "hash": "af73d4c31f519adb6646706cc36bb803c897cec3d402eabdc20ebe61e31a231e",
+          "stoppedAt": "2026-10-05T14:20:29.4583909Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        },
+        {
+          "pid": 65240,
+          "hash": "af73d4c31f519adb6646706cc36bb803c897cec3d402eabdc20ebe61e31a231e",
+          "stoppedAt": "2026-10-05T14:20:29.5322811Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        }
+      ],
+      "artifactsRetained": true,
+      "mechanicalCompletionClaimed": false,
+      "note": "Only processes identified by this exact plan hash, evaluation-script name and creation time were stopped. Current candidate v8 was excluded. In-flight exchanges may remain incomplete due to cancellation.",
+      "rawAuditFile": "contract-matrix-v4-cancelled-evidence-summary.json",
+      "rawAuditAtCancellation": {
+        "pairs": 2167,
+        "httpErrors": 330,
+        "failed": 5,
+        "incomplete": 12,
+        "hashMismatches": 0,
+        "knownTokens": 18422016,
+        "inputMismatches": 0,
+        "nativeManifests": 64,
+        "manifestMismatches": 0,
+        "legalPacketMismatches": 0,
+        "committedOutputMismatches": 0
+      },
+      "frozenSourceDrift": []
+    },
+    {
+      "planHash": "277818716e75057267c96140ddf156ec5b855bfc993c2aa163d844affb206309",
+      "status": "cancelled_after_known_failure",
+      "reason": "Accepted invented collective source purpose and personal-observation extent.",
+      "processStopRecords": [
+        {
+          "pid": 64484,
+          "hash": "277818716e75057267c96140ddf156ec5b855bfc993c2aa163d844affb206309",
+          "stoppedAt": "2026-10-05T14:20:29.6648332Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        },
+        {
+          "pid": 43688,
+          "hash": "277818716e75057267c96140ddf156ec5b855bfc993c2aa163d844affb206309",
+          "stoppedAt": "2026-10-05T14:20:29.7378113Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        }
+      ],
+      "artifactsRetained": true,
+      "mechanicalCompletionClaimed": false,
+      "note": "Only processes identified by this exact plan hash, evaluation-script name and creation time were stopped. Current candidate v8 was excluded. In-flight exchanges may remain incomplete due to cancellation.",
+      "rawAuditFile": "contract-matrix-v5-cancelled-evidence-summary.json",
+      "rawAuditAtCancellation": {
+        "pairs": 1739,
+        "httpErrors": 272,
+        "failed": 8,
+        "incomplete": 14,
+        "hashMismatches": 0,
+        "knownTokens": 13440481,
+        "inputMismatches": 0,
+        "nativeManifests": 0,
+        "manifestMismatches": 0,
+        "legalPacketMismatches": 0,
+        "committedOutputMismatches": 0
+      },
+      "frozenSourceDrift": []
+    },
+    {
+      "planHash": "97fe1ca79f8296b43793b27d0cfaaca6bfbe42c94d0ca414c8a4ede611fbb9bf",
+      "status": "cancelled_after_known_failure",
+      "reason": "Accepted broadened token-knowledge claim at later-exclusion-2 actor5.",
+      "processStopRecords": [
+        {
+          "pid": 55804,
+          "hash": "97fe1ca79f8296b43793b27d0cfaaca6bfbe42c94d0ca414c8a4ede611fbb9bf",
+          "stoppedAt": "2026-10-05T14:20:29.8585210Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        },
+        {
+          "pid": 33644,
+          "hash": "97fe1ca79f8296b43793b27d0cfaaca6bfbe42c94d0ca414c8a4ede611fbb9bf",
+          "stoppedAt": "2026-10-05T14:20:29.9213629Z",
+          "reason": "Obsolete frozen candidate failed quality or mechanics; retained artifacts, prioritize fresh candidate."
+        }
+      ],
+      "artifactsRetained": true,
+      "mechanicalCompletionClaimed": false,
+      "note": "Only processes identified by this exact plan hash, evaluation-script name and creation time were stopped. Current candidate v8 was excluded. In-flight exchanges may remain incomplete due to cancellation.",
+      "rawAuditFile": "contract-matrix-v7-cancelled-evidence-summary.json",
+      "rawAuditAtCancellation": {
+        "pairs": 900,
+        "httpErrors": 168,
+        "failed": 0,
+        "incomplete": 14,
+        "hashMismatches": 0,
+        "knownTokens": 5576054,
+        "inputMismatches": 0,
+        "nativeManifests": 0,
+        "manifestMismatches": 0,
+        "legalPacketMismatches": 0,
+        "committedOutputMismatches": 0
+      },
+      "frozenSourceDrift": []
+    }
+  ],
+  "postStopVerification": "Zero matching obsolete evaluation Node processes remained; v8 session9238 confirmed live.",
+  "auditLimit": "Transport failures and incomplete exchanges are retained as reported. Zero mismatches on available bytes/manifests does not establish missing or interrupted outputs."
+}

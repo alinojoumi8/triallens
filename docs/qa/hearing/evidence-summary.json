@@ -1,0 +1,527 @@
+[
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-03c0fe8e7585919dfb9e9e768ed4265ef19d8dedf2083354f41da785aa2906ed-1791072067235",
+    "planHash": "03c0fe8e7585919dfb9e9e768ed4265ef19d8dedf2083354f41da785aa2906ed",
+    "controls": 36,
+    "matches": 34,
+    "actors": 0,
+    "accepted": 0,
+    "firstAccepted": 0,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 37,
+      "providerInputCharacters": 774913,
+      "actualTokens": 186056,
+      "actualCost": null,
+      "elapsedMs": 478172.9967
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 186056,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 37,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-0bb68611c2f224124ddfecba5b1d1ddf42f794c37fbda6bb508b07527dd881cf-1791074005790",
+    "planHash": "0bb68611c2f224124ddfecba5b1d1ddf42f794c37fbda6bb508b07527dd881cf",
+    "controls": 38,
+    "matches": 38,
+    "actors": 42,
+    "accepted": 42,
+    "firstAccepted": 38,
+    "acceptedAfterRepair": 4,
+    "failedActors": [],
+    "hearings": [
+      {
+        "variant": "Rowan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecision": true
+        },
+        "manualContinuations": []
+      },
+      {
+        "variant": "Morgan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecision": true
+        },
+        "manualContinuations": []
+      }
+    ],
+    "usage": {
+      "providerHttpCalls": 130,
+      "providerInputCharacters": 3113395,
+      "actualTokens": 774008,
+      "actualCost": null,
+      "elapsedMs": 1558437.442
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 774008,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 130,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 38,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": []
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-192cf750a7de568e50ea2ff8b247e78e86f5c39d1d2a5d4e51ae05169fcc9ee8-1791068675044",
+    "planHash": "192cf750a7de568e50ea2ff8b247e78e86f5c39d1d2a5d4e51ae05169fcc9ee8",
+    "controls": 24,
+    "matches": 24,
+    "actors": 19,
+    "accepted": 17,
+    "firstAccepted": 12,
+    "acceptedAfterRepair": 5,
+    "failedActors": [
+      {
+        "id": "hearing-Rowan-actor-11",
+        "stage": "witness_answer",
+        "error": "Source verification rejected the generated response. See its factual-check audit."
+      },
+      {
+        "id": "hearing-Morgan-actor-19",
+        "stage": "witness_answer",
+        "error": "Source verification rejected the generated response. See its factual-check audit."
+      }
+    ],
+    "hearings": [
+      {
+        "variant": "Rowan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true
+        },
+        "error": "Source verification rejected the generated response. See its factual-check audit.",
+        "manualContinuations": [
+          "direct"
+        ]
+      },
+      {
+        "variant": "Morgan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true
+        },
+        "error": "Source verification rejected the generated response. See its factual-check audit.",
+        "manualContinuations": []
+      }
+    ],
+    "usage": {
+      "providerHttpCalls": 80,
+      "providerInputCharacters": 1628312,
+      "actualTokens": 468581,
+      "actualCost": null,
+      "elapsedMs": 1242557.5388
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 468581,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 80,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 14,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-2ec22709819e38ce5cd29cc400d3e4aabc60c5535037c99b423cdc9c5c4e8545-1791066304801",
+    "planHash": "2ec22709819e38ce5cd29cc400d3e4aabc60c5535037c99b423cdc9c5c4e8545",
+    "controls": 12,
+    "matches": 12,
+    "actors": 22,
+    "accepted": 20,
+    "firstAccepted": 17,
+    "acceptedAfterRepair": 3,
+    "failedActors": [
+      {
+        "id": "hearing-Rowan-actor-1",
+        "stage": "crown_opening",
+        "error": "Source verification rejected the generated response. See its factual-check audit."
+      },
+      {
+        "id": "hearing-Morgan-actor-22",
+        "stage": "defence_rebuttal",
+        "error": "MiniMax request timed out."
+      }
+    ],
+    "hearings": [
+      {
+        "variant": "Rowan",
+        "checks": {},
+        "error": "Source verification rejected the generated response. See its factual-check audit.",
+        "manualContinuations": []
+      },
+      {
+        "variant": "Morgan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true
+        },
+        "error": "MiniMax request timed out.",
+        "manualContinuations": []
+      }
+    ],
+    "usage": {
+      "providerHttpCalls": 68,
+      "providerInputCharacters": 1645955,
+      "actualTokens": null,
+      "actualCost": null,
+      "elapsedMs": 1709887.6088
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 521486,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 67,
+      "failedExchanges": 1,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 19,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-602c1bce396a466b7f9920998253303005c76f904de256488aecc19cb9392ea2-1791065914858",
+    "planHash": "602c1bce396a466b7f9920998253303005c76f904de256488aecc19cb9392ea2",
+    "controls": 12,
+    "matches": 11,
+    "actors": 0,
+    "accepted": 0,
+    "firstAccepted": 0,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 12,
+      "providerInputCharacters": 153788,
+      "actualTokens": 38729,
+      "actualCost": null,
+      "elapsedMs": 106093.4534
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 38729,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 12,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-62e247bd19767ec804a3aa16b87d4244986d19aa0a0a0d9efec652390086df90-1791072689421",
+    "planHash": "62e247bd19767ec804a3aa16b87d4244986d19aa0a0a0d9efec652390086df90",
+    "controls": 36,
+    "matches": 36,
+    "actors": 17,
+    "accepted": 16,
+    "firstAccepted": 16,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 68,
+      "providerInputCharacters": 1498033,
+      "actualTokens": 357868,
+      "actualCost": null,
+      "elapsedMs": 718021.4260999999
+    },
+    "usageIsFinal": false,
+    "knownReportedTokenSum": 363875,
+    "independentStop": {
+      "state": "canceled_after_independent_review_failure",
+      "candidateStrictStatus": "failed",
+      "remainingVariantsUnexecuted": [
+        "Morgan"
+      ],
+      "reason": "Automated acceptance overstated limited-use ruling as foreclosing all further inquiry; neutral questions remain permitted.",
+      "actorId": "hearing-Rowan-actor-14"
+    },
+    "rawIntegrity": {
+      "pairs": 69,
+      "failedExchanges": 0,
+      "incompleteExchanges": 1,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-82b5fde962f43fe478df0474e928e827366b309963f915924337a3b0584be414-1791066127937",
+    "planHash": "82b5fde962f43fe478df0474e928e827366b309963f915924337a3b0584be414",
+    "controls": 12,
+    "matches": 11,
+    "actors": 0,
+    "accepted": 0,
+    "firstAccepted": 0,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 12,
+      "providerInputCharacters": 162824,
+      "actualTokens": 40163,
+      "actualCost": null,
+      "elapsedMs": 98494.3736
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 40163,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 12,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-84dead2462de637c42ac2c718f286d0a0aa2645b78ed265a6389516a96fffd3b-1791073515367",
+    "planHash": "84dead2462de637c42ac2c718f286d0a0aa2645b78ed265a6389516a96fffd3b",
+    "controls": 38,
+    "matches": 37,
+    "actors": 0,
+    "accepted": 0,
+    "firstAccepted": 0,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 38,
+      "providerInputCharacters": 836457,
+      "actualTokens": 191358,
+      "actualCost": null,
+      "elapsedMs": 412916.5219
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 191358,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 38,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-8ed21ef7a889e270c37936ecf22df3648dfa215fb84a55ce741858fbd5d84cc1-1791068256811",
+    "planHash": "8ed21ef7a889e270c37936ecf22df3648dfa215fb84a55ce741858fbd5d84cc1",
+    "controls": 24,
+    "matches": 23,
+    "actors": 0,
+    "accepted": 0,
+    "firstAccepted": 0,
+    "acceptedAfterRepair": 0,
+    "failedActors": [],
+    "hearings": [],
+    "usage": {
+      "providerHttpCalls": 24,
+      "providerInputCharacters": 416549,
+      "actualTokens": 94708,
+      "actualCost": null,
+      "elapsedMs": 178614.78989999997
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 94708,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 24,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 0,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\scoped-hearing\\live-f7c8bf3ff376e87a92933b65ec825d8d4006ae3a4311fdb58669811471cc06ce-1791070199940",
+    "planHash": "f7c8bf3ff376e87a92933b65ec825d8d4006ae3a4311fdb58669811471cc06ce",
+    "controls": 26,
+    "matches": 26,
+    "actors": 42,
+    "accepted": 42,
+    "firstAccepted": 38,
+    "acceptedAfterRepair": 4,
+    "failedActors": [],
+    "hearings": [
+      {
+        "variant": "Rowan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecision": true
+        },
+        "manualContinuations": []
+      },
+      {
+        "variant": "Morgan",
+        "checks": {
+          "openings": true,
+          "restartNoDuplicate": true,
+          "instructionGate": true,
+          "closingsReached": true,
+          "allExaminations": true,
+          "sustainedAndReplaced": true,
+          "witnessIsolation": true,
+          "privateIsolation": true,
+          "manifestInputs": true,
+          "noDecision": true
+        },
+        "manualContinuations": []
+      }
+    ],
+    "usage": {
+      "providerHttpCalls": 121,
+      "providerInputCharacters": 2599799,
+      "actualTokens": 686039,
+      "actualCost": null,
+      "elapsedMs": 1306132.2955
+    },
+    "usageIsFinal": true,
+    "knownReportedTokenSum": 686039,
+    "independentStop": null,
+    "rawIntegrity": {
+      "pairs": 121,
+      "failedExchanges": 0,
+      "incompleteExchanges": 0,
+      "hashMismatches": 0,
+      "inputMismatch": 0,
+      "nativeManifests": 38,
+      "manifestMismatch": 0,
+      "legalPacketMismatch": 0,
+      "answersChanged": 0
+    },
+    "currentSourceDrift": [
+      "samples/courtroom-realism/hearing-checks.ts",
+      "samples/courtroom-realism/hearing-fixture.ts",
+      "scripts/evaluate-hearing.ts",
+      "server\\grounding.ts",
+      "server\\minimax.ts"
+    ]
+  }
+]

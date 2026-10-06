@@ -1,0 +1,22 @@
+{
+  "run": "tmp/qa/courtroom/jury-current-concurrence/live-030d44574b1573c3661733b81680cc5c00b2e44fb60f16e3197845f3dbdb5c8e-1791215843481",
+  "reviewer": "Codex independent source comparison",
+  "items": [
+    {
+      "id": "captured-acknowledgment-positive",
+      "canonicalRequestHash": "fd72cf4abe9996752620a9dddd84dbd9af9a8bea59286ec6f95b29d87779b69e",
+      "resultHash": "7f2883636bee5fdefc4c2638c6c2c1b8149fc6522999f5543ce241d8af88a4c0",
+      "assessment": "Pass: actual Crown public acknowledgment and both attributed disputed accounts preserved; current sufficiency assessment is not a new binding permission limit.",
+      "status": "passed_with_scope_notes",
+      "scope": "Manually read complete generated content/rationale/change fields against captured actual source texts, permission and public history. Not inferred from checker verdict."
+    },
+    {
+      "id": "captured-current-agreement-positive",
+      "canonicalRequestHash": "81040f2b0bf59a7b4b6380ea4ccd9f71e844c06eba164c3a1370bf315f974958",
+      "resultHash": "7f58657ef6108c4785ef3f6bc65e35b5c6ccbea654512fd5b94045a56bbb7970",
+      "assessment": "Pass: present Defence adopts actual Crown burden-unmet assessment, preserving express uncertainty about receipt. No invented earlier mutual agreement.",
+      "status": "passed_with_scope_notes",
+      "scope": "Manually read complete generated content/rationale/change fields against captured actual source texts, permission and public history. Not inferred from checker verdict."
+    }
+  ]
+}

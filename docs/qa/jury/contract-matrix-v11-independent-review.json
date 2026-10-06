@@ -1,0 +1,1255 @@
+{
+  "planHash": "2808bf9f5fcc9eacabb78caf2524b5ee8d9cd93d422f0802042d2064d2321861",
+  "status": "partial_review_no_confirmed_material_failure",
+  "reviewedCount": 78,
+  "scope": "Independent source review of78 accepted outputs; final-ballot causality/full trial completeness pending.",
+  "reviewed": [
+    {
+      "id": "conflicting-witnesses-1-actor-1",
+      "inputFileHash": "9b6a8d9a16074f787a485c0d0ad4d872a9f33fc66ddddf970ac42e08b1708783",
+      "canonicalInputHash": "e596e2827f2bde68370d246c50c46fa0eae09f54b837c7438c022de1f47ed613",
+      "canonicalInputMatches": true,
+      "resultHash": "ca0b90b699ec6b2f65256f87fd1c653deb86993addf381490404884dc2407f58",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-1",
+      "inputFileHash": "f7e80ebea0e482419b8f25cccada856f06792d060467036662db872c39aec0e7",
+      "canonicalInputHash": "423447f41b1e0dbc3a90394ee3c24f445d65a5c492a15a1559815bbb946b308a",
+      "canonicalInputMatches": true,
+      "resultHash": "5c7b07f5bcf203c25a5019db5d91e85b192c9b41bd1457fe08a6efb348e312aa",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-1",
+      "inputFileHash": "34eec943bdc6740da493e07a5dc88b6403084ae1a07d3434e6cfcdb4fef03a58",
+      "canonicalInputHash": "2f61614f04a09c7d1e1cf2df874a53c752810aa18575e062d6c5688b74c47a45",
+      "canonicalInputMatches": true,
+      "resultHash": "4c037f261cc01a6bc5e2a609a7d277894dcfd38f3ac5e2301d82da33996f3ef5",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": [
+        "As a matter of certainty and attributed accounts alone wording could imply an excessive standard or universal proof ban; present response still permits jury assessment and does not affirm a binding restriction."
+      ]
+    },
+    {
+      "id": "hearing-Morgan-actor-1",
+      "inputFileHash": "73756ce9355e112bce7fc2758b96ef253bf72bee9cf41e91bb27fdf7cb5068d9",
+      "canonicalInputHash": "f49bcfbce582357e5d4115d017ac272ab9ac579faf9635aa320f3ba7540e1e67",
+      "canonicalInputMatches": true,
+      "resultHash": "f80ad16a7291b545f3492d6327aa9ae90f240e3c941032b89a52f119598bc0e0",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-1",
+      "inputFileHash": "a85f7afe9d69abf9d2a82fde99eb824617c5f58973a31297fdffe0381610b6ee",
+      "canonicalInputHash": "73100d9adfebe0bee2df5d6aea9c7c85ffa202d2254e08f9acc34815d7fecffe",
+      "canonicalInputMatches": true,
+      "resultHash": "0f61864f1139f812c6c6c6955dfb4451fbc59f94c2c0630d94d44f41e78ac4ee",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-1",
+      "inputFileHash": "d87ba84679b7bd86679191a3257dda4742cf4bc05d25bb2156077ebd4401d6f3",
+      "canonicalInputHash": "ca7f8e773be8abc9c46941e9d96b24bd3ee34c072bf586a920a78a9d035cb23e",
+      "canonicalInputMatches": true,
+      "resultHash": "417b2b5b7141d213fd07afb81d62c531e6414a612bee2c0ea8090949a74419c1",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-1",
+      "inputFileHash": "9094a7fe278016b8ae063bae63ffeb4266e1a30340af700cea7b4be47430c27a",
+      "canonicalInputHash": "da5bc5e88b23f1b468a43ff7f3d25caf0c7b28ded247a4d199161f3ef8f01392",
+      "canonicalInputMatches": true,
+      "resultHash": "fceb6b802fd6b9a19ef8e7bfc5f41e6fad9e9a5040d9bfc06c5acec33c12ad07",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-1",
+      "inputFileHash": "9dbcf965917aa1fe08217bb4834a5aedc11f9ad654fbeca8f77425edb202ab30",
+      "canonicalInputHash": "04ba41caf79c5dc6cda2fba6323b568d3ff2177dd0aad1d390fc89c112da10fd",
+      "canonicalInputMatches": true,
+      "resultHash": "be9e42fc287b1c4e857ac0a1b854aca5a6e9337dd2b5cc69f9d61e184e81f9f4",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": [
+        "Does not address contents can be read as no contents-related statement, although immediately preceding text accurately records contents uncertainty; flag ambiguous scope rather than confirm a false premise."
+      ]
+    },
+    {
+      "id": "missing-essential-proof-3-actor-1",
+      "inputFileHash": "333311fb2f262b442201f455871640b912f2adbbbdee18a885d4259502db3bbc",
+      "canonicalInputHash": "075eb5dc6f7488384692fd4c1c24010125e695831a6bcda2584b89d2f10e8451",
+      "canonicalInputMatches": true,
+      "resultHash": "5d99ecb0a3f0b47d3d54be248f0ba261403d86cdc43ba6a41438ec71d6a67af8",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-1",
+      "inputFileHash": "89a4155f9ede7cfb2615bf8008466ec46648e7d43988bee0630707bacd6ec3cd",
+      "canonicalInputHash": "921e6418fd3a66609389b09e238e0d711aac6850043babf530110381c4e1399a",
+      "canonicalInputMatches": true,
+      "resultHash": "ff196283e6facc45041c129629e84ad2084116196705f1808c182f9011cbe1d9",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-2-actor-1",
+      "inputFileHash": "2c20d703f3c82f9f43f1a92e6386b05ccde7286800a161d0aed291a9f0e91e5c",
+      "canonicalInputHash": "ded0f9d36de35d177dd2d02ab276513f2efab7d2dd27d02d740bf2a278cef135",
+      "canonicalInputMatches": true,
+      "resultHash": "270ba38cf71cd1c50f97183dc3bd66c784a4ea2637c843f11326100b6469ef7f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-1",
+      "inputFileHash": "243cda6cf8840e9b941ff3ddff9b74c4156e5bc77e3b012fb39eee9ffd788d40",
+      "canonicalInputHash": "6762b0cb54274b20cc9e4594d274f720f271853d0034afd6aa6eafe509588f50",
+      "canonicalInputMatches": true,
+      "resultHash": "193f76b29f1cda360639d3058cac0e45840e8cbd1d802fd31e7eff43f8b5e466",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against exact source observation/knowledge, current source purposes and fictional condition/burden. Crown present advocacy remains distinguished from invented procedural restrictions. No ballot causal metadata occurs in this subset.",
+      "wordingRisks": [
+        "Limited-use instruction not proof of physical handover could be read as source prohibition; context is current unknown-receipt account, so no blanket purpose restriction confirmed."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-2",
+      "inputFileHash": "c4db4c5c8481f936a0561703ec674b14c5b36c1534cc58770e7e59d5b79657df",
+      "canonicalInputHash": "cea8f65fc4766a5c72bb51f67aaea6712e55186de00e738eff6256f2da5092fb",
+      "canonicalInputMatches": true,
+      "resultHash": "5436db0faa7a95b1e8f199f0a36c0daa57403006555fe0931fe2dbff8b6973aa",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-3",
+      "inputFileHash": "362446c8650e3963760211d26b999273df9102d9a017d7e0f58236c7f971e145",
+      "canonicalInputHash": "90769805f8b6346ce463185c32f1697ea9a0ae32420226e72e8873e33bd656e4",
+      "canonicalInputMatches": true,
+      "resultHash": "8af2726acb4bda302dd92def1476037b24712aac886e9acd030d79d872786b7d",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-2",
+      "inputFileHash": "f9716fbb5819381bf97271955355aec0374af430a2bb30669e1a0266a9c83310",
+      "canonicalInputHash": "9056ac20197e101df157c2cfa60f38f76255d5874acfd7359ff19a9fdbc0b51a",
+      "canonicalInputMatches": true,
+      "resultHash": "1697f0866fa08207e5729db8bd5891f4493a82eb144f6d13e2d45d6e7afbf98f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": [
+        "Absence of physical evidence and corroboration qualified to supplied record; underlying source classification remains unknown."
+      ]
+    },
+    {
+      "id": "hearing-Morgan-actor-2",
+      "inputFileHash": "1b75c1fcb3d534c2ec42b08c4e30f023d08cad8366d68671759497411cbc9873",
+      "canonicalInputHash": "86cdf91c6997c8609328ba3c972f506e138e50eb81e294ae051e9884625a2a21",
+      "canonicalInputMatches": true,
+      "resultHash": "2c7b0cc2afa8d19f2e9a192cbc75d1bbc2f4b83f1d282d02100f799ce025fcd6",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Morgan-actor-3",
+      "inputFileHash": "f73ac05fae033f2a34fa50ebc53110bdae6110dcc188e2070db2221441fcef7a",
+      "canonicalInputHash": "237e3e21b8f03a146ab69a715e07091629f6de245e086fc062939a3f8530d777",
+      "canonicalInputMatches": true,
+      "resultHash": "3499afe0d7fd0a1a6f3d320e838e627589e30d796891467ffaffb9c587c94323",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-2",
+      "inputFileHash": "dc6345d22bd306482599ee6b09f80574ffdfccc72f47bf3c56dde5c527bd0ac3",
+      "canonicalInputHash": "ae3f9f196a3763ff79058e680cc6a11937afb3cf0cd1e1a96fd7eaa96a4be303",
+      "canonicalInputMatches": true,
+      "resultHash": "942155f962a3855e4f62b33ef3b0abf87237928a65c7319596fafb8ae44e4c76",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-3",
+      "inputFileHash": "81c08f97706a330dd523cfd2a8b4f506541a17154d34f8fd805a778def5f9587",
+      "canonicalInputHash": "803b6d1b2daa79dfc131bb1da6843d24885a8fcbb69bce01dc32c986e417571d",
+      "canonicalInputMatches": true,
+      "resultHash": "8c05457a55df9fa6cb6ce0187226b35f05f50da5233199e08135945390fa57ec",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-2",
+      "inputFileHash": "98948933fecdcd87dd8a98c3c080221aef2877b64473fe77991a467ac03c9946",
+      "canonicalInputHash": "9f5d9d1532031e069ad19fdeb95212138dd7fee68721271dfe75b6421a45c64f",
+      "canonicalInputMatches": true,
+      "resultHash": "eff5571050144e1b2c3fdb46eef674643980b87e4f29cd2fc56f387707b48f6b",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-3",
+      "inputFileHash": "d78f222d162cf11dd3504e142fe99b3e3b7b947a1dd3016b9abb06345029ec7d",
+      "canonicalInputHash": "51390a785583fc4defb99db3501b8a2f31ec3283069567c021936b4b6c636c04",
+      "canonicalInputMatches": true,
+      "resultHash": "cac04a8237c9294a64221d9fe0e7f3e5c2fe09f8f5ace1d601ce28471f7866d5",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-2",
+      "inputFileHash": "879e0ba879a29baae2985dbfec9166d0356b8155ada4df11cbc66f9d49f5400f",
+      "canonicalInputHash": "bfcf4beaed2ee9c70888340ad642759a5032cc2ddc5b37ca8ed28835f102208e",
+      "canonicalInputMatches": true,
+      "resultHash": "b0744222d9821bbd400d79338d91cc675fa63db4d766efb15f15d0ef042b408f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-3",
+      "inputFileHash": "a4839964ff7fc1c20be43feefd4a88fdeca00058ad453f46596c37e2af41d26f",
+      "canonicalInputHash": "ccf3fb44a905aad6fcbfbc457aaaabbada0a6aefa034ea9d02af8c9bcfadf6ef",
+      "canonicalInputMatches": true,
+      "resultHash": "cb38bc03cc51238c5928fec8105fe42e7fbc30dc3f9d24f86bd6c2ba608b053f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-1",
+      "inputFileHash": "553c74b8b39e15e4681eda388105ae0a3957aa57a19f79461351f9aeba712444",
+      "canonicalInputHash": "1e630174fcdf216fb92c95b4344c8c9d0fadee4430414e343667170aefbd52b6",
+      "canonicalInputMatches": true,
+      "resultHash": "27523bb17edc6db3c39fcb25910ed502a04a957971a2e0d8dc32284090d72b64",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-2",
+      "inputFileHash": "632c07f7b696720e70cc4802450c61677e20d484b75934a2016e6debc545a1cd",
+      "canonicalInputHash": "ec5c9cad93837edbab463c2ca0548c835e1f40092c451034c6273b9b9641f5fa",
+      "canonicalInputMatches": true,
+      "resultHash": "7bb85e8ddd8c460d28b72833ecee081df15bb63cb1a676a0869528d6bdb38643",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-2",
+      "inputFileHash": "a9604e76fce181c367d2d02a8d051c6fc72bc51a88b2e484cbea340afe5d0083",
+      "canonicalInputHash": "eab2c63ac1c0e96cff877d057f73a108c8a86c22a7ff4b9a291e0eaeb194a275",
+      "canonicalInputMatches": true,
+      "resultHash": "56fbc399db437bc45cf80bd19c99a8f7597ebe003ef73bf44385ba04c791912e",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": [
+        "Does not address contents/element is ambiguous alongside correctly quoted unknown contents; no confirmed denial that a contents-uncertainty statement exists."
+      ]
+    },
+    {
+      "id": "missing-essential-proof-1-actor-3",
+      "inputFileHash": "784884b885df726bff6b265a3581d526f6fc879fcc9477eb8a01c7e846fd1fc8",
+      "canonicalInputHash": "31fe3bc94ea0caade69d9a4880dc24dba6c08e7e7e3e7ec73eef1d87a1ef93b6",
+      "canonicalInputMatches": true,
+      "resultHash": "2df8368106ad96c8f2efdd9c2ce9c72a8d5128be94484c2fce08ffe2fd6c1ee7",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Does not address contents/element is ambiguous alongside correctly quoted unknown contents; no confirmed denial that a contents-uncertainty statement exists."
+      ]
+    },
+    {
+      "id": "missing-essential-proof-2-actor-1",
+      "inputFileHash": "0098fb927b600864b8f81220d6cff1f987bf333f8a33cca6d03142be5ed24fe7",
+      "canonicalInputHash": "916376f446d3f120e4104dc232c4bd1823a319c34869a62408c9c3eba847491f",
+      "canonicalInputMatches": true,
+      "resultHash": "e3c474eaabcce4826f148003af245ce7f2100377de82a746ebcc1a20baeb1d43",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-2",
+      "inputFileHash": "1f8dd5adee690c1bcfd2569dce625cb1e2dd3dea1160b2b19c2a9af71e36a682",
+      "canonicalInputHash": "10a6a7380f820c7c12474f82c3b63adde4fe05847c4936e47811ddc73996d519",
+      "canonicalInputMatches": true,
+      "resultHash": "a4d283452359192a03528e35cbf708aed4b9927e57c156add6f290646d6b7aac",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-3",
+      "inputFileHash": "0fdc2da34d8e611855ac0b291180ca43c3d5a320f894602166418b3042047f92",
+      "canonicalInputHash": "ebc9f9ba03373f92f674dce3be08c5ed94b3e3a69f0ea0be3d0d9916f957562f",
+      "canonicalInputMatches": true,
+      "resultHash": "4f3b149260c690271a766bf66b2f507aa3895300141fe3e439801aac252a03fb",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-2",
+      "inputFileHash": "b32f9ce41e7a0e1ac4bcc9d5e3947ca5876288a67b1217d45d2d0269e618afe7",
+      "canonicalInputHash": "271b6723ac3801ba9ff2f96e188f321a52e47725a0d2c524456a0218f78b046a",
+      "canonicalInputMatches": true,
+      "resultHash": "ec450f5004980d12df7fe479cdeef4034b4e12ee4c5995af2d10994a77b472e5",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": [
+        "Does not prove physical handover describes this unknown-receipt account; avoid reading as universal ban on assessment-permitted source use."
+      ]
+    },
+    {
+      "id": "struck-testimony-3-actor-3",
+      "inputFileHash": "37a64d6c80982dd35add3056f71a2bcb14b0a05a90c9da9198b2d4734c5b8059",
+      "canonicalInputHash": "6eeb677bf1dd6135881297b7bbdb3ee5b1f125b3928402b1ce9e4f31651661cc",
+      "canonicalInputMatches": true,
+      "resultHash": "a605f2795bd22ccf1003a69d094aa5fcbcf865da9b7861842af761a8d4824775",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against actual source observations and epistemic qualifications, current source-use permissions/condition/burden, author role and actual visible submissions/questions. Initial ballots preserve source and instruction links; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-4",
+      "inputFileHash": "5d8f270ae08cf569994c71835be3c39db1521d0885abdb3d0b787e352449619a",
+      "canonicalInputHash": "194211a37fae3e969266ef85d0f66c96f8d489a32688c897834fb8d92c3d8bbb",
+      "canonicalInputMatches": true,
+      "resultHash": "969cba08f99d0a7066a973fa254646b083d3dbca22702f9b0c5afdbe247efa19",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Direct conflict/receipt moment is evidentiary assessment; no duration or universal nonoccurrence inferred from the non-observation statement."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-5",
+      "inputFileHash": "1f6cf90574a55ca6baf2c91279048cb54d9e3f8a6f68ce401f615fb04d308c7e",
+      "canonicalInputHash": "fe6b35ef361db5489baf7623816e2bdf5396e3b42abc9f0e922ec6927d44cd79",
+      "canonicalInputMatches": true,
+      "resultHash": "7178928e233bc383e0560990b293aff055ffcd4e80dd432c9f4f1b1e460e09b9",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Direct conflict/receipt moment is evidentiary assessment; no duration or universal nonoccurrence inferred from the non-observation statement."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-3",
+      "inputFileHash": "9e803c11a0587b6e139d388d2dd693ff92800c5efc0a37358204b37be3fc24ca",
+      "canonicalInputHash": "140a2abfef07cae9e16de796853ae7d71574fc68ae68cb91aa875ed15c5fa790",
+      "canonicalInputMatches": true,
+      "resultHash": "05f1eb1a7760f36c89a7e2f86db33c4654d47faf05cd1b7cabd2143742c58e73",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Direct conflict/receipt moment is evidentiary assessment; no duration or universal nonoccurrence inferred from the non-observation statement."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-4",
+      "inputFileHash": "7551c34eea651a4ee2a9854fcd3a1ecebcdf86d63fad18a24d21ec44efca0b96",
+      "canonicalInputHash": "35c95219b04883a8ad2d74331c268d7bce9c5673cbbfde80fd49ab3bb352d704",
+      "canonicalInputMatches": true,
+      "resultHash": "4e60215b8021eebf2b517a1d37518ca6ac16a8bd367f8c1d6096a4cba50c9668",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Direct conflict/receipt moment is evidentiary assessment; no duration or universal nonoccurrence inferred from the non-observation statement."
+      ]
+    },
+    {
+      "id": "hearing-Morgan-actor-4",
+      "inputFileHash": "42ae971253745b885b9a7702f061f8351e6fe31ba4bd5142c24d7f670e270702",
+      "canonicalInputHash": "c1ebf3ec416b3f01ddbf4c55940a84507e629bb5f21e1bb1cb1372e5a6156aa1",
+      "canonicalInputMatches": true,
+      "resultHash": "2feb02171df2bcf2541a6336c1e8640e8f6df7d60d118008aa1a921731ca5e08",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Morgan-actor-5",
+      "inputFileHash": "5c0f946e539665384367348baa3f9a74e21e20263a9ef263184b8f8fa440f0b0",
+      "canonicalInputHash": "227948465f3c9c654d306032ffe1bc4ec26e5585f030a2b864dd3647c378bd17",
+      "canonicalInputMatches": true,
+      "resultHash": "2781e6209b5550340320e3ea8ce97911b47e28906b1de910f25e813d97c39536",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-4",
+      "inputFileHash": "a51d77e92d42eff4502fac344504d78d4a0d7e59b658e7423c471f194647b60a",
+      "canonicalInputHash": "36f74975530b3d3f96fba9cd71f7a10fd12408579754d998f5acee5db20a4ce6",
+      "canonicalInputMatches": true,
+      "resultHash": "ac8b11228e104b1fe352c0619668b6e2bdebff1680f6299e1cc0b8d7403851e4",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-5",
+      "inputFileHash": "66063eb902784a4529aee04ed6f281d710994d657701f39eff68fbda06dd7473",
+      "canonicalInputHash": "e78aeed5405f91ce9576de8cd41bc91a47ab5de3757f464c15a9c8c92cc78d32",
+      "canonicalInputMatches": true,
+      "resultHash": "098802c38b7a9e72a5766bc08e1b72c275a487c5656132c2cf66dc69fcd853cc",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-4",
+      "inputFileHash": "997103cb74837be368a1530311f1892992168198a8f507638fd30bf459efd86b",
+      "canonicalInputHash": "e815a3acd6ac0a7df574ae6c5492d5a85237adb5e705d41fadcfcf838b5b2c57",
+      "canonicalInputMatches": true,
+      "resultHash": "4e1abed4f2355a3641d4b2b8cf91152e14bfb4cd0cffc3b7d3fa310a0c9af359",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Express disclaimer of any token receipt omits the epistemic qualifier and risks a denial reading. Content and change explanation explicitly retain unknown receipt; no affirmative nonreceipt is claimed. Retained as ambiguity rather than confirmed factual invention."
+      ]
+    },
+    {
+      "id": "later-exclusion-1-actor-5",
+      "inputFileHash": "0bd639d5046a44f0d7f3bd43317c623b7b07f130109e7880ed14bd1bf195212b",
+      "canonicalInputHash": "0e07fa820ae7b5bae555cd802a2000573971b0383f46a8a1b8091023172342a8",
+      "canonicalInputMatches": true,
+      "resultHash": "671df2a61fdfbaa3b405eb7067ec3096805d92a8e23b4ddc1f505b7a9709c453",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-4",
+      "inputFileHash": "47236ed619db2a28c4f16649378f4d7da2ee04530254bcebab909548f1209d11",
+      "canonicalInputHash": "02bf155356a12e66f508b5708c91c8188ba57d2d52ac4492e34b3918e8c71d49",
+      "canonicalInputMatches": true,
+      "resultHash": "38f972cbea14bf46fb128ec63a5ef36f575146b063cd0e83877c03bf8a93e894",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-5",
+      "inputFileHash": "4c7b74fe53310bc46de5febf905a27f2211b3898f51871e7a9c6c9d8cd21245e",
+      "canonicalInputHash": "d712b90ee4d0c0b09497f85ab9d0a360dfd259cceb66afd4c53d7943160c2c05",
+      "canonicalInputMatches": true,
+      "resultHash": "7f84f9145279bd45c8127341cca945accf71938b7ca0a3a3eeff9577ed4bc9ad",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-3",
+      "inputFileHash": "a89997343b19f8804b2951ec945d8c9aa653a00cf3a999dd0a5cb4bba7c3df09",
+      "canonicalInputHash": "edb6d22284902584302b023481ab5b5cdc9190e2d12f4e6f4f2c7c1dffb6b4a2",
+      "canonicalInputMatches": true,
+      "resultHash": "afa488f4f9aadea3b7e2ddd0719c40406b6671eedb67ec657ec7cf606ac81f28",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-4",
+      "inputFileHash": "e5d2a1f887923fba38a8d3d935fd14724f83d9d0a113b2bd8087e003f846042a",
+      "canonicalInputHash": "0fb0778197c852aecc817078ddbb10cd248951b02a310c9aad5841848becb8d3",
+      "canonicalInputMatches": true,
+      "resultHash": "af724c617bfc198d6a1d1fef407a35871f423908ab0da89e8b6a99741189cf4b",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-4",
+      "inputFileHash": "18c74d38ff6e4f499452eb0f6065dfa0e134113898409e5997f9f7e1ab61dfbd",
+      "canonicalInputHash": "ccef98eead37ed7530cc66c0d8005e63f1331dcd276f69d0a0c6e3edfe9dcbe8",
+      "canonicalInputMatches": true,
+      "resultHash": "77b3058e812e2b41d9235b20be35bc2671188f2b210b98b8e287f0208982cc2f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-5",
+      "inputFileHash": "99d97d9029d70fe37bdcf1c6ba857de138a0b7a8691b8ebdd74023fe48750351",
+      "canonicalInputHash": "b833d45bdd655bd02f565c683b2fa48855a64c2cd05cd3dd0f9057f202b31c6e",
+      "canonicalInputMatches": true,
+      "resultHash": "6430fd29f04568f2204c9d7418557f8aee44edbea4e13cffde7a8ec854cafb13",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-2-actor-2",
+      "inputFileHash": "81daad5075ae60ff2070e47a0637d9527b6a97d7525fe83a3cf2a59c620485cb",
+      "canonicalInputHash": "54253bcfeb3066d8704b7e1ec3bf6e012997572cee3726b992fd555a7a8967a0",
+      "canonicalInputMatches": true,
+      "resultHash": "7419f730d760927837bac5771f1a9084a34e2984a81d444109805e4a3006ad47",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-2-actor-3",
+      "inputFileHash": "b963c9d14abcf7e6349f55b92a38ff0f33e771216019af5877724ffa2f8e32a5",
+      "canonicalInputHash": "d472bd91741fb840292200c67c79bc17cf81f3b5d80bb97632dcf5f2330a8ebe",
+      "canonicalInputMatches": true,
+      "resultHash": "fce077634b3b140466999e4552066accbb4dc32ea3b7edc6aa94fd025208cedc",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-3-actor-2",
+      "inputFileHash": "b2da938285d4f48fb5d24d40ec0a4a59370ece289ae64f0bb3f1b67f92b07b9f",
+      "canonicalInputHash": "e41c534f3941585cc9d0e63d387ee57ee516f7eddb7c6f2dfe6e14ab9de99650",
+      "canonicalInputMatches": true,
+      "resultHash": "f29b0e3104d87960810c5ae41a3cfdbda1ff3968aeaa693a418465bef8d7eda3",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-3-actor-3",
+      "inputFileHash": "edc987f139aa7144cc5717859c41c6e181d1970b7cde7654fe78c17644118240",
+      "canonicalInputHash": "0a53e7f6c28a2b18007728b47e9a130b49612ff2adfc5e5e5fe4dac92a391711",
+      "canonicalInputMatches": true,
+      "resultHash": "26dcaf2c9f27b2b1d5ad629844a6cbcf11f14948097d909e7e20c5ad30043735",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-4",
+      "inputFileHash": "1f648e7ef494f0aa29f99aef7d0eefe6cf7f1eddc4060910bc002f2e65f721dd",
+      "canonicalInputHash": "276d5e00121639a70a2db6e3961870ee89555510a767cea85193461a9703c351",
+      "canonicalInputMatches": true,
+      "resultHash": "ccb98fb90be4ec00e9deaa275ac21281798f117d413a397598bf8cd93d7302ab",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-5",
+      "inputFileHash": "78974c9db5d01391f3092df8b827944361784b0a7020b878326b22517d3e8af0",
+      "canonicalInputHash": "1cfde980fee3642ce1fba3f8c3b2e8f68cbcfae1df7181e8eec23fe0a0decea4",
+      "canonicalInputMatches": true,
+      "resultHash": "0d0e117341d420eea7feb5b98829d51a5516d86e164f56ebeef300f162c6ddc5",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-4",
+      "inputFileHash": "b6d0a40578cd5f68d50b7cda5798a9a4f820e88881a56890271bc59e8c261dda",
+      "canonicalInputHash": "acf07a1985e846b1a2bc29ec1c2cbd55f216766cd54b6d48cfb119a2ac5c6604",
+      "canonicalInputMatches": true,
+      "resultHash": "7c354cee69dbe1902e3cec270c7a52004f1709e3f1594adef74978a9e21ff95f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic result fields reviewed against source text/permissions, current condition/burden, author role and visible events. Judge outcomes/keyFactors/nextSteps match actual pending question and exact supplied strike-only/return instruction; neutral direct questions do not assume unknown contents. Initial ballot metadata matches actual request.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "instructionEventKind": "judicial_instruction",
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-6",
+      "inputFileHash": "32a3ea8f161dd4ed7e3a1991545f3c4040c8d811bba8db8192e7147502288d5d",
+      "canonicalInputHash": "75832793cbe7ba18d87f6fc9f0fc947e4b65e2b9a0411d291b98f490eb9238ff",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "8a02d7f827863a89a5dc9e938608e473c1b0db6e7e82e5d86438dd0741ca613c",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-2-actor-7",
+      "inputFileHash": "7661fc0f70939d448f37010af3827eb1efe0b6dbc2954f23b78e5bee28f315da",
+      "canonicalInputHash": "a8bd1e8f353db3fe1ec0f5fa173c3d987dff0f29d55f3a4cccb7a4afabc035b5",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "03b7ed1053cd6355c5d0b327fcda3d28234c038451ec3a1b7197ecefda6cc95f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Token stayed in hand omits departure qualifier; context is departure account, no continuous observation or never-left claim."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-5",
+      "inputFileHash": "fc1308305cd9dde156f489c39de6b206d82576158668da93f6c10414470160ef",
+      "canonicalInputHash": "fdabc1298e55a35bb608377c86f176f034620f686a882ce01faac4ae0313b9a0",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "17e7f0d296d2fcd1c3893711055ccedc0bff8e61aa9430ebcee702a44490e1fe",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-6",
+      "inputFileHash": "c91aba5600ad39c21570d2a02ab374d7a0f54a6793dd12aa99a555767e043f8a",
+      "canonicalInputHash": "de4f78b5b39d991d4928ca90f6c8247bda3a1f3d9756677509ab2610b8c01814",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "a1a7cc954078dbe82b7e7bb629bd042a41d53c09135120acb8abe5f0b842ef88",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Morgan-actor-6",
+      "inputFileHash": "4e3504fadb4df93b792594e0a45c85dde1888bab5ef2f20a8f4ba8aa0e2e06be",
+      "canonicalInputHash": "d6500e3fe3f3745093fb389b732eace6180dfbb7e6586ba5b3a72f4824111dc3",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": true,
+      "resultHash": "56e0e0b34ef86f8fce6264b1a5c6e8d911718cd4365e572b4b30cf4b4ee9cc57",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-6",
+      "inputFileHash": "18ce4e9f9fe39d99b37742afe5e35198fd560543c351caed1a5d7a2c9f6118dd",
+      "canonicalInputHash": "a3147090238eda5984410861e047be2b6491992141ce6533e65ba34c4529588d",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": true,
+      "resultHash": "e116a79c0516de93160b184729e53240e46f574881362f58fee2b0ae4ecf3819",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-7",
+      "inputFileHash": "d41175488d1a55402d8a1de7248ddbc01978a038be1b9b76767a4ddab8132119",
+      "canonicalInputHash": "fe51b8fd33ee56ad49293d8c11b3edf81779253227a75ac435a5c780501e97c5",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "ee02bb742699e6982efa75df5e21b56362f7e2df79efc01d17a22c77507075de",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-6",
+      "inputFileHash": "02b8eb5c84f19454847ec9cbaa779348ad4ff81f294f0116623f6faf6b2e276b",
+      "canonicalInputHash": "74dc6eb792af4cdc0778567b7258fae098511ed98f5bcab06d2bded29df6c970",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "8815f4058752b0d47b8eb9287ccfb05eceaa23f2272f2b750549fafd709ff5ac",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-7",
+      "inputFileHash": "fe5aac32efcf78fbcce0de94075d4031bac62a60d91308018b7bb1c8e91e75ec",
+      "canonicalInputHash": "fb0f6fd36f88f23430f6d2a4ee47849c6d9c9a6bc3eeb860dccdefa291b3678a",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "d4bf445dec394c11e12ecdd85c3406f77d6d0ac74b4b4a2ba2b62c2b76edc755",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-6",
+      "inputFileHash": "8ba9644cfb309b60d4c9c86667383116835c2885bf4ba072883d12b1a8c2b834",
+      "canonicalInputHash": "42b2ebca558376d23ac217fc221ed7af0dbe48e5a47c4ee65da69329a522642a",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "96f029a52171e49eae4d2561b64035f9fd9bf8218c56f11cac80ef773ecdfe19",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-7",
+      "inputFileHash": "9fea04ea1bb4352378f56bf9147d8988b393a3380702cdd15fc0a41775f2e6bf",
+      "canonicalInputHash": "17714434fba265adcdda21ba0ff65f23e121d123e23fedf958189f99689f1d36",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "76b97e44c7e8159d0cba0eb2d97bbe074ec1438a47fbcc23f672fd21e089f93f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-5",
+      "inputFileHash": "b71222a2c16cabecb02eb81826277404015628c8cc0abcbb338a1ca20266baeb",
+      "canonicalInputHash": "3cfe2ad7df1634cf5c4d3471f02e4ee31caaddeeba78f6daddb6f0b514fd2978",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "53a7b9b829e1b023895c322fff771e76ccf7569504b7bcbd1bab8f0979a83769",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-6",
+      "inputFileHash": "717806dd22f9146ef0c80bfca373c4f1f2ea1b3f617ad72951f8e135baacf0bf",
+      "canonicalInputHash": "89c8dfa9c777ea37dfedce3a4f625356c094ff1e3e029416fa362a35cb4637e2",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "348e69fe5e0dafd90fa3905a3ca621eaaceab95aec4d7e6fd69e4da04dd19ff7",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-6",
+      "inputFileHash": "d016ccefe7a2955026bf4025997d401c69eb234c01094a9d328131727fa383d0",
+      "canonicalInputHash": "034f9c8cfee0ccb1f9e894537334caeff65ac013e96172cee8668f90a0721b64",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "a747adec22b0e75e40aa2818f980a854384313847335a2a710c22f97d14fa1b2",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-7",
+      "inputFileHash": "33980c26c06f5ddf9c9f99e66a052f212b55f6b04204e19a48aed2e9af93aad3",
+      "canonicalInputHash": "e5ba2529cc90180bf8478c1bee4e4ac10886c2fbd1bba346e193340be45254b2",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "c391686f4a094991dcc5c15ee1449a8bca5439ef92d63185a052f25fdcd362cd",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Bars inferring receipt from unknown contents is scoped to unknown contents, not a universal ban on assessment. Prefer actual instruction wording do not establish."
+      ]
+    },
+    {
+      "id": "missing-essential-proof-2-actor-4",
+      "inputFileHash": "833f7211d95301a6cd3704bd6efd3812bfd904bee982a9a56f82314e5aee795b",
+      "canonicalInputHash": "1ebc858eb996c85e541599120dacc0255758bc59e2ff987751ed7aa993dfe2aa",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "98a63c8647bc3d55ea03673c448b037e1a22eebcefc9dc3cc4c5bfe3ed41903a",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-2-actor-5",
+      "inputFileHash": "8075b7ef624b42e9ca594b58f277e2fcb46c39df4333696cd80972f498603db9",
+      "canonicalInputHash": "b42a75c8d543392d5828d38f5e37797bb983089937ec79a88eafb2a4fb777447",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "386e699e84d528a1f99407c593b2238086d5089aa1fd0333f6fb62a0ceab13f2",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-3-actor-4",
+      "inputFileHash": "c782236aefbde7ccd2406bca5483918203d8e6c4ccbb165facb0b1126549cc6a",
+      "canonicalInputHash": "08ca3f7b28b42837bf9ef487c2fcd3c4750ea2b1943c9c4c933104315bf1aef4",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "67eb1e1532dc31f5f95befd22fa6079af04c17ada039c39aebf3d7addf987d21",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-3-actor-5",
+      "inputFileHash": "123455ddc6bca9f751b465bac6b9bf9a4ca7808c873d01938e72488649e5755b",
+      "canonicalInputHash": "e500c360dfe8d190cebae42b822f150cdecd1c5c892862d0269d9b12c35463da",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "d7a6da61268cee77b45fbabda05e2ce2c805550ca6e1422604ba8f1309354b5e",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1-actor-6",
+      "inputFileHash": "631ff1e8421835854b9c49df9b82a19e2d1b20cb11ac827b1568e3942bc0bfa6",
+      "canonicalInputHash": "280c70a168cc0e203c9265b3267f1482d13e762b5cc099f2cd5c7cc4e416530e",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "085911eb6d105c24d40d160b03211f832d5c72a23918636164d8f418b3ed3419",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": [
+        "Knowledge of any token handover risks broader scope than Ellis receipt; content explicitly anchors uncertainty to Ellis receipt."
+      ]
+    },
+    {
+      "id": "struck-testimony-1-actor-7",
+      "inputFileHash": "59f781b2ca750075b7183cf0c9b0a75d104b978a097f313408693caa339ef8c8",
+      "canonicalInputHash": "d68c6d3ee69c153cdfe77e74104151e65d987a751aa09c0fb89455f3d0710248",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "582d1dca03c747d6317555649855b3b6410c9692be13db1b2772a3c4efa3f6e1",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-5",
+      "inputFileHash": "5e6006a13ad96ba6f3f9cb1d9fa83e4ec784afdc17cd78ad99b8a3981a5d8b89",
+      "canonicalInputHash": "0fb5866603d16bc1b201e8d528339245eabb24314d4c288d4d28de1236bcab8e",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "f20fc3652f4396f204f98e39835b99ea8082f9866414d25dde60e597b415ec7d",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-6",
+      "inputFileHash": "4d74effe3962f489a9c0b7dc55fb0c88f4be133ac07629a5719d65b5de973eaa",
+      "canonicalInputHash": "575199daa83cf34b6f23f01da3f7527fc5dc3ca23b3663e8806c0204dd7d0a32",
+      "canonicalInputMatches": true,
+      "sourceTextMatchesReviewedBaseline": true,
+      "summaryProjectionChanged": false,
+      "resultHash": "d97d944c13d2eb5c9a6790c6baff169b70f96f7631590f380c314eb7e28523a8",
+      "status": "no_confirmed_material_failure",
+      "assessment": "All semantic normalized fields reviewed against actual source text/permissions, fictional condition and request. Witnesses retain account boundary. Initial ballot metadata matches actual request; no changed final ballot in this subset.",
+      "nativeMetadata": [
+        {
+          "jurorMatches": true,
+          "instructionVisible": true,
+          "citationsPermitted": true,
+          "initialHistoryEmpty": true
+        }
+      ],
+      "wordingRisks": []
+    }
+  ],
+  "failures": []
+}

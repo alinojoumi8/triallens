@@ -1,0 +1,192 @@
+{
+  "planHash": "e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269",
+  "status": "failed_partial_review",
+  "scope": "Independent review of16 outputs (prior14 and two captured failures); other outputs remain unreviewed.102controls matched but full candidate fails source quality.",
+  "reviewedCount": 16,
+  "reviewed": [
+    {
+      "id": "conflicting-witnesses-3-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\conflicting-witnesses-3\\conflicting-witnesses-3-actor-1-input.json",
+      "inputFileHash": "1900464617edc0631d3758112d2077979c28c0de9358850bd8eb9819e9287df2",
+      "canonicalInputHash": "43df07d60a3ba418b88abef32d0b289c171f7674e10bef31607e73a92bb685a5",
+      "canonicalInputMatches": true,
+      "resultHash": "33c21e4b759eb45d74e4cf7952fc569414a2e4f3b3a6394359cd1309e878cb55",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-2",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\conflicting-witnesses-3\\conflicting-witnesses-3-actor-2-input.json",
+      "inputFileHash": "c4c0ff5182b5ae078be31f9c1dff0ea99d1d2b2bb619be377f015e9d3216c5d7",
+      "canonicalInputHash": "fcf41b1eae271da930bf284c2d225056904dbd72787516a2295295388ce7cb26",
+      "canonicalInputMatches": true,
+      "resultHash": "cef4d0328796b136c2e769cc10e1d2fdec1743d60274b89fdea8e311839fe80e",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Morgan-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\hearing-Morgan\\hearing-Morgan-actor-1-input.json",
+      "inputFileHash": "d4f302ea14ac748d1994a308677c9e911f25e82e9d33ea58208ad2f69bb7f036",
+      "canonicalInputHash": "15a775e4c18573fb79930c71b7dc3660f34732ea59e839b9198ce96e75c8142d",
+      "canonicalInputMatches": true,
+      "resultHash": "9d57468afc76c1cdc6a69283a48d611912a52c80b3b2fa064dc961c203bb0104",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "hearing-Rowan-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\hearing-Rowan\\hearing-Rowan-actor-1-input.json",
+      "inputFileHash": "268f6e2e9c476c50d173cf4af54fc29071bc4d4d86aaf2aaac30f99d397434ef",
+      "canonicalInputHash": "1b352507006ec8fc8729c4022352261d4d7fd84de982ad3f6765d0c9849c6d6e",
+      "canonicalInputMatches": true,
+      "resultHash": "b9b0fc9f5454ea131830ecdfe369c73e157feae66994824f9125de5fb3a1df84",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-1-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\later-exclusion-1\\later-exclusion-1-actor-1-input.json",
+      "inputFileHash": "197151857cfe18e68adee3a7d207d1cad6cbe6bf927e7676a8154bc6a7c695ef",
+      "canonicalInputHash": "e92cbdd5d41df33b6c7d80f09e29ffd8cf0126d4d0e4fafcc68ee11fc7012c4e",
+      "canonicalInputMatches": true,
+      "resultHash": "194f10c65dfaed5e3303e6eca0d8178e45a4ba4046eeb9ea3c2dfe9895d86725",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\later-exclusion-2\\later-exclusion-2-actor-1-input.json",
+      "inputFileHash": "3aca3e01705364fcdc779f2b88d842732a791e8643304ef1807d79face2c88a5",
+      "canonicalInputHash": "8ae9bd98768fad48a9beb797aa2273566008e60cd08d76954df814825c5b3c56",
+      "canonicalInputMatches": true,
+      "resultHash": "9a7ebe44c1f3975b05def5e958fcf401f4c82cf7ef54668aa6b0b8d3dc463701",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\later-exclusion-3\\later-exclusion-3-actor-1-input.json",
+      "inputFileHash": "06c922f04d679a8eb4984469ea8adaf5ec74d76a6cefb133103e13d8cb977a27",
+      "canonicalInputHash": "e1c89ef7f096606aa2389b37e01c206893144f4ef7bbb8d7324760cd3ad66406",
+      "canonicalInputMatches": true,
+      "resultHash": "83da935ab0b1a17f4606811b92a32ced1c46cf3c092e37860f0b258ab204d223",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\missing-essential-proof-1\\missing-essential-proof-1-actor-1-input.json",
+      "inputFileHash": "a90a2aacd4094696ee623c9d0096495867d63a2d428c755d4abaee3c4bcd94b7",
+      "canonicalInputHash": "d471f6437e194fde5b83f38c1c8dc3ff5e83f5b53bf8a9311561da0aee7481df",
+      "canonicalInputMatches": true,
+      "resultHash": "62e80a3299f0bcb56e912ece029316f8d8cfa94b9ef1b94827ff6fe1af045f4b",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1-actor-2",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\missing-essential-proof-1\\missing-essential-proof-1-actor-2-input.json",
+      "inputFileHash": "e8c1dd2d98d1dc2c305b6874d3c92414d738d981c40eb72f0a12061150f293ba",
+      "canonicalInputHash": "85a987fd2e2b4742a9061ba8b916671b0af897de03044e3de8e0a3f94daf025c",
+      "canonicalInputMatches": true,
+      "resultHash": "379df114f5093c7d085463292c9f5b8fbca4c69cf3d820d65da7c9916af4878a",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-2-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\missing-essential-proof-2\\missing-essential-proof-2-actor-1-input.json",
+      "inputFileHash": "625b0c72b4323bdd1976eae2bd0a869367a5bb4c0c745c47203b6133b59eaf45",
+      "canonicalInputHash": "2ac2f2c58b0c508128cbc7fbdea6908eb690d6df536e287d3ee4271d5e9408ea",
+      "canonicalInputMatches": true,
+      "resultHash": "7a760fcbe52058270bafe900ddded6c89e24100ded93c9ecd6b1a0d11684be54",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": [
+        "Broad attribution-cannot-satisfy-burden sentence risks a universal reading; contextual unknown-contents assessment does not confirm a blanket proof prohibition."
+      ]
+    },
+    {
+      "id": "missing-essential-proof-3-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\missing-essential-proof-3\\missing-essential-proof-3-actor-1-input.json",
+      "inputFileHash": "4c06e42b524f67d696783d963fa5b0b046dc6f07779d50d5dc8c94b7873006a1",
+      "canonicalInputHash": "37f7a7c4e283ff0e7580e07d5a18b243984c9b328916400113f815dfe024a7f9",
+      "canonicalInputMatches": true,
+      "resultHash": "6ca681cf3935af9760f04e650b53feeea67d8915f738c4d53ec53a49782e71cf",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-2-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\struck-testimony-2\\struck-testimony-2-actor-1-input.json",
+      "inputFileHash": "492b7a425878c551b35390e664853c3ac5b3ef0e61810e9fb80ff066a98034dd",
+      "canonicalInputHash": "767d758c8c9ba95f56e479459975a9e09c5c58a541b8aa00cada203be8cb2e3e",
+      "canonicalInputMatches": true,
+      "resultHash": "b2f29698acce5e3b6345a946b3fedeff5f8392ee5fd45ce239eac7f1eebf307f",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-1",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\struck-testimony-3\\struck-testimony-3-actor-1-input.json",
+      "inputFileHash": "1b043f72cfe2a95d7e22d9ca594d077e219029a3a8247db23965c9263bceb3b3",
+      "canonicalInputHash": "4e356f13739d25b2e71df5979fd18286774edabc894ae02d0c94428d482b1a44",
+      "canonicalInputMatches": true,
+      "resultHash": "a2789947e9dcab257e79483f0a5a20a45394f380c6a37882df0f1b8513755cb5",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3-actor-2",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\struck-testimony-3\\struck-testimony-3-actor-2-input.json",
+      "inputFileHash": "705898827d633ad183b82ea2daac09fe79c955f9ae23586845926705591ac12c",
+      "canonicalInputHash": "5f83e269e3f09435edcb6afa5d75a30dfb942b4f4af178f2d1848dc105525829",
+      "canonicalInputMatches": true,
+      "resultHash": "6aaf828d8c51e4cdd6191b07ff44395ec9f6c6c71ac0e4500fcaf22c58f6d6e8",
+      "status": "no_confirmed_material_failure",
+      "assessment": "Reviewed all semantic result fields against actual source text, source permissions, current fictional condition/burden, actor role and real prior submissions. No ballot or changed-vote causal field in this subset.",
+      "wordingRisks": []
+    },
+    {
+      "id": "conflicting-witnesses-3-actor-4",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\conflicting-witnesses-3\\conflicting-witnesses-3-actor-4-input.json",
+      "inputFileHash": "1921b06ea0df42da266e12da5c08ed55b4753601ff91750da1a37a8cef921c14",
+      "recordedCanonicalInputHash": "18b8c940f3f38c71b1794886575ddce15cd3ac4d0db1b4481a07e18bc156f475",
+      "resultHash": "d02875d4561c3743550a3807126f76108e49078a70841aa3954f40bf88d1dc2e",
+      "status": "material_failure",
+      "assessment": "Unclassified source metadata became affirmative not-primary-proof status in rationale; no primary corroboration premise also overstates missing classification."
+    },
+    {
+      "id": "struck-testimony-3-actor-3",
+      "inputFile": "tmp\\qa\\jury-contract-matrix-v10\\tmp\\qa\\courtroom\\full-jury\\live-e4ff33d2f0ef1478fd3cf8a73f8ece028e5e45a9dabce9f59b62f0196cd9e269-1791213069873\\struck-testimony-3\\struck-testimony-3-actor-3-input.json",
+      "inputFileHash": "26c0be395bb79ff67424474cf72b213fbf0b8d16b5e366b805fa55ef3fa7bdd9",
+      "recordedCanonicalInputHash": "5debffeb448ca9372ca2698d8599e8265d22958fdbebcdef009fdb244c6fed71",
+      "resultHash": "f9fa0ab2479920d9085de806232ad5e4a1602c6a0a9ad1b6531fd165f7820df2",
+      "status": "material_failure",
+      "assessment": "Unknown whether Ellis received any token became express disclaimer of any token knowledge in content. Receipt-qualified rationale does not cure broader content premise."
+    }
+  ],
+  "failures": [
+    {
+      "id": "conflicting-witnesses-3-actor-4",
+      "reason": "Unclassified source metadata became affirmative not-primary-proof status in rationale; no primary corroboration premise also overstates missing classification."
+    },
+    {
+      "id": "struck-testimony-3-actor-3",
+      "reason": "Unknown whether Ellis received any token became express disclaimer of any token knowledge in content. Receipt-qualified rationale does not cure broader content premise."
+    }
+  ]
+}

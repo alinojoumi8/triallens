@@ -1,0 +1,37 @@
+{
+  "planHash": "db8c08e3244d5744c6e6f329440a4669d6259bed471b3e68e5181799b87b8101",
+  "matched": 4,
+  "total": 4,
+  "jobs": [
+    {
+      "id": "captured-morgan-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "captured-rowan-unit-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "mixed-and-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "mixed-but-negative",
+      "state": "finished",
+      "expectedMatched": true
+    }
+  ],
+  "exchangeStates": {
+    "received": 5
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "sourceSnapshot": "tmp/qa/jury-proof-negation-source",
+  "knownReportedTokensLowerBound": 47456,
+  "cost": null,
+  "scope": "Captured Morgan full draft and Rowan target unit; mixed adoption negatives. Checker calibration, not full-trial validation."
+}

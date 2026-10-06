@@ -1,0 +1,51 @@
+{
+  "planHash": "70b1397b1f6cccedee44acc1b8509930915495e8ce88fad9d31d389fb3277b68",
+  "hashMethod": "SHA-256 of compact JSON.stringify(plan), not the pretty file bytes",
+  "controls": [
+    {
+      "id": "absence-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "failed"
+    },
+    {
+      "id": "aggregate-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "failed"
+    },
+    {
+      "id": "captured-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "failed"
+    },
+    {
+      "id": "classification-unknown-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "passed"
+    },
+    {
+      "id": "classified-absence-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "passed"
+    },
+    {
+      "id": "individual-assessment-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "passed"
+    }
+  ],
+  "exchanges": {
+    "received": 8
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "knownTotalTokensLowerBound": 74689,
+  "cost": null,
+  "limitation": "Checker calibration only; it does not establish fresh generation quality or whole-matrix success.",
+  "allMatched": true
+}

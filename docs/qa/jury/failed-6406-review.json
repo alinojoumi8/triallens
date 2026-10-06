@@ -1,0 +1,71 @@
+{
+  "candidate": "6406e0678ac8edaffe48f9456fa6608229cf7ca74ba8cbef59755468065bc0ba",
+  "reviewer": "Root Codex independent semantic review",
+  "status": "incomplete_failed_pair",
+  "failure": "Morgan actor 9 exhausted malformed JSON responses. All reviewed outputs were source-faithful, but the pair did not complete. Jury phase unverified.",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Openings, scoped objection and ruling faithfully attribute Mira's handover/unknown contents, retain attribution-only use and the supplied burden, and do not assert unsupplied pleaded status or promise proof. Instruction delivery is appropriately pre-return at this stage."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Account descriptions distinguish unsupplied actual contents from the explicit unknown-contents statement. Element/knowing-receipt references are bounded by what has been supplied; no broad participation denial, pleading claim or burden assurance is made. The repaired opening is counted separately."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Neutral direct question and short answer preserve the approved handover and unknown contents. No additional observation or memory limits are invented."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        4,
+        5
+      ],
+      "status": "passed",
+      "note": "Scoped ruling strikes only the challenged question and preserves E-001. Its recommendation explicitly requires delivery before return; the declared control enforces that order. Direct question is neutral."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "passed",
+      "note": "Questions are neutral, including distance/sightline requests; witness explicitly defers those unsupplied details without inventing them. Knowledge/contents claims match E-001 and completion follows actual testimony."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        6,
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Witness repeats the handover and unknown contents; the direct question asks source-supplied knowledge. No unsupported memory or observation denial."
+    }
+  ]
+}

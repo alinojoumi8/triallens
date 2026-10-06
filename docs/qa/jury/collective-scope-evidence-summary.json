@@ -1,0 +1,50 @@
+{
+  "planHash": "73fe3f64bd012477e4e7dcf3823c2d97e0cac8a2fe6160cc2d29e8af4e5f82d9",
+  "runRoot": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\courtroom\\jury-collective-scope\\live-73fe3f64bd012477e4e7dcf3823c2d97e0cac8a2fe6160cc2d29e8af4e5f82d9-1791207290201",
+  "scope": "Checker calibration of fictional captured drafts; not full-trial validation.",
+  "terminal": true,
+  "jobs": [
+    {
+      "id": "account-boundary-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "assessment-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "captured-collective-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "captured-observation-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "counterfactual-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "recorded-extent-positive",
+      "state": "finished",
+      "expectedMatched": true
+    }
+  ],
+  "matched": 6,
+  "total": 6,
+  "exchangeStates": {
+    "received": 6
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "knownReportedTokensLowerBound": 43089,
+  "cost": null,
+  "rawRepresentation": "Exact application-visible bytes; fetch may decompress HTTP encoding.",
+  "hashMethod": "SHA256 of request-body.txt and response-body.raw; plan hash uses compact JSON.stringify, not pretty plan-file bytes."
+}

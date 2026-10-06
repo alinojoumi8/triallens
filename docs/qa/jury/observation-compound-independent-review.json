@@ -1,0 +1,22 @@
+{
+  "planHash": "26881eb2543f6956dc7a34c9c1eaa4f7dd2fdba2b7f422e29e27ab6f9e890f54",
+  "status": "passed_with_wording_risks",
+  "scope": "Independent root review of every semantic field in fresh normalized response against original request, evidence, source permissions, supplied fictional legal packet and history. Not full-matrix or actual-law certification.",
+  "requestHash": "d13e526c3318fb40727629e4a8844b53107bd16e11eaba6b4b95c68223667d11",
+  "resultFileHash": "acbf8a28e675b2765421bf5592d40df1a7b8d0ac1d590cecb972f727986c0175",
+  "freshTitle": "Crown Rebuttal",
+  "freshContent": "On E-002, Tavi states seeing Fictional Ellis standing at the desk, and Tavi states not knowing whether a token was received. The permitted attributed account may be assessed as disputed evidence, but attribution alone does not establish receipt of a blue token. The Crown accepts that the listed fictional condition must be proven beyond a reasonable doubt on the supplied record, and the sufficiency assessment rests with the jury.",
+  "freshCitations": [
+    "E-002"
+  ],
+  "firstDraftAccepted": false,
+  "authorResponses": 2,
+  "freshRepairs": 1,
+  "freshVerificationRetries": 0,
+  "assessment": "Correctly attributes desk observation and receipt uncertainty to Tavi. Keeps E-002 assessment-permitted and disputed. Attribution alone does not establish receipt is a permissible weight assessment, not an attribution-only source ban. Applies current Crown BRD fictional receipt condition; preserves jury assessment role. No invented observation disclaimer, token-knowledge expansion, offence element, private marker or unavailable evidence. Final source quotations match exact supplied E-002 text.",
+  "priorFailure": "First draft rejected record-completeness wording (only evidence on receipt). Repaired final is separately reviewed; no first-author success claimed.",
+  "wordingRisks": [
+    "The omission of whether Ellis received in the shortened receipt-uncertainty clause is context-dependent; Ellis is the immediately preceding named subject."
+  ],
+  "evidence": "observation-compound-evidence-summary.json"
+}

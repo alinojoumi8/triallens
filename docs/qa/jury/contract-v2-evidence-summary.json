@@ -1,0 +1,69 @@
+{
+  "planHash": "df86ef561a093a4efdd222edcfa4b7f039a086a9a21036ea5a27955bb7fd1892",
+  "jobs": [
+    {
+      "id": "assessment-permission-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "error": null
+    },
+    {
+      "id": "captured-description-ballot-proof",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "error": null
+    },
+    {
+      "id": "hearing-Morgan-24",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "error": null
+    },
+    {
+      "id": "hearing-Morgan-72",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-25",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-46",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-75",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-76",
+      "state": "finished",
+      "expectedMatched": false,
+      "freshAccepted": true,
+      "error": null
+    }
+  ],
+  "raw": {
+    "received": 30,
+    "httpErrors": 0,
+    "failed": 0,
+    "incomplete": 0,
+    "hashMismatches": 0,
+    "knownTokensLowerBound": 475216
+  }
+}

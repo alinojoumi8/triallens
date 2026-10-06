@@ -1,0 +1,33 @@
+{
+  "candidate": "b3b12b60a47bb798295f581e981729e9d818ed7e1b9b91b524fb10745322c4cb",
+  "reviewer": "Root Codex independent semantic review",
+  "status": "failed",
+  "failure": "Morgan opening falsely accepted pleaded-status absence. Stopped before jury trials.",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2
+      ],
+      "status": "passed",
+      "note": "Openings accurately attribute the handover, retain unknown contents and limited use, name unsupplied actual offence elements precisely, and match the Defence's agreement to the visible Crown position. No claim of court-record completeness or pending jury return."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        3
+      ],
+      "status": "passed",
+      "note": "Scoped objection accurately rejects unsupported cash/knowledge premises."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1
+      ],
+      "status": "failed",
+      "note": "No supplied pleading supports the assertion that no participation, purpose or transaction elements are pleaded before the jury. It also promises to meet the burden despite attribution-only proof restrictions."
+    }
+  ]
+}

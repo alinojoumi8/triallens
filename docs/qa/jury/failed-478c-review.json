@@ -1,0 +1,85 @@
+{
+  "candidate": "478cbfa0ef6352aa348493989c17b81994f0c709eb5dd95cb5fc34a9e6d62fa9",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Openings preserve concrete receipt condition, attribution/unknown contents, use limit, burden and precise unsupplied elements. Scoped objection/ruling retain question-only strike and timely exact instruction. Neutral direct question; answer is expressly account-bound."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Openings/ruling accurately distinguish receipt condition from unsupplied knowing element and preserve attribution-only use. Neutral questions ask further detail without presuming an overall observation limit; answers explicitly defer missing record details, retaining both source points."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "status": "passed",
+      "note": "Repaired questions and answers retain account-specific scope, handover/unknown contents, and defer specific missing before/after details. Closings accurately name concrete receipt condition, use limit and burden with no stale reminder."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        11
+      ],
+      "status": "failed",
+      "note": "A provider reply missing StageResult.content was accepted via raw-content fallback, exposing embedded reasoning and answer-command JSON as witness speech. Contents withheld from further display; format must be rejected before audit/publication."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        9,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "status": "passed",
+      "note": "Other reviewed questions, source-bound answers and closings retain both account points and concrete receipt condition. First initial ballot correctly applies attribution-only limit/current charge with no invented prior history."
+    }
+  ],
+  "remainingOutputs": "Not independently certified; stopped after malformed witness speech"
+}

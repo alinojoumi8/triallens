@@ -1,0 +1,37 @@
+{
+  "planHash": "353613f00a1eea516c6c7d4b99723868f2af1b41ab8554b90a57369828c8468b",
+  "matched": 4,
+  "total": 4,
+  "jobs": [
+    {
+      "id": "aggregate-classification-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "aggregate-classification-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "observation-nonoccurrence-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "observation-nonoccurrence-positive",
+      "state": "finished",
+      "expectedMatched": true
+    }
+  ],
+  "exchangeStates": {
+    "received": 4
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "knownReportedTokensLowerBound": 20346,
+  "cost": null,
+  "scope": "Captured v6 control pairs: attributed non-observation and missing classification. Checker calibration, not full-trial validation.",
+  "sourceSnapshot": "tmp/qa/jury-scope-polarity-source"
+}

@@ -1,0 +1,27 @@
+{
+  "method": "Root independent review of normalized public content, rationale and reason against exact fictional inputs. Specific trigger removal is distinct from whole-response quality. Not a complete persisted trial.",
+  "runs": [
+    {
+      "planHash": "eda54068f0e17c2f7f02e75fd7a79b2629f50f3fac3501234b4324e16d237955",
+      "defaultStatus": "passed_with_wording_risks",
+      "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+    },
+    {
+      "planHash": "ab2a382afd84aa1fe6fd82773ff0a400bd82c43c10e4ab74c5abb40d13e21e76",
+      "defaultStatus": "passed_with_wording_risks",
+      "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+    },
+    {
+      "planHash": "c70cf4f4c4cc3122dfd7d546144cbcfce7010ce4b7b0eb07d33cbfa2c26e8c8e",
+      "defaultStatus": "passed_with_wording_risks",
+      "failed": [
+        {
+          "id": "struck-testimony-3-actor-27",
+          "status": "failed",
+          "notes": "Original unsupported Rowan-at-desk proof point removed, but fresh rationale says the limited-use instruction bars treating E-001 as proof of receipt. Actual charge permits assessment of admitted disputed accounts and bars treating attribution as an established finding; this replaces that permission with a stronger prohibition. Still a source-purpose failure."
+        }
+      ],
+      "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+    }
+  ]
+}

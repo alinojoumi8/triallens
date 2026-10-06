@@ -1,0 +1,26 @@
+{
+  "planHash": "530e7e571a241d3ec8124cc91abf4312c1e69b50ced2bea59604c14966f213d2",
+  "usage": {
+    "providerHttpCalls": 30,
+    "providerInputCharacters": 334949,
+    "actualTokens": 115488,
+    "actualCost": null,
+    "elapsedMs": 455445.75320000004
+  },
+  "integrity": {
+    "pairs": 30,
+    "errors": [],
+    "sourceDrift": []
+  },
+  "checkerExpected": 20,
+  "checkerMatched": 20,
+  "negativeSemanticFailures": 13,
+  "positiveAccepted": 7,
+  "firstAuthorAccepted": 3,
+  "authorRepairs": 1,
+  "finalAuthorAccepted": 4,
+  "independentSourceFaithful": 4,
+  "strictOpeningSuccess": true,
+  "fullHearingStarted": false,
+  "qualifiedHumanReview": null
+}

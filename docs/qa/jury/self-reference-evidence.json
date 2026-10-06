@@ -1,0 +1,59 @@
+{
+  "run": "tmp/qa/courtroom/jury-self-reference/live-83596b35b5e7e7039a59678018750600f4581873321cc5420f13ffea50925761-1791216326460",
+  "planHash": "83596b35b5e7e7039a59678018750600f4581873321cc5420f13ffea50925761",
+  "received": 12,
+  "incomplete": 0,
+  "failed": 0,
+  "httpErrors": 5,
+  "hashMismatches": 0,
+  "knownReportedTokens": 52180,
+  "cost": null,
+  "sourceMismatches": [],
+  "jobs": [
+    {
+      "id": "captured-self-supplied-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 1,
+      "repairs": 0,
+      "verificationRetries": 0,
+      "resultHash": "e88dab5f83584a02b941ad4a747179b798afe8e3e5ad41fcb364fa7db0fb708a"
+    },
+    {
+      "id": "self-supplied-record-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "e274ca7df54edc5498a49f92fa7b076f1ec77454c14646993da2d1af6cd7d8be"
+    },
+    {
+      "id": "unavailable-peer-supplied-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "163d662912a809fdf64bc7783dfbca07ce692ec178143c385009f0691786bc82"
+    },
+    {
+      "id": "visible-peer-supplied-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "905ac1e553b58127ed8e8b4ef637d7f5a28e529306e063efde4db60d3cde9af0"
+    },
+    {
+      "id": "self-introduction-peer-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "a527315acfb3b2cce3ad6e0f76fbe848da003937d19f80fe8d982c8724f0863d"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "planHash": "48d188c8ef8ae4d174aa6ff2579e24cc111b562e778fbb69f2129980fe9f2bb2",
+  "jobs": [
+    {
+      "id": "assessment-permission-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "metadataErrors": null,
+      "corrections": null,
+      "error": null
+    },
+    {
+      "id": "hearing-Morgan-24",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "metadataErrors": null,
+      "corrections": null,
+      "error": null
+    },
+    {
+      "id": "hearing-Morgan-72",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": true,
+      "metadataErrors": [
+        "A changed final ballot requires an eligible visible deliberation event, a concise explanation, and a shared permitted citation in this juror's citations. Eligible events: [{\"eventId\":\"5142657c-b73e-4fa8-9118-4838770787a0\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"acc73ae6-4816-4d7e-a64b-0b3557d809cf\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"a9ab45fc-8157-489c-bd5d-de2516feb56b\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"eb79873f-82b5-42bf-a13d-9b4b0496b060\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"f1b79b98-3490-4e78-82f2-6b8cbed9605b\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"43ba2310-b28f-4640-8493-db93e7af0015\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"ec08f88d-2367-4d0a-9819-40fc05f48cbb\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"ae27465e-aabe-4374-af98-e92a94ec421d\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"f0f04a0e-dd01-4851-b698-6ed565aeff96\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"a3f1cef2-1c13-4422-878b-be1fabb646eb\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"c20905bf-775a-43be-83ae-77cff76217c9\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"77f8ad39-c5cf-4e92-b783-4b3e4faef59b\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"548b6f6c-debb-4c27-b030-f2fc0f275c81\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"35abfb51-8c2c-4031-9b6b-a6539ed94dce\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"b4fe72cf-84ed-470c-879e-1d7a76803f4f\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"631f0b5a-0fbf-450d-a51d-061af9849a53\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"bf6d1d1d-e95e-4f92-8d36-2315801437b3\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"c4ce5085-eebc-4179-9c32-cde0549a0c6c\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"fa9216c7-3c3e-460e-81c6-37dcab69c726\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"724aebbe-1ed7-4c13-b1ea-1aca819302e3\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"7faf8b75-6955-43cb-bac1-a06e3cc584cf\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"b3428039-0b46-4a44-8ccf-cce047c0c021\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"9430147b-55bf-48b6-8510-8fc8f1262576\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"dd8b047b-f312-461d-b840-78d2c71ce4fb\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"25fc82c6-1ad8-4bbb-b8c4-d80fb16af113\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"8261db26-69cc-4b7f-9d4c-1fbec5e416e4\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"12102487-3433-47c9-afd8-1187333c610c\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"b7f23c87-064b-4337-8ec6-8dc3c46eb2c4\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"adddfc6c-946d-4949-9e8a-d347f2aa0430\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"957835b1-697a-45a1-a31b-3446a73b741a\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"bef0c4f3-7cf6-4bba-88c7-62af1dad34f1\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"73c566c5-8362-4fcc-941d-b8642c37c3f9\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"07ff092f-4889-4c3b-8716-54b17fb9b2da\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"fa0551d6-92d2-444a-870f-2d891afe1422\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"f9d875bc-ca1d-4b33-9164-62af0a710607\",\"exhibitIds\":[\"E-001\"]},{\"eventId\":\"e7ed90e9-4914-4148-8446-4fc23e37cc50\",\"exhibitIds\":[\"E-001\"]}]. Do not use a limiting instruction as the deliberation event."
+      ],
+      "corrections": null,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-25",
+      "state": "finished",
+      "expectedMatched": false,
+      "freshAccepted": true,
+      "metadataErrors": [],
+      "corrections": null,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-46",
+      "state": "finished",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "metadataErrors": null,
+      "corrections": null,
+      "error": null
+    },
+    {
+      "id": "hearing-Rowan-75",
+      "state": "failed",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "metadataErrors": null,
+      "corrections": null,
+      "error": "ModelProviderError: Source verification rejected the generated response. See its factual-check audit."
+    },
+    {
+      "id": "hearing-Rowan-76",
+      "state": "failed",
+      "expectedMatched": true,
+      "freshAccepted": false,
+      "metadataErrors": [],
+      "corrections": [
+        {
+          "jurorIndex": 0,
+          "exhibitId": "E-001",
+          "unitIds": [
+            "juror-0:1"
+          ]
+        }
+      ],
+      "error": "ModelProviderError: Model output was not valid JSON for the requested jury contract: mindChangedBecause must be one concise sentence, at most 30 words and 220 characters; regenerate without truncation."
+    }
+  ],
+  "raw": {
+    "received": 39,
+    "httpErrors": 1,
+    "failed": 0,
+    "incomplete": 0,
+    "hashMismatches": 0,
+    "knownTokensLowerBound": 644956
+  }
+}

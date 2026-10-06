@@ -1,0 +1,151 @@
+{
+  "candidate": "5c7fba54cc864bb4f1639a2ee6ea14b40d6c4201469e415437b6d1cdb430aedf",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1
+      ],
+      "status": "passed",
+      "note": "Opening attributes actual sealed handover/unknown contents, preserves exact attribution-only use and concrete receipt condition/BARD. Morgan only-witness wording refers to actual approved plan, not exhaustive court-record coverage."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1
+      ],
+      "status": "passed",
+      "note": "Opening attributes actual sealed handover/unknown contents, preserves exact attribution-only use and concrete receipt condition/BARD. Morgan only-witness wording refers to actual approved plan, not exhaustive court-record coverage."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "status": "passed",
+      "note": "Opening uses supplied-source scope, exact receipt burden; pending question quoted as objection premise, not evidence. Ruling strikes question only, retains E-001 and exact timely instruction. Neutral direct question."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        2,
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Defence agrees with actual Crown plan/limits. Objection and ruling preserve attributed handover/unknown contents, exact absent element names, question-only strike and standing source restriction/timely instruction."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        6,
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Answers retain both actual source propositions and defer only account contents; no overall personal-observation limit asserted. Follow-up confirms exact unknown-contents statement."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Questions/answers stay account-bound, preserve unknown contents rather than absence or non-observation. Unsupplied 'Ms.' honorific is an editorial residue, not a tested material fact."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        9,
+        10,
+        11
+      ],
+      "status": "passed",
+      "note": "Completion accurately refers to both elicited source points; neutral question seeks unspecified further knowledge/observation. Answer preserves explicit unknown contents and defers only further unsupplied detail."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        9,
+        10
+      ],
+      "status": "passed",
+      "note": "Completion is actor's actual decision within approved passages; cross asks about account coverage, without assuming no events or observations before/after."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "passed",
+      "note": "Neutral post-handover account question, specific deferral, actual completion, source-confirming reexamination and answer with both source points. No conduct inferred from omitted details."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "passed",
+      "note": "Before/after and content-observation omissions are expressly account coverage, not personal absence. Answers retain unknown-contents statement. Valid speech format and actor completion."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        17,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Reexamination accurately attributes giver/recipient and retains uncertainty; completion confirms attributable statements, not proof of event."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        15,
+        16,
+        17
+      ],
+      "status": "passed",
+      "note": "Identity question and answer retain attributed giver direction. Last question asks whether the knowledge statement has a temporal scope; it does not establish that scope. Witness must defer unsupplied timing."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        20,
+        21
+      ],
+      "status": "passed",
+      "note": "Closings preserve concrete condition, actual opposing attribution/burden point, use limit and source scope; no stale jury-return reminder."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        18
+      ],
+      "status": "failed",
+      "note": "Attached source knowledge statement to time of handover without primary support; source audit falsely accepted. Candidate stopped; later outputs unreviewed."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        19
+      ],
+      "status": "passed",
+      "note": "Actual actor completion, no new factual premise."
+    }
+  ]
+}

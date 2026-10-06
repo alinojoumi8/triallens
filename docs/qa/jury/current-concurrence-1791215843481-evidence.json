@@ -1,0 +1,75 @@
+{
+  "run": "tmp\\qa\\courtroom\\jury-current-concurrence\\live-030d44574b1573c3661733b81680cc5c00b2e44fb60f16e3197845f3dbdb5c8e-1791215843481",
+  "planHash": "030d44574b1573c3661733b81680cc5c00b2e44fb60f16e3197845f3dbdb5c8e",
+  "received": 10,
+  "incomplete": 0,
+  "failed": 0,
+  "httpErrors": 0,
+  "hashMismatches": 0,
+  "knownReportedTokens": 67399,
+  "cost": null,
+  "sourceSnapshot": "tmp/qa/jury-current-concurrence-v1-source",
+  "sourceMismatches": [],
+  "jobs": [
+    {
+      "id": "captured-acknowledgment-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 1,
+      "checkers": 2,
+      "repairs": 0,
+      "verificationRetries": 0,
+      "resultHash": "7f2883636bee5fdefc4c2638c6c2c1b8149fc6522999f5543ce241d8af88a4c0"
+    },
+    {
+      "id": "captured-current-agreement-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 1,
+      "checkers": 2,
+      "repairs": 0,
+      "verificationRetries": 0,
+      "resultHash": "7f58657ef6108c4785ef3f6bc65e35b5c6ccbea654512fd5b94045a56bbb7970"
+    },
+    {
+      "id": "acknowledgement-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "f7a2d622c847b4bc25cfac5366cf94c543139628034c0d798dcb41be05131b85"
+    },
+    {
+      "id": "prior-mutual-agreement-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "8ef8f8988723f9584241fa27fa68e18db70e372942e3097ced47e50a5a971e91"
+    },
+    {
+      "id": "unavailable-opponent-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "54bd626d57593c0b354f6d4aa179c0200761f59123e987e472dc3b6301e52924"
+    },
+    {
+      "id": "strengthened-opponent-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "authors": 0,
+      "checkers": 1,
+      "repairs": null,
+      "verificationRetries": null,
+      "resultHash": "a0fa365887bce33ffc3f05cf7f378b4583f582f60db9901d285be1463caf6eb5"
+    }
+  ]
+}

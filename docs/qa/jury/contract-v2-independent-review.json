@@ -1,0 +1,36 @@
+{
+  "planHash": "df86ef561a093a4efdd222edcfa4b7f039a086a9a21036ea5a27955bb7fd1892",
+  "status": "terminal_targeted_fresh_passes_with_wording_risks",
+  "controls": "7/8: one positive rejected for missing event-attribution classification; fixed separately after terminal completion. Do not upgrade this frozen result.",
+  "jobs": [
+    {
+      "id": "hearing-Rowan-25",
+      "status": "passed_with_wording_risks",
+      "reason": "Initial ballot, current charge, attributed Mira account and actual attribution-only restriction retained. Burden inference applies supplied record rather than inventing receipt proof."
+    },
+    {
+      "id": "hearing-Rowan-75",
+      "status": "passed_with_wording_risks",
+      "reason": "Acknowledges actual prior guilty lean; selected actual juror-01 event3164e153 confirms attribution-only scope and missing supplied corroboration. Shared E-001 and current charge match."
+    },
+    {
+      "id": "hearing-Morgan-24",
+      "status": "passed_with_wording_risks",
+      "reason": "Correct Morgan-to-Ellis account attribution and only-attribution purpose; no extra supplied proof source. Stable wording for an initial ballot is awkward but invents no prior ballot."
+    },
+    {
+      "id": "hearing-Morgan-72",
+      "status": "passed_with_wording_risks",
+      "reason": "Actual own juror-03 challenge b4fe72cf records low skepticism initially crediting account, binding attribution restriction and missing supplied corroboration shifting assessment. Correct event kind, shared source and current charge. Reason could refer more explicitly to the selected own turn."
+    },
+    {
+      "id": "hearing-Rowan-76",
+      "status": "passed_with_wording_risks",
+      "reason": "Actual juror-01 event3164e153 supports change to not_guilty under only-attribution restriction. Verified juror-0:1/2 quotations restore same-juror source citation with correction record. Current charge matches; no invented receipt carve-out."
+    }
+  ],
+  "limitations": [
+    "No universal corroboration requirement or preferred verdict is established.",
+    "This targeted replay does not establish full hearing quality."
+  ]
+}

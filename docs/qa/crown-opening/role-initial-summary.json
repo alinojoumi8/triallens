@@ -1,0 +1,23 @@
+{
+  "candidate": "role-only, superseded for source-status correction",
+  "planHash": "1bfbe78ec1f4ab8b0cfc7a6fced229fedbd5034c0c7959f60e3dc301834902af",
+  "usage": {
+    "providerHttpCalls": 25,
+    "providerInputCharacters": 261500,
+    "actualTokens": 107366,
+    "actualCost": null,
+    "elapsedMs": 529056.0907
+  },
+  "integrity": {
+    "pairs": 25,
+    "errors": []
+  },
+  "checkerExpected": 13,
+  "checkerMatched": 13,
+  "firstAuthorAccepted": 2,
+  "finalAuthorAccepted": 4,
+  "independentRoleFaithful": 4,
+  "independentOverallFaithful": 3,
+  "strictProgression": false,
+  "qualifiedHumanReview": null
+}

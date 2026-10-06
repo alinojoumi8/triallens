@@ -1,0 +1,558 @@
+[
+  {
+    "planHash": "ab2a382afd84aa1fe6fd82773ff0a400bd82c43c10e4ab74c5abb40d13e21e76",
+    "sourceCandidate": "406ba52cb9a95f6dfef0ef7ecfc1718ccb4243b09d5cf036b918389f24811358",
+    "jobs": [
+      {
+        "id": "hearing-Rowan-actor-2",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 76058,
+          "actualTokens": 21923,
+          "actualCost": null,
+          "elapsedMs": 74167.6684
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "hearing-Morgan-actor-11",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 77529,
+          "actualTokens": 17124,
+          "actualCost": null,
+          "elapsedMs": 24134.0314
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "later-exclusion-1-actor-1",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 73222,
+          "actualTokens": 17909,
+          "actualCost": null,
+          "elapsedMs": 57142.5718
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-3-actor-8",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 88110,
+          "actualTokens": 22564,
+          "actualCost": null,
+          "elapsedMs": 51460.645
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "struck-testimony-2-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 87115,
+          "actualTokens": 20917,
+          "actualCost": null,
+          "elapsedMs": 50672.0185
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-1-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 1,
+        "usage": {
+          "providerHttpCalls": 5,
+          "providerInputCharacters": 145677,
+          "actualTokens": 50285,
+          "actualCost": null,
+          "elapsedMs": 173410.3157
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "later-exclusion-2-actor-15",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 88844,
+          "actualTokens": 29379,
+          "actualCost": null,
+          "elapsedMs": 125612.8066
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-2-actor-20",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 98073,
+          "actualTokens": 24762,
+          "actualCost": null,
+          "elapsedMs": 52081.1341
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      },
+      {
+        "id": "missing-essential-proof-1-actor-5",
+        "state": "finished",
+        "sourceCheckerRejected": false,
+        "originalFormatError": "ModelProviderError: Model output was not valid JSON for the requested shape: content repeats the schema placeholder; supply actual stage speech.",
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 86160,
+          "actualTokens": 21544,
+          "actualCost": null,
+          "elapsedMs": 56192.7728
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Nine fresh responses inspected; qualifiers/identities/procedure preserved and literal placeholder removed. No full-trial quality inference."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 29,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 226407
+    }
+  },
+  {
+    "planHash": "c70cf4f4c4cc3122dfd7d546144cbcfce7010ce4b7b0eb07d33cbfa2c26e8c8e",
+    "sourceCandidate": "406ba52cb9a95f6dfef0ef7ecfc1718ccb4243b09d5cf036b918389f24811358",
+    "jobs": [
+      {
+        "id": "hearing-Rowan-actor-2",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 76087,
+          "actualTokens": 21293,
+          "actualCost": null,
+          "elapsedMs": 61237.5383
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "hearing-Morgan-actor-11",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 77549,
+          "actualTokens": 17233,
+          "actualCost": null,
+          "elapsedMs": 16878.9093
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "later-exclusion-1-actor-1",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 1,
+        "usage": {
+          "providerHttpCalls": 5,
+          "providerInputCharacters": 119509,
+          "actualTokens": 32184,
+          "actualCost": null,
+          "elapsedMs": 97318.6899
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-3-actor-8",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 1,
+        "usage": {
+          "providerHttpCalls": 5,
+          "providerInputCharacters": 146100,
+          "actualTokens": 36155,
+          "actualCost": null,
+          "elapsedMs": 69215.44540000001
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "struck-testimony-2-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 87387,
+          "actualTokens": 23082,
+          "actualCost": null,
+          "elapsedMs": 66364.8647
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-1-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 87917,
+          "actualTokens": 23687,
+          "actualCost": null,
+          "elapsedMs": 62285.619300000006
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "later-exclusion-2-actor-15",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 88678,
+          "actualTokens": 21817,
+          "actualCost": null,
+          "elapsedMs": 37818.7762
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-2-actor-20",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 4,
+          "providerInputCharacters": 142290,
+          "actualTokens": 37704,
+          "actualCost": null,
+          "elapsedMs": 77353.4469
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "missing-essential-proof-1-actor-5",
+        "state": "finished",
+        "sourceCheckerRejected": false,
+        "originalFormatError": "ModelProviderError: Model output was not valid JSON for the requested shape: content repeats the schema placeholder; supply actual stage speech.",
+        "observedFailureRejected": true,
+        "repairs": 1,
+        "usage": {
+          "providerHttpCalls": 5,
+          "providerInputCharacters": 143018,
+          "actualTokens": 33863,
+          "actualCost": null,
+          "elapsedMs": 62303.650100000006
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "missing-essential-proof-3-actor-16",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 90613,
+          "actualTokens": 26075,
+          "actualCost": null,
+          "elapsedMs": 63001.490099999995
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "missing-essential-proof-2-actor-30",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 111892,
+          "actualTokens": 30652,
+          "actualCost": null,
+          "elapsedMs": 63926.3198
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "Eleven of twelve fresh responses pass independent review with wording risks; one introduces a different source-purpose failure. All twelve measured original triggers removed."
+        }
+      },
+      {
+        "id": "struck-testimony-3-actor-27",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 108349,
+          "actualTokens": 30253,
+          "actualCost": null,
+          "elapsedMs": 73554.1928
+        },
+        "independentFreshResponseReview": {
+          "id": "struck-testimony-3-actor-27",
+          "status": "failed",
+          "notes": "Original unsupported Rowan-at-desk proof point removed, but fresh rationale says the limited-use instruction bars treating E-001 as proof of receipt. Actual charge permits assessment of admitted disputed accounts and bars treating attribution as an established finding; this replaces that permission with a stronger prohibition. Still a source-purpose failure."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 43,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 333998
+    }
+  },
+  {
+    "planHash": "eda54068f0e17c2f7f02e75fd7a79b2629f50f3fac3501234b4324e16d237955",
+    "sourceCandidate": "406ba52cb9a95f6dfef0ef7ecfc1718ccb4243b09d5cf036b918389f24811358",
+    "jobs": [
+      {
+        "id": "hearing-Rowan-actor-2",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 76131,
+          "actualTokens": 22147,
+          "actualCost": null,
+          "elapsedMs": 86044.11820000001
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      },
+      {
+        "id": "hearing-Morgan-actor-11",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 77535,
+          "actualTokens": 17019,
+          "actualCost": null,
+          "elapsedMs": 23301.1146
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      },
+      {
+        "id": "later-exclusion-1-actor-1",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 73362,
+          "actualTokens": 18291,
+          "actualCost": null,
+          "elapsedMs": 39298.465800000005
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-3-actor-8",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 88086,
+          "actualTokens": 22761,
+          "actualCost": null,
+          "elapsedMs": 57904.554599999996
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      },
+      {
+        "id": "struck-testimony-2-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 87113,
+          "actualTokens": 22590,
+          "actualCost": null,
+          "elapsedMs": 59335.463800000005
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      },
+      {
+        "id": "conflicting-witnesses-1-actor-10",
+        "state": "finished",
+        "sourceCheckerRejected": true,
+        "originalFormatError": null,
+        "observedFailureRejected": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 3,
+          "providerInputCharacters": 87901,
+          "actualTokens": 23858,
+          "actualCost": null,
+          "elapsedMs": 54306.6703
+        },
+        "independentFreshResponseReview": {
+          "status": "passed_with_wording_risks",
+          "notes": "All six fresh responses remove the measured original errors; remaining attribution shorthand is qualified by unknown receipt or conflicting accounts."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 18,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 126666
+    }
+  }
+]

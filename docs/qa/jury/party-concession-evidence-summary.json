@@ -1,0 +1,39 @@
+{
+  "planHash": "2f41635a6e798ef6b3ede0b975a26a346bfbc707d61a025bd409f21145bee9b9",
+  "hashMethod": "SHA-256 compact JSON.stringify(plan), not pretty file bytes",
+  "controls": [
+    {
+      "id": "acknowledgement-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "passed"
+    },
+    {
+      "id": "captured-acceptance-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "passed"
+    },
+    {
+      "id": "missing-submission-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "failed"
+    },
+    {
+      "id": "wrong-party-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "status": "failed"
+    }
+  ],
+  "exchanges": {
+    "received": 5
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "knownTotalTokensLowerBound": 37227,
+  "cost": null,
+  "limitation": "Checker calibration of actual captured request only; new generation and whole matrix pending.",
+  "allMatched": true
+}

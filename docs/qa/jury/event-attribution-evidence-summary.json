@@ -1,0 +1,64 @@
+[
+  {
+    "directory": "tmp\\qa\\courtroom\\jury-event-attribution\\live-642589c205d3a323f1eabb9142ea9d72dfed48adcd7b1e698fc310e81a9b9dc8-1791203222531",
+    "jobs": [
+      {
+        "id": "exact-visible-event-positive",
+        "state": "finished",
+        "expectedMatched": true,
+        "error": null
+      },
+      {
+        "id": "full-id-positive",
+        "state": "finished",
+        "expectedMatched": true,
+        "error": null
+      },
+      {
+        "id": "wrong-event-negative",
+        "state": "finished",
+        "expectedMatched": true,
+        "error": null
+      }
+    ],
+    "raw": {
+      "received": 3,
+      "failed": 0,
+      "incomplete": 0,
+      "httpErrors": 0,
+      "hashMismatches": 0,
+      "knownTokensLowerBound": 44088
+    }
+  },
+  {
+    "directory": "tmp\\qa\\courtroom\\jury-event-attribution\\live-81b7f7d4594c6e7495a224eccee82c1539d9f25c3038d19f72cdf5d334e62754-1791203167071",
+    "jobs": [
+      {
+        "id": "exact-visible-event-positive",
+        "state": "failed",
+        "expectedMatched": null,
+        "error": "TypeError: fetch failed"
+      },
+      {
+        "id": "full-id-positive",
+        "state": "failed",
+        "expectedMatched": null,
+        "error": "TypeError: fetch failed"
+      },
+      {
+        "id": "wrong-event-negative",
+        "state": "failed",
+        "expectedMatched": null,
+        "error": "TypeError: fetch failed"
+      }
+    ],
+    "raw": {
+      "received": 0,
+      "failed": 3,
+      "incomplete": 0,
+      "httpErrors": 0,
+      "hashMismatches": 0,
+      "knownTokensLowerBound": 0
+    }
+  }
+]

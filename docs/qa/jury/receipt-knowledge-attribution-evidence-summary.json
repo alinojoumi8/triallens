@@ -1,0 +1,53 @@
+{
+  "planHash": "37238a44a2399beaa37e6ac8a953cca1cd83593a7a6bf02e3ef02088db2fea3f",
+  "terminal": true,
+  "matched": 5,
+  "total": 5,
+  "jobs": [
+    {
+      "id": "captured-knowledge-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "corrected-receipt-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "explicit-broad-support-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "general-token-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "receipt-qualifier-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    }
+  ],
+  "freshAccepted": true,
+  "exchangeStates": {
+    "received": 7
+  },
+  "requestRoles": {
+    "checker": 6,
+    "author": 1
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "sourceSnapshot": "tmp/qa/jury-receipt-knowledge-attribution-source",
+  "knownReportedTokensLowerBound": 51026,
+  "cost": null,
+  "scope": "Corrected positive attributes the broader knowledge statement to Tavi; actual V7 captured negative, qualified positives and one fresh generation retained."
+}

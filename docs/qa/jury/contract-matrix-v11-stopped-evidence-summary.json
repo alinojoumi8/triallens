@@ -1,0 +1,372 @@
+[
+  {
+    "directory": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-contract-matrix-v11\\tmp\\qa\\courtroom\\full-jury\\live-2808bf9f5fcc9eacabb78caf2524b5ee8d9cd93d422f0802042d2064d2321861-1791214196958",
+    "planHash": "2808bf9f5fcc9eacabb78caf2524b5ee8d9cd93d422f0802042d2064d2321861",
+    "schedulingStop": null,
+    "independentStop": null,
+    "controls": {
+      "executed": 108,
+      "matched": 108,
+      "transportRetries": 0,
+      "transportErrors": []
+    },
+    "trials": [
+      {
+        "id": "hearing-Rowan",
+        "variant": "Rowan",
+        "scenario": null,
+        "actors": 24,
+        "accepted": 23,
+        "sourceRepairFlagFirstAccepted": 22,
+        "firstReceivedDraftAccepted": 22,
+        "acceptedRegeneratedDrafts": 1,
+        "successfulAuthorResponses": 26,
+        "repaired": 1,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 52,
+          "providerInputCharacters": 1669176,
+          "actualTokens": 414338,
+          "actualCost": null,
+          "elapsedMs": 890270.6973
+        }
+      },
+      {
+        "id": "hearing-Morgan",
+        "variant": "Morgan",
+        "scenario": null,
+        "actors": 22,
+        "accepted": 21,
+        "sourceRepairFlagFirstAccepted": 20,
+        "firstReceivedDraftAccepted": 20,
+        "acceptedRegeneratedDrafts": 1,
+        "successfulAuthorResponses": 24,
+        "repaired": 1,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 50,
+          "providerInputCharacters": 1563104,
+          "actualTokens": null,
+          "actualCost": null,
+          "elapsedMs": 1065114.077
+        }
+      },
+      {
+        "id": "conflicting-witnesses-1",
+        "scenario": "conflicting-witnesses",
+        "variant": "Rowan",
+        "attempt": 1,
+        "actors": 2,
+        "accepted": 1,
+        "sourceRepairFlagFirstAccepted": 0,
+        "firstReceivedDraftAccepted": 0,
+        "acceptedRegeneratedDrafts": 1,
+        "successfulAuthorResponses": 6,
+        "repaired": 1,
+        "failures": [
+          {
+            "id": "conflicting-witnesses-1-actor-2",
+            "stage": "defence_rebuttal",
+            "error": "ModelProviderError: Source verification rejected the generated response. See its factual-check audit."
+          }
+        ],
+        "checks": {},
+        "error": "Source verification rejected the generated response. See its factual-check audit.",
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 20,
+          "providerInputCharacters": 646454,
+          "actualTokens": 154856,
+          "actualCost": null,
+          "elapsedMs": 338510.3713
+        }
+      },
+      {
+        "id": "conflicting-witnesses-2",
+        "scenario": "conflicting-witnesses",
+        "variant": "Morgan",
+        "attempt": 2,
+        "actors": 16,
+        "accepted": 14,
+        "sourceRepairFlagFirstAccepted": 9,
+        "firstReceivedDraftAccepted": 9,
+        "acceptedRegeneratedDrafts": 5,
+        "successfulAuthorResponses": 24,
+        "repaired": 5,
+        "failures": [
+          {
+            "id": "conflicting-witnesses-2-actor-13",
+            "stage": "juror_ballot",
+            "error": "ModelProviderError: Source verification rejected the generated response. See its factual-check audit."
+          }
+        ],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 45,
+          "providerInputCharacters": 1382939,
+          "actualTokens": 361688,
+          "actualCost": null,
+          "elapsedMs": 1072618.2789
+        }
+      },
+      {
+        "id": "conflicting-witnesses-3",
+        "scenario": "conflicting-witnesses",
+        "variant": "Rowan",
+        "attempt": 3,
+        "actors": 16,
+        "accepted": 15,
+        "sourceRepairFlagFirstAccepted": 12,
+        "firstReceivedDraftAccepted": 12,
+        "acceptedRegeneratedDrafts": 3,
+        "successfulAuthorResponses": 20,
+        "repaired": 3,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 39,
+          "providerInputCharacters": 1271148,
+          "actualTokens": 326771,
+          "actualCost": null,
+          "elapsedMs": 1008126.2086
+        }
+      },
+      {
+        "id": "later-exclusion-1",
+        "scenario": "later-exclusion",
+        "variant": "Rowan",
+        "attempt": 1,
+        "actors": 16,
+        "accepted": 15,
+        "sourceRepairFlagFirstAccepted": 9,
+        "firstReceivedDraftAccepted": 9,
+        "acceptedRegeneratedDrafts": 6,
+        "successfulAuthorResponses": 23,
+        "repaired": 6,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 48,
+          "providerInputCharacters": 1490737,
+          "actualTokens": 383553,
+          "actualCost": null,
+          "elapsedMs": 1122969.0273000002
+        }
+      },
+      {
+        "id": "later-exclusion-2",
+        "scenario": "later-exclusion",
+        "variant": "Morgan",
+        "attempt": 2,
+        "actors": 15,
+        "accepted": 14,
+        "sourceRepairFlagFirstAccepted": 9,
+        "firstReceivedDraftAccepted": 9,
+        "acceptedRegeneratedDrafts": 5,
+        "successfulAuthorResponses": 24,
+        "repaired": 5,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 42,
+          "providerInputCharacters": 1272167,
+          "actualTokens": 327888,
+          "actualCost": null,
+          "elapsedMs": 993727.8452999999
+        }
+      },
+      {
+        "id": "later-exclusion-3",
+        "scenario": "later-exclusion",
+        "variant": "Rowan",
+        "attempt": 3,
+        "actors": 17,
+        "accepted": 16,
+        "sourceRepairFlagFirstAccepted": 12,
+        "firstReceivedDraftAccepted": 12,
+        "acceptedRegeneratedDrafts": 4,
+        "successfulAuthorResponses": 23,
+        "repaired": 4,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 43,
+          "providerInputCharacters": 1296285,
+          "actualTokens": 338360,
+          "actualCost": null,
+          "elapsedMs": 1025864.4924000001
+        }
+      },
+      {
+        "id": "struck-testimony-1",
+        "scenario": "struck-testimony",
+        "variant": "Rowan",
+        "attempt": 1,
+        "actors": 18,
+        "accepted": 17,
+        "sourceRepairFlagFirstAccepted": 13,
+        "firstReceivedDraftAccepted": 13,
+        "acceptedRegeneratedDrafts": 4,
+        "successfulAuthorResponses": 25,
+        "repaired": 4,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 48,
+          "providerInputCharacters": 1495804,
+          "actualTokens": 385897,
+          "actualCost": null,
+          "elapsedMs": 1074565.4882
+        }
+      },
+      {
+        "id": "struck-testimony-2",
+        "scenario": "struck-testimony",
+        "variant": "Morgan",
+        "attempt": 2,
+        "actors": 2,
+        "accepted": 1,
+        "sourceRepairFlagFirstAccepted": 0,
+        "firstReceivedDraftAccepted": 0,
+        "acceptedRegeneratedDrafts": 1,
+        "successfulAuthorResponses": 6,
+        "repaired": 1,
+        "failures": [
+          {
+            "id": "struck-testimony-2-actor-2",
+            "stage": "defence_rebuttal",
+            "error": "ModelProviderError: Source verification rejected the generated response. See its factual-check audit."
+          }
+        ],
+        "checks": {},
+        "error": "Source verification rejected the generated response. See its factual-check audit.",
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 14,
+          "providerInputCharacters": 411852,
+          "actualTokens": 105357,
+          "actualCost": null,
+          "elapsedMs": 321731.23260000005
+        }
+      },
+      {
+        "id": "struck-testimony-3",
+        "scenario": "struck-testimony",
+        "variant": "Rowan",
+        "attempt": 3,
+        "actors": 16,
+        "accepted": 15,
+        "sourceRepairFlagFirstAccepted": 11,
+        "firstReceivedDraftAccepted": 11,
+        "acceptedRegeneratedDrafts": 4,
+        "successfulAuthorResponses": 23,
+        "repaired": 4,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 41,
+          "providerInputCharacters": 1236630,
+          "actualTokens": 323218,
+          "actualCost": null,
+          "elapsedMs": 992356.0451
+        }
+      },
+      {
+        "id": "missing-essential-proof-1",
+        "scenario": "missing-essential-proof",
+        "variant": "Rowan",
+        "attempt": 1,
+        "actors": 23,
+        "accepted": 22,
+        "sourceRepairFlagFirstAccepted": 19,
+        "firstReceivedDraftAccepted": 19,
+        "acceptedRegeneratedDrafts": 3,
+        "successfulAuthorResponses": 26,
+        "repaired": 3,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 49,
+          "providerInputCharacters": 1498365,
+          "actualTokens": 377826,
+          "actualCost": null,
+          "elapsedMs": 1103218.4288
+        }
+      },
+      {
+        "id": "missing-essential-proof-2",
+        "scenario": "missing-essential-proof",
+        "variant": "Morgan",
+        "attempt": 2,
+        "actors": 20,
+        "accepted": 19,
+        "sourceRepairFlagFirstAccepted": 16,
+        "firstReceivedDraftAccepted": 16,
+        "acceptedRegeneratedDrafts": 3,
+        "successfulAuthorResponses": 23,
+        "repaired": 3,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 47,
+          "providerInputCharacters": 1483944,
+          "actualTokens": 379717,
+          "actualCost": null,
+          "elapsedMs": 1087895.9649999999
+        }
+      },
+      {
+        "id": "missing-essential-proof-3",
+        "scenario": "missing-essential-proof",
+        "variant": "Rowan",
+        "attempt": 3,
+        "actors": 17,
+        "accepted": 16,
+        "sourceRepairFlagFirstAccepted": 14,
+        "firstReceivedDraftAccepted": 14,
+        "acceptedRegeneratedDrafts": 2,
+        "successfulAuthorResponses": 20,
+        "repaired": 2,
+        "failures": [],
+        "ballots": 0,
+        "changedFinalBallots": 0,
+        "usage": {
+          "providerHttpCalls": 41,
+          "providerInputCharacters": 1232386,
+          "actualTokens": 320504,
+          "actualCost": null,
+          "elapsedMs": 1012418.7045000001
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 710,
+      "httpErrors": 0,
+      "failed": 1,
+      "incomplete": 12,
+      "hashMismatches": 0,
+      "knownTokens": 5435393,
+      "inputMismatches": 0,
+      "nativeManifests": 4,
+      "manifestMismatches": 0,
+      "legalPacketMismatches": 0,
+      "committedOutputMismatches": 0
+    },
+    "drift": []
+  }
+]

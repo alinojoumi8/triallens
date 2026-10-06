@@ -1,0 +1,65 @@
+{
+  "planHash": "955905cfc38eceaa0f356fe10c21c80a7f6acacf742afef81bac11e7a75fe490",
+  "terminal": true,
+  "matched": 7,
+  "total": 7,
+  "exchangeStates": {
+    "received": 11
+  },
+  "requestRoles": {
+    "checker": 9,
+    "author": 2
+  },
+  "hashMismatches": [],
+  "knownReportedTokensLowerBound": 86704,
+  "cost": null,
+  "sourceFilesChecked": 51,
+  "sourceDrift": [],
+  "sourceSnapshot": "tmp/qa/jury-nominal-scope-source",
+  "fresh": [
+    {
+      "id": "captured-token-knowledge-negative",
+      "resultFileHash": "6f7b5113e3091c643b4f6a9529730680f6d2f00e957003f4cabc2c34e365959a",
+      "firstDraftAccepted": true,
+      "authorResponses": 1,
+      "repairs": 0,
+      "verificationRetries": 0,
+      "status": "passed_with_wording_risks",
+      "freshContent": "On issue-1, the supplied account in E-001 records Fictional Ellis at the desk but expressly states uncertainty about any token receipt; the limited-use instruction leaves that attribution disputed and the Crown bears the beyond-a-reasonable-doubt burden on blue-token receipt, so my initial ballot is not_guilty.",
+      "freshRationale": "E-001 places Ellis at the desk but Mira states she does not know whether Ellis received any token; this attributed, disputed account cannot meet the Crown's beyond-a-reasonable-doubt burden on blue-token receipt from Rowan, so I vote not_guilty.",
+      "freshMindChangedBecause": "Position is stable: no prior vote exists, and E-001's explicit uncertainty about token receipt cannot satisfy the Crown's burden on the listed condition.",
+      "nativeMetadata": {
+        "jurorMatches": true,
+        "instructionMatches": true,
+        "citationsPermitted": true,
+        "initialHistoryEmpty": true
+      },
+      "assessment": "Exact source observation and receipt/non-observation qualifiers preserved. Competing-account assessment is qualified to supplied record and actual fictional Crown burden. No affirmative non-primary classification, all-token knowledge limit, invented offence element or hidden marker. All semantic normalized fields reviewed; initial metadata matches actual request.",
+      "wordingRisks": [
+        "Broad insufficient-attributed-account phrasing is an individual assessment in context; it must not become a universal ban on assessment-permitted source use."
+      ]
+    },
+    {
+      "id": "captured-primary-proof-negative",
+      "resultFileHash": "40a8ddceac1319c62a8edd77fedad31959bea5b71b6fa5db0b0113c8dafca00f",
+      "firstDraftAccepted": true,
+      "authorResponses": 1,
+      "repairs": 0,
+      "verificationRetries": 0,
+      "status": "passed_with_wording_risks",
+      "freshContent": "As juror-02, my initial ballot on issue-1 is not_guilty. E-001 records Mira's account of a handover; E-002 records Tavi's account of no handover seen, with Rowan departing with the token. Both remain attributed disputed material, and the Crown's burden beyond a reasonable doubt is not met on this element-by-element synthesis.",
+      "freshRationale": "E-001 (Mira) and E-002 (Tavi) directly conflict on the handover element. Both are attributed disputed accounts, not independently established facts. The Crown bears the burden beyond a reasonable doubt; on element-by-element review that burden is not met.",
+      "freshMindChangedBecause": "This is the initial ballot; no prior position exists to change, and the conflicting attributed accounts in E-001 and E-002 leave the receipt element unproven beyond a reasonable doubt.",
+      "nativeMetadata": {
+        "jurorMatches": true,
+        "instructionMatches": true,
+        "citationsPermitted": true,
+        "initialHistoryEmpty": true
+      },
+      "assessment": "Exact source observation and receipt/non-observation qualifiers preserved. Competing-account assessment is qualified to supplied record and actual fictional Crown burden. No affirmative non-primary classification, all-token knowledge limit, invented offence element or hidden marker. All semantic normalized fields reviewed; initial metadata matches actual request.",
+      "wordingRisks": [
+        "Broad insufficient-attributed-account phrasing is an individual assessment in context; it must not become a universal ban on assessment-permitted source use."
+      ]
+    }
+  ]
+}

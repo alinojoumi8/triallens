@@ -1,0 +1,29 @@
+[
+  {
+    "directory": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final\\tmp\\qa\\courtroom\\full-jury\\live-758993e800a496c70588562cac1d8af54fce14e337593fc67717d830e66d2352-1791189833491",
+    "planHash": "758993e800a496c70588562cac1d8af54fce14e337593fc67717d830e66d2352",
+    "schedulingStop": null,
+    "independentStop": null,
+    "controls": {
+      "executed": 80,
+      "matched": 79,
+      "transportRetries": 0,
+      "transportErrors": []
+    },
+    "trials": [],
+    "rawIntegrity": {
+      "pairs": 81,
+      "httpErrors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "hashMismatches": 0,
+      "knownTokens": 437583,
+      "inputMismatches": 0,
+      "nativeManifests": 0,
+      "manifestMismatches": 0,
+      "legalPacketMismatches": 0,
+      "committedOutputMismatches": 0
+    },
+    "drift": []
+  }
+]

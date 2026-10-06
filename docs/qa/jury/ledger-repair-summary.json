@@ -1,0 +1,1491 @@
+[
+  {
+    "planHash": "037009d0decf4145209354f21a6b10ed861e4633966e82e35b7626f3542e761b",
+    "jobs": [
+      {
+        "id": "misplaced-attributed-presence",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "attributed-observed-person",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-presence",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 2,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-presence",
+          "status": "passed_with_wording_risks",
+          "notes": "Speech and rationale preserve observer Mira, observed Ellis, and receipt uncertainty; actual Crown proof-limit acknowledgment and own initial position retained. Optional normalized belief placeholders remain non-substantive."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 9,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 93307
+    }
+  },
+  {
+    "planHash": "06e332d5405583cba060123947a7b5d1c54d67589e7f9dff0f8f83b2af0bec34",
+    "jobs": [
+      {
+        "id": "nominal-attribution-only",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "permitted-attribution-only-basis",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "explicit-nonobservation",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "absence-of-recorded-observation",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "negated-exclusive-attribution",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "only-misplaced-presence",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-observation-and-knowledge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-public-concession",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-conflicting-witnesses-1-1",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-later-exclusion-1-5",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-struck-testimony-1-24",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-conflicting-witnesses-3-10",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-later-exclusion-3-3",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-final",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-final",
+          "status": "passed_with_wording_risks",
+          "notes": "Exact permitted-source uncertainty quotation, current instruction, stable own ballot and actual Crown proof-limit acknowledgment preserved. No invented prior argument, receipt denial, observed-person substitution or formal assessment prohibition. Sole-account-on-receipt wording is scoped to direct receipt statement; it should not be read as denying the distinct presence observation. Optional normalized placeholders are not native substantive facts."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 20,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 191888
+    }
+  },
+  {
+    "planHash": "3c738b3f7ad71d7101d66a75a0a973265f2d008c8b847fdd008aa7a12f7172a2",
+    "jobs": [
+      {
+        "id": "unraised-proof-point",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "named-invented-argument",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "hypothetical-challenge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-own-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-argument",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": false,
+        "providerRetries": [],
+        "recoveredExpected": false,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "invented-binding-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-charge-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-cannot-use",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "individual-insufficiency",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "automatic-finding-limit",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "multi-witness-permission",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "exact-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "No invented prior proof point. Actual exclusive-attribution cap and own stable position preserved. Documentary focus stays in supplied-record scope."
+        }
+      },
+      {
+        "id": "exact-struck-3-27",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-3-27",
+          "status": "passed_with_wording_risks",
+          "notes": "Uses an explicit hypothetical rather than an invented actual proof point. Unknown receipt and assessment permission preserved; actual Crown submission expressly acknowledges the proof limit."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 19,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 208688
+    }
+  },
+  {
+    "planHash": "53fec87a9eaf956df79ffb8fde320104c8983d83d13d9bd993047a2be64546b5",
+    "jobs": [
+      {
+        "id": "nominal-attribution-only",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "permitted-attribution-only-basis",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "explicit-nonobservation",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "absence-of-recorded-observation",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "negated-exclusive-attribution",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-public-concession",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-conflicting-witnesses-1-1",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-later-exclusion-1-5",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-struck-testimony-1-24",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-conflicting-witnesses-3-10",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-later-exclusion-3-3",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-final",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 2,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-final",
+          "status": "failed",
+          "notes": "Speech preserves actual observed Ellis and unknown receipt; rationale attributes to Mira only presence at the desk, conflating reporting witness and observed person. Optional-only wording regression and exact-source summary instruction added."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 21,
+      "errors": 1,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 179333
+    }
+  },
+  {
+    "planHash": "6efb3f35708f84dac6d22d711c9c6d338c9881c7bf4bfbd31bb474f59ee63beb",
+    "jobs": [
+      {
+        "id": "receipt-disclaimer-negative",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "receipt-knowledge-positive",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-receipt-noun",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "exact-receipt-noun",
+          "status": "failed",
+          "notes": "Receipt uncertainty is preserved, but speech invents a shared-record framing of established handover absence. Actual prior contributions state non-observation or missing proof. Shared-framing regression and agreement-permitting phase protocol added; this old candidate remains failed."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 7,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 71601
+    }
+  },
+  {
+    "planHash": "6f895e61fe47995a608fc39b94e12976378eb4bb540c055f2096c9bf4005570f",
+    "jobs": [
+      {
+        "id": "unraised-proof-point",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "named-invented-argument",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "hypothetical-challenge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-own-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-argument",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "invented-binding-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-charge-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-cannot-use",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "individual-insufficiency",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "automatic-finding-limit",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "multi-witness-permission",
+        "replay": false,
+        "expected": "passed",
+        "state": "failed",
+        "providerRetries": [
+          {
+            "directory": "provider-retry-1791173120263",
+            "state": "finished",
+            "expectedMatched": true,
+            "originalError": "ModelProviderError: MiniMax request failed (529, 252 chars).",
+            "attempts": []
+          }
+        ],
+        "recoveredExpected": true,
+        "error": "ModelProviderError: MiniMax request failed (529, 252 chars).",
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "nonverbatim-peer-quote",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "verbatim-peer-quote",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 3,
+        "independentFreshResponseReview": {
+          "id": "exact-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Explicit hypothetical challenge does not invent a real prior proof point. Exact limited-use instruction and uncertainty preserved; vote remains stable."
+        }
+      },
+      {
+        "id": "exact-struck-3-27",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-3-27",
+          "status": "passed_with_wording_risks",
+          "notes": "Current source inference critique preserves actual observed person, unknown receipt and no named giver in approved account. No formal assessment prohibition asserted. Inference-drawn wording remains ambiguous but attributes no named historical jury position."
+        }
+      },
+      {
+        "id": "exact-struck-quote",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-quote",
+          "status": "failed",
+          "notes": "Speech, rationale and stable-vote reason lose the knowledge qualifier with disclaimer about receipt and explicit receipt disclaimer. The source states non-knowledge about whether receipt occurred, not receipt denial. New nominal-disclaimer regression and correction added."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 37,
+      "errors": 1,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 454082
+    }
+  },
+  {
+    "planHash": "a67d3941e976ee6a6cbe6a5878d1d114a40aab3079c32d81fb463bd9fd1d4e08",
+    "jobs": [
+      {
+        "id": "unraised-proof-point",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "named-invented-argument",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "hypothetical-challenge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-own-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-argument",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "invented-binding-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-charge-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-cannot-use",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "individual-insufficiency",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "automatic-finding-limit",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "multi-witness-permission",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Preserves source cap, supplied-record scope and actual initial position; no invented prior point."
+        }
+      },
+      {
+        "id": "exact-struck-3-27",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-3-27",
+          "status": "failed",
+          "notes": "Actual prior jurors did use a non-observation framing, but the quoted phrase 'uncertainty, not observation of a handover' is compressed from longer contributions and is not verbatim. A correct paraphrase cannot be presented as a direct quotation. Exact-quote regression added and candidate superseded."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 17,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 173204
+    }
+  },
+  {
+    "planHash": "ae26263436ca64069042b0596c94a433cf2e8ae4cbc9ce101a2770e28e00eb71",
+    "jobs": [
+      {
+        "id": "unraised-proof-point",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "named-invented-argument",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "hypothetical-challenge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-own-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-argument",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": false,
+        "providerRetries": [],
+        "recoveredExpected": false,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "invented-binding-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-charge-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-cannot-use",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "individual-insufficiency",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "automatic-finding-limit",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "multi-witness-permission",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "nonverbatim-peer-quote",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "verbatim-peer-quote",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": false,
+        "providerRetries": [],
+        "recoveredExpected": false,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "exact-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "No invented prior point; source-purpose cap and current charge preserved. Quantitative/documentary preference wording remains a risk."
+        }
+      },
+      {
+        "id": "exact-struck-3-27",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 3,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-3-27",
+          "status": "passed_with_wording_risks",
+          "notes": "Critiques an inference from supplied presence observation without assigning it to another actor. Actual Crown proof-limit acknowledgment and unknown-receipt context retained; abbreviated beyond a doubt wording is a risk."
+        }
+      },
+      {
+        "id": "exact-struck-quote",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-quote",
+          "status": "passed_with_wording_risks",
+          "notes": "No fabricated quotation. All visible positions reach the same not-guilty conclusion; source-grounded convergence wording is broad and does not prove every prior paraphrase was accurate."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 32,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 395310
+    }
+  },
+  {
+    "planHash": "bf16e209f4cb6d75dd26238c9c794b9e56b018bb4f5b57135b47b0fd761fdd63",
+    "jobs": [
+      {
+        "id": "nominal-attribution-only",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "permitted-attribution-only-basis",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "explicit-nonobservation",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "absence-of-recorded-observation",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "negated-exclusive-attribution",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-public-concession",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-final",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-final",
+          "status": "failed",
+          "notes": "Mixed unit accurately attributes the Crown concession but asserts E-001 records only uncertainty, omitting Ellis presence. Public-attribution exemption incorrectly bypassed source-summary checking. Mixed-source regression and fix added."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 14,
+      "errors": 1,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 136966
+    }
+  },
+  {
+    "planHash": "ee36c5f9406e2e1ebfc64c4ab601c4244221b12c0254e1b1bcfcddb2497dd87b",
+    "jobs": [
+      {
+        "id": "uncertainty-only-summary",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "receipt-scoped-summary",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "nonexhaustive-uncertainty",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-summary",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-summary",
+          "status": "failed",
+          "notes": "Speech quotes the supplied source verbatim and no invented opposing argument remains. Rationale attributes to Mira presence at the desk, conflating the reporting witness and observed Ellis. Explicit observed-person attribution regression and deterministic guard added; this candidate remains failed."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 7,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 71543
+    }
+  },
+  {
+    "planHash": "f2d3d621b131149f952943b0bb9dbbdee45429d82d81c711cc1c4475b87fb89b",
+    "jobs": [
+      {
+        "id": "invented-shared-framing",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-qualified-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-verbatim",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": false,
+        "providerRetries": [],
+        "recoveredExpected": false,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "protocol-struck-framing",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "protocol-struck-framing",
+          "status": "passed_with_wording_risks",
+          "notes": "Protocol-updated replay permits agreement. Speech acknowledges actual unanimous visible positions without fabricated challenge; uncertainty, observed person and Crown proof-limit statement preserved. Rationale not-a-handover-observation refers to the supplied account rather than claiming explicit non-observation. Normalized optional belief/deliberation placeholders are not native substantive assertions."
+        }
+      },
+      {
+        "id": "protocol-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "protocol-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Protocol-updated replay contains own assessment, no fabricated prior argument. Exclusive-attribution permission and supplied sole condition retained. Documentary/quantitative focus wording remains a profile risk; it does not add a mandatory legal corroboration rule."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 14,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 170757
+    }
+  },
+  {
+    "planHash": "fa2b77c6e95a999c7ed78fe456d7bfb61ef499f2f4cac69a0a66672f497b7c48",
+    "jobs": [
+      {
+        "id": "unraised-proof-point",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "named-invented-argument",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "hypothetical-challenge",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "current-own-assessment",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "actual-peer-argument",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "invented-binding-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-charge-ban",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "heldout-cannot-use",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "individual-insufficiency",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "automatic-finding-limit",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "multi-witness-permission",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "nonverbatim-peer-quote",
+        "replay": false,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "verbatim-peer-quote",
+        "replay": false,
+        "expected": "passed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "independentFreshResponseReview": null
+      },
+      {
+        "id": "exact-Rowan-48",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-Rowan-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Own generic inference critique names no historical actor or quotation. Exact exclusive-attribution use preserved, supplied-condition scope retained. Proof-point framing under the old mandatory challenge prompt remains ambiguous; documentary preference is not stated as a binding corroboration requirement."
+        }
+      },
+      {
+        "id": "exact-struck-3-27",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 1,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-3-27",
+          "status": "failed",
+          "notes": "Speech accurately notes that prior contributions found no exhibit establishes handover, but then invents exhibit-empty framing they did not assert. Rationale records only non-knowledge is an exhaustive summary that omits the actual observation of Ellis standing at the desk. Frozen source-check success does not establish whole-response quality. Old mandatory challenge request retained; production protocol-updated replays were separately reviewed."
+        }
+      },
+      {
+        "id": "exact-struck-quote",
+        "replay": true,
+        "expected": "failed",
+        "state": "finished",
+        "expectedMatched": true,
+        "providerRetries": [],
+        "recoveredExpected": true,
+        "repairs": 0,
+        "independentFreshResponseReview": {
+          "id": "exact-struck-quote",
+          "status": "passed_with_wording_risks",
+          "notes": "Explicit some-might-apply hypothetical avoids inventing a prior argument; unknown receipt and permitted disputed assessment retained. Not-observation wording describes the supplied account, not a witness assertion of explicit non-observation."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 30,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 356642
+    }
+  }
+]

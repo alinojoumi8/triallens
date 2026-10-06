@@ -1,0 +1,293 @@
+{
+  "planHash": "95b429ae6fd777c1a8abce87d2d96a67c966d3216c89db6445ca32622023c892",
+  "method": "Root-agent review of normalized title, speech, every juror rationale and vote-change reason against the exact authorized source text, current instruction, own history and actual visible peer events. Source-check success is not an independent quality pass. Failed trials may stop independent review after one material failure; a pass requires every terminal response reviewed.",
+  "trials": [
+    {
+      "id": "hearing-Rowan",
+      "status": "incomplete",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "failures": [],
+      "wordingRisks": [],
+      "completenessFailure": "Required full-trial model responses or valid ballots are missing; no independent whole-trial pass can be established. Reviewed accepted subset has no material failure recorded."
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "incomplete",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "failures": [],
+      "wordingRisks": [
+        "Opening changes present unknown-contents statement to past-tense non-knowledge without expressly asserting handover-relative timing."
+      ],
+      "completenessFailure": "Required full-trial model responses or valid ballots are missing; no independent whole-trial pass can be established. Reviewed accepted subset has no material failure recorded."
+    },
+    {
+      "id": "conflicting-witnesses-1",
+      "status": "failed",
+      "reviewedActors": [
+        1
+      ],
+      "failures": [
+        {
+          "actor": 1,
+          "field": "content",
+          "quote": "Tavi describes seeing both at the desk",
+          "reason": "E-002 states that Tavi saw Ellis standing at the desk and that Rowan left with the token still in hand. It does not state that Tavi saw both people at the desk. The approved account has been expanded with an unsupplied observed-person/location relation."
+        }
+      ],
+      "wordingRisks": [
+        "Records token remaining in hand loses the explicit departure anchor."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-2",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        11
+      ],
+      "failures": [
+        {
+          "actor": 11,
+          "field": "rationale",
+          "quote": "attribution-only status",
+          "reason": "The two sources are admitted for assessment as disputed accounts; exclusive-attribution status is not supplied."
+        }
+      ],
+      "wordingRisks": [
+        "Neither is proof wording may obscure permitted assessment; no binding charge prohibition is expressly asserted.",
+        "Unknown-contents generalization is unneeded in a token-account scenario."
+      ]
+    },
+    {
+      "id": "conflicting-witnesses-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        10
+      ],
+      "failures": [
+        {
+          "actor": 10,
+          "field": "rationale",
+          "quote": "Neither is a primary source",
+          "reason": "No primary classification is supplied. Unclassified sources cannot be positively classified as non-primary."
+        }
+      ],
+      "wordingRisks": [
+        "Assessment-only wording may obscure permitted proof assessment if treated as a prohibition."
+      ]
+    },
+    {
+      "id": "later-exclusion-1",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "failures": [
+        {
+          "actor": 5,
+          "field": "content",
+          "quote": "attributes to Tavi only a disclaimer of knowledge",
+          "reason": "Exhaustive account summary omits the recorded observation of Ellis standing at the desk."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-2",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "failures": [
+        {
+          "actor": 3,
+          "field": "rationale",
+          "quote": "Attribution-only material cannot satisfy",
+          "reason": "The source is admitted for assessment as a disputed account, not classified exclusively attribution-only. The rationale strengthens its formal source-use restriction."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "later-exclusion-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "failures": [
+        {
+          "actor": 3,
+          "field": "mindChangedBecause",
+          "quote": "insufficient as matter of law",
+          "reason": "The supplied fictional packet does not state a categorical legal insufficiency doctrine. Personal assessment under the burden must not be promoted into a new binding source-use rule."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-1",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        24
+      ],
+      "failures": [
+        {
+          "actor": 24,
+          "field": "rationale",
+          "quote": "E-001 records Mira at the desk",
+          "reason": "The source records Mira observing Ellis at the desk; it does not place Mira at the desk."
+        }
+      ],
+      "wordingRisks": [
+        "Stable-vote reason abbreviates knowledge disclaimer after the speech and rationale supply its qualifier."
+      ]
+    },
+    {
+      "id": "struck-testimony-2",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        28
+      ],
+      "failures": [
+        {
+          "actor": 28,
+          "field": "rationale",
+          "quote": "records only Mira's stated uncertainty",
+          "reason": "Exhaustive uncertainty-only summary omits the supplied observation of Ellis standing at the desk."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "struck-testimony-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "failures": [
+        {
+          "actor": 4,
+          "field": "rationale",
+          "quote": "itself acknowledges no observation of receipt",
+          "reason": "The source states lack of knowledge about receipt. It does not acknowledge non-observation. Knowledge uncertainty has been replaced with an asserted observation limit."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-1",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        5
+      ],
+      "failures": [
+        {
+          "actor": 5,
+          "field": "content",
+          "quote": "an attribution-only account",
+          "reason": "Admitted disputed account is permitted for assessment; exclusive-attribution classification is not supplied."
+        }
+      ],
+      "wordingRisks": []
+    },
+    {
+      "id": "missing-essential-proof-2",
+      "status": "incomplete",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "failures": [],
+      "wordingRisks": [],
+      "completenessFailure": "Required full-trial model responses or valid ballots are missing; no independent whole-trial pass can be established. Reviewed accepted subset has no material failure recorded."
+    },
+    {
+      "id": "missing-essential-proof-3",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "failures": [
+        {
+          "actor": 1,
+          "field": "content",
+          "quote": "permitted attribution-only basis",
+          "reason": "The permitted source purpose is assessment using a disputed account, not exclusive attribution. Source-purpose classification has been strengthened."
+        }
+      ],
+      "wordingRisks": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "planHash": "fa166f7463f17cb7f52e92c13c1dd22f27b581e0150ae95d3ed89a6310aa4107",
+  "terminal": true,
+  "matched": 3,
+  "total": 5,
+  "jobs": [
+    {
+      "id": "captured-observation-negative",
+      "state": "finished",
+      "expectedMatched": false
+    },
+    {
+      "id": "corrected-uncertainty-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "denial-positive",
+      "state": "finished",
+      "expectedMatched": false
+    },
+    {
+      "id": "explicit-observation-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "noun-disclaimer-negative",
+      "state": "finished",
+      "expectedMatched": true
+    }
+  ],
+  "exchangeStates": {
+    "received": 11
+  },
+  "hashMismatches": [],
+  "reconstructedSnapshotMismatches": [],
+  "sourceFilesChecked": 51,
+  "sourceSnapshot": "tmp/qa/jury-observation-disclaimer-source",
+  "snapshotMethod": "Unchanged files copied; grounding.ts reconstructed from1f23ebd with matching Windows line endings; all51 original plan hashes verified.",
+  "knownReportedTokensLowerBound": 72183,
+  "cost": null,
+  "assessment": "Failed calibration: compound negative-proof filter skipped captured observation premise; correct absence-of-disclaimer positive falsely rejected. Fresh generation occurred but does not upgrade control failures."
+}

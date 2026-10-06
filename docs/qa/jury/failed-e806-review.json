@@ -1,0 +1,142 @@
+{
+  "candidate": "e806be0f71a17750e903689472c625f824a57e81a004bd166eb6829a921e3fde",
+  "status": "failed",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Openings and scoped objection accurately attribute the handover/unknown contents, preserve use limit and burden, distinguish unsupplied offence elements, and strike only the unsupported question."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2
+      ],
+      "status": "passed",
+      "note": "Repaired Crown opening distinguishes account attribution from established findings, promises only approved testimony; Defence accurately responds to the actual opening, preserving burden and explicit element names. Unnecessary Mr. honorific is editorial and omitted from fixture identity assertions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Ruling applies pinned scope rule, retains exhibit with timely instruction; questions neutral and answer preserves both source points. Citation-warning phrase 'supports authority noted' is imprecise but source supports the factual predicate, while pinned instruction is explicitly identified as the rule; no actual-law certification."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Objection/ruling preserve question-only strike and attribution-only exhibit with exact pre-return instruction. Neutral direct question and source-only answer preserve handover/unknown contents."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "passed",
+      "note": "Answer reiterates unknown contents; counsel completion is bounded to this elicited account. Cross questions neutral; location/distance answer explicitly defers missing details and retains both approved source points."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "status": "passed",
+      "note": "Neutral contents and position/duration questions; answers preserve explicit unknown contents and defer specific unsupplied observations. Counsel completion concerns its own scoped questioning, not a ruling prohibiting neutral questions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "passed",
+      "note": "Cross answer defers extras with both approved points. Reexamination confirms only source handover/sealed description and explicit uncertainty, with no physical-properties invention; counsel completion is own present choice."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "passed",
+      "note": "Naming-basis question is neutral; answer defers actual absent recognition details while retaining identities/unknown contents. Completion is bounded to counsel; contents-observation question does not assume an answer."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        19,
+        20,
+        21
+      ],
+      "status": "passed",
+      "note": "Completion follows actual source elicitation. Closings correctly recognize opposing agreement, distinguish named unsupplied elements from described conduct, preserve uncertainty/burden and contain no stale return directive."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Repaired contents answer retains unknown contents without invented non-observation. Neutral final question, exhaustive two-point summary and completion faithfully describe the whole approved account."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        22,
+        23
+      ],
+      "status": "passed",
+      "note": "Initial ballots preserve source attribution, uncertainty, use limit and current charge; no prior own history at this initial stage."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        24
+      ],
+      "status": "failed",
+      "note": "E-001 establishes only that Mira saw promotes attribution-only account to an established observation; auditor accepted despite prose otherwise preserving uncertainty."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        20
+      ],
+      "status": "passed",
+      "note": "Closing recognizes actual Defence source agreement, exact unsupplied element names and burden without stale return reminder."
+    }
+  ],
+  "remainingOutputs": "Not independently certified; stopped after attribution-to-proof error"
+}

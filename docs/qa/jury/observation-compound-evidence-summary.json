@@ -1,0 +1,49 @@
+{
+  "planHash": "26881eb2543f6956dc7a34c9c1eaa4f7dd2fdba2b7f422e29e27ab6f9e890f54",
+  "terminal": true,
+  "matched": 5,
+  "total": 5,
+  "jobs": [
+    {
+      "id": "captured-observation-negative",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "corrected-uncertainty-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "denial-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "explicit-observation-positive",
+      "state": "finished",
+      "expectedMatched": true
+    },
+    {
+      "id": "noun-disclaimer-negative",
+      "state": "finished",
+      "expectedMatched": true
+    }
+  ],
+  "exchangeStates": {
+    "received": 9
+  },
+  "requestRoles": {
+    "checker": 7,
+    "author": 2
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "sourceSnapshot": "tmp\\qa\\jury-observation-compound-source",
+  "snapshotMethod": "All current source bytes copied only after original plan hash verification; copied hashes reverified.",
+  "knownReportedTokensLowerBound": 59936,
+  "cost": null,
+  "freshRepairs": 1,
+  "freshVerificationRetries": 0
+}

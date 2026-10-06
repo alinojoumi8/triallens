@@ -1,0 +1,53 @@
+{
+  "planHash": "38b23d18de2b1b1fb1d05a645cf54bca110a5c982dd4b702aa9119c23f729ba2",
+  "terminal": true,
+  "matched": 5,
+  "total": 5,
+  "jobs": [
+    {
+      "id": "captured-knowledge-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "corrected-receipt-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "explicit-broad-support-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "general-token-negative",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    },
+    {
+      "id": "receipt-qualifier-positive",
+      "state": "finished",
+      "expectedMatched": true,
+      "error": null
+    }
+  ],
+  "freshAccepted": true,
+  "exchangeStates": {
+    "received": 7
+  },
+  "requestRoles": {
+    "checker": 6,
+    "author": 1
+  },
+  "hashMismatches": [],
+  "sourceDrift": [],
+  "sourceFilesChecked": 51,
+  "sourceSnapshot": "tmp/qa/jury-receipt-knowledge-source",
+  "knownReportedTokensLowerBound": 55699,
+  "cost": null,
+  "scope": "Captured actual V7 ballot, receipt-qualified positives and explicit broad-support positive; one fresh generation. Not full-trial validation."
+}

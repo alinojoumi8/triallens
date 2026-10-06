@@ -1,0 +1,14 @@
+{
+  "run": "tmp/qa/courtroom/jury-self-reference/live-83596b35b5e7e7039a59678018750600f4581873321cc5420f13ffea50925761-1791216326460",
+  "reviewer": "Codex independent source comparison",
+  "items": [
+    {
+      "id": "captured-self-supplied-positive",
+      "canonicalRequestHash": "8d8cb9338a4650069fe864ffc8762930d61d6f0aca20a055ccd389de0951d96b",
+      "resultHash": "e88dab5f83584a02b941ad4a747179b798afe8e3e5ad41fcb364fa7db0fb708a",
+      "assessment": "Pass with wording risk: current initial ballot, actual instruction, same-juror E-001/E-002 cites and empty history preserved. Handover/non-observation qualifiers are present in content. Direct contradiction shorthand in rationale can overstate the observation difference, but token remaining at departure supplies contrary factual account; no explicit universal nonoccurrence or blanket assessment ban. No primary classification is actual supplied status.",
+      "status": "passed_with_scope_notes",
+      "scope": "Manually read complete generated content/rationale/change fields against captured actual source texts, permission and public history. Not inferred from checker verdict."
+    }
+  ]
+}

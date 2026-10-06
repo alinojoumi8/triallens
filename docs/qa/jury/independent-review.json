@@ -1,0 +1,2211 @@
+{
+  "candidate": "995f16947b1a26504d1e2cb933358ef3235daca84471d9f87845bf54b20fc000",
+  "scenarioCandidate": "529e278ee81e4626fdd586fab62d02c9684d1c5991f188f1ebe6069ec9800ac0",
+  "patchedCandidate": "406ba52cb9a95f6dfef0ef7ecfc1718ccb4243b09d5cf036b918389f24811358",
+  "reviewer": "Root Codex independent semantic review",
+  "status": "failed_partial_review",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Openings apply concrete sealed-envelope receipt/BARD, preserve attributed source and unknown contents, distinguish exact unsupplied elements without pleaded-status claims. Genuine opposing agreement; objection retains source while seeking question-only strike."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Openings apply concrete sealed-envelope receipt/BARD, preserve attributed source and unknown contents, distinguish exact unsupplied elements without pleaded-status claims. Genuine opposing agreement; objection retains source while seeking question-only strike."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        4
+      ],
+      "status": "failed",
+      "note": "Ruling substitutes before deliberation for pinned before-jury-return delivery requirement and asserts absent jury is so instructed. Native fixture still applies exact required delivery/return gate independently; generated response is not semantically accepted."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        5
+      ],
+      "status": "passed",
+      "note": "Neutral source-confirming direct question; editorial Ms. honorific not supplied."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Ruling preserves question-only strike, retention, exact before-return instruction. Questions and answer confirm approved source without timing or knowledge additions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "status": "passed",
+      "note": "Witness states actual unknown-contents and handover account. Completion covers both supplied propositions, refers to approved passages rather than whole disclosure. Repaired cross question asks actual contents without absence premise."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "passed",
+      "note": "Source confirms sealed attribute and unknown contents; specific account-coverage deferral and neutral cross, no added personal inability/observation limit."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        11,
+        12
+      ],
+      "status": "passed",
+      "note": "Answer accurately preserves unknown contents; neutral question asks approved-account coverage for further details."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "status": "passed",
+      "note": "Specific physical-attribute omission is source coverage, not claim of absent features. Completion/reexamination preserve both actual points; references to testimony match actual visible answers. No temporal knowledge qualifier."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        13,
+        14
+      ],
+      "status": "passed",
+      "note": "Repaired final answer includes both source propositions and scopes no-further-detail claim to E-001. Completion is approved-account scope, not entire disclosure."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Answer retains attributed giver direction and unknown contents without timing; actual completion is account attribution."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Reexamination distinguishes unknown contents from no statement about contents, accurately attributes giver/recipient, completion limited to approved passage."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        20
+      ],
+      "status": "passed",
+      "note": "Closing responds to actual Defence use-limit position and preserves concrete receipt condition, attributed handover/uncertainty and Crown burden. No promised proof or stale return instruction."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        20
+      ],
+      "status": "passed",
+      "note": "Closing accurately responds to Defence agreement, preserves concrete receipt condition/BARD and source uncertainty, no invented element or stale timing reminder."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        21
+      ],
+      "status": "passed",
+      "note": "Closing responds to actual Crown invitation and use-limit agreement, preserves receipt condition and proof burden; no new factual premise."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        21,
+        22
+      ],
+      "status": "passed",
+      "note": "Closing preserves source use and unsupplied exact elements. Initial juror assesses receipt under current charge, attribution-only limit and supplied uncorroborated account; initial no-prior-position claim matches empty own history."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        22
+      ],
+      "status": "passed",
+      "note": "Initial independent receipt assessment uses actual limited-use restriction/BARD and empty initial own history; uncorroborated wording is applied to this supplied attribution-only source, not a universal legal rule."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        23
+      ],
+      "status": "failed",
+      "note": "Guilty ballot promotes attribution-only account to proof of receipt/BARD and relies on no Defence contradiction. Exact source-use limit permits attribution only; source audit falsely accepted repaired response."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        23,
+        24
+      ],
+      "status": "failed",
+      "note": "Guilty ballots treat attributed account as proof of receipt. Actor24 explicitly narrows only-attribution restriction into permission to prove handover, violating pinned source use. No preferred verdict imposed; failure is asserted proof from prohibited use."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        24,
+        25
+      ],
+      "status": "failed",
+      "note": "Both ballots promote attribution to sufficient/proved receipt, bypassing exact use limit. Actor25 additionally uses personal moderate burden threshold instead of preserving prescribed BARD. Initial-history claims accurately match empty histories, but do not cure source-use failures."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        26
+      ],
+      "status": "failed",
+      "note": "Content asserts missing oath/authentication as actual lack, while setup only says status not supplied; rationale asserts no corroboration exists instead of none supplied. Source-use/BARD assessment otherwise bounded."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        25,
+        26
+      ],
+      "status": "failed",
+      "note": "Ballots promote attribution-only account to met/supported receipt and rely on uncontradicted evidence/low personal skepticism, weakening exact use restriction. Actor25 also asserts no missing foundation despite unknown oath/authentication status."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        27
+      ],
+      "status": "failed",
+      "note": "Treats attribution-only account as receipt proof under prescribed burden. Morgan explicitly reinterprets limited use as carve-out permitting proof of receipt; both contradict exclusive permitted attribution purpose."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        27
+      ],
+      "status": "failed",
+      "note": "Treats attribution-only account as receipt proof under prescribed burden. Morgan explicitly reinterprets limited use as carve-out permitting proof of receipt; both contradict exclusive permitted attribution purpose."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        28
+      ],
+      "status": "failed",
+      "note": "Main rationale correctly preserves exclusive attribution use and BARD. Stored mindChangedBecause ends mid-word after normalization truncation, violating complete-sentence reason contract; report as format/quality failure rather than invented fact."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        29
+      ],
+      "status": "failed",
+      "note": "Weakens exclusive attribution purpose into permission to prove receipt because receipt differs from contents/guilt. Contradicts pinned permitted use."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        30
+      ],
+      "status": "passed",
+      "note": "Applies exclusive attribution limit to actual event proof, concrete receipt/BARD and correct initial own history; complete stable-position reason."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        28
+      ],
+      "status": "failed",
+      "note": "Repaired ballot still claims receipt burden met from exclusively attributed account, relying on no contrary supplied evidence. Source audit falsely accepts."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        31
+      ],
+      "status": "passed",
+      "note": "Concrete receipt/BARD assessment preserves exclusive attribution restriction, actual initial history and complete reason."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        29
+      ],
+      "status": "failed",
+      "note": "Treats attributed account as satisfied element based on low personal skepticism, without respecting exclusive use limit."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        30,
+        31
+      ],
+      "status": "failed",
+      "note": "Both guilty ballots treat attributed handover account as proving/satisfying receipt despite exclusive permitted purpose. Consistency in actual examination is not additional proof or expanded use permission."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        32
+      ],
+      "status": "failed",
+      "note": "Repaired initial ballot still promotes attributed account into met condition based on absence of contrary supplied evidence."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        32
+      ],
+      "status": "passed",
+      "note": "Initial assessment correctly applies attribution-only use to event proof and concrete receipt/BARD; references corroboration in supplied case scope."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        33
+      ],
+      "status": "failed",
+      "note": "Receipt deemed proved from attribution-only account, relying on low skepticism/no contradiction; exact permitted purpose bypassed."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        33
+      ],
+      "status": "failed",
+      "note": "Guilty initial ballot credits exclusively attributed account as proof of receipt based on low skepticism/no contradiction. 'Contents unaddressed' is ambiguous relative to actual unknown-contents statement; material failure is prohibited proof use."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        34
+      ],
+      "status": "passed",
+      "note": "First actual deliberation contribution preserves own initial not-guilty history, concrete receipt/BARD and exclusive use limit. No peer contribution yet; no invented challenge or position."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        34
+      ],
+      "status": "passed",
+      "note": "Repaired first inventory turn applies exclusive attribution restriction, concrete receipt/BARD and accurate own initial not-guilty history; no prior peer turn exists."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        35,
+        36
+      ],
+      "status": "failed",
+      "note": "Deliberation sustains guilty from attributed-only source; actor36 explicitly weakens exclusive use restriction. Its reference to turn1 not-guilty position matches actual juror01 contribution; no invented peer premise."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        35,
+        36
+      ],
+      "status": "failed",
+      "note": "Both inventory turns treat attribution as sufficient proof; actor35 acknowledges it cannot prove event but still finds guilt by low personal burden sensitivity, an internal legal-use contradiction."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        37,
+        38
+      ],
+      "status": "failed",
+      "note": "Both continue attribution-to-proof use. Actor37 asserts no missing foundation despite unknown status. Actor38 says no deliberation challenge was raised despite actual juror01 contribution challenging proof of receipt."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        37
+      ],
+      "status": "failed",
+      "note": "Promotes attribution to proven condition by personal low burden sensitivity; exposes numeric juror profile in speech and returns empty current instructionEventId."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        38
+      ],
+      "status": "passed",
+      "note": "Correctly preserves own initial not-guilty, concrete receipt/BARD and attribution-only purpose. Oath/authentication/corroboration omissions expressly limited to supplied record, not asserted absent in real case."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        39
+      ],
+      "status": "failed",
+      "note": "Reinterprets attribution-only restriction to allow receipt proof/BARD. Prior guilty history and plural supportive visible turns exist, but do not authorize source-use expansion."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        39
+      ],
+      "status": "failed",
+      "note": "Personal low burden sensitivity used to declare sufficiency from exclusive attribution-only source."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        40
+      ],
+      "status": "failed",
+      "note": "Substantive source use and own position are correct, but instructionEventId names older limiting instruction rather than current charge. Deliberation version mismatch must be checked separately from ballots."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "status": "failed",
+      "note": "Each explicitly weakens attribution-only purpose into receipt-proof permission and maintains guilty on that basis. Actual own histories and charge IDs match; no new contrary primary source was introduced."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        41
+      ],
+      "status": "failed",
+      "note": "Uses personal low skepticism to declare sufficiency from attribution-only source; leaks numeric profile into rationale."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        42
+      ],
+      "status": "passed",
+      "note": "Preserves concrete receipt/BARD, exclusive use limit, supplied-source scope and actual own not-guilty history."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        43
+      ],
+      "status": "failed",
+      "note": "Source-use argument and own history are correct, but current instructionEventId is empty."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        44
+      ],
+      "status": "failed",
+      "note": "Accurate response to actual visible no-missing-foundation claim and correct attribution/BARD boundary. However converts unclassified/not classified as primary into assertion that source is not a primary document."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        44,
+        45
+      ],
+      "status": "failed",
+      "note": "Both inventory turns continue to treat exclusive attribution as sufficient receipt proof by low personal skepticism/burden sensitivity."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        45
+      ],
+      "status": "failed",
+      "note": "Responds to actual foreperson classification concern, but weakens exclusive source-use purpose to prove receipt."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        46
+      ],
+      "status": "passed",
+      "note": "Challenge correctly identifies actual preceding juror proof-use claims, preserves attribution-only purpose, concrete receipt/BARD and own initial not-guilty. Missing foundation scoped to supplied record."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        1,
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Accurately compares attributed handover with Tavi's no-handover-observed/token retained account, preserves source uncertainty and actual initial positions/charge."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        2,
+        5
+      ],
+      "status": "failed",
+      "note": "Actor2 places Tavi physically at same desk without source support. Actor5 drops Tavi's non-observation qualifier into 'records no handover'; cannot infer event absence from non-observation."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Closings and initial juror accurately compare disputed accounts with no independent proof status or source-use promotion."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        4,
+        5
+      ],
+      "status": "failed",
+      "note": "Actor4 asserts documentary foundations absent rather than status not supplied; actor5 drops Tavi's non-observation qualifier into no-handover description."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        1,
+        2
+      ],
+      "status": "passed",
+      "note": "Closings preserve attributed/disputed accounts, no-handover-observed qualifier, token retained and actual burden/condition."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        1,
+        2,
+        3
+      ],
+      "status": "passed",
+      "note": "Only permitted E-002 used; no excluded/private markers. Presence and uncertainty do not prove receipt or non-receipt. Actual opposing concession accurately attributed."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        1,
+        4
+      ],
+      "status": "passed",
+      "note": "Permitted Tavi account preserves desk presence and unknown receipt, no excluded evidence or inferred absence. Gender pronoun is unsupplied editorial residue."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        2,
+        3
+      ],
+      "status": "failed",
+      "note": "Actor2 says source does not address token receipt despite explicit uncertainty about receipt. Actor3 rationale gives exhaustive only-presence summary omitting uncertainty statement."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        1,
+        2
+      ],
+      "status": "passed",
+      "note": "Only permitted source used; explicit uncertainty retained as neither receipt nor non-receipt. Actual Crown concession and exact source quotation preserved."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        46,
+        47,
+        48
+      ],
+      "status": "failed",
+      "note": "Actor46 preserves proof-use boundary but asserts oath/authentication/corroboration do not exist beyond supplied-status boundary. Actors47/48 continue prohibited proof use; actor48 converts unsupplied oath/authentication status to actual absence."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        47
+      ],
+      "status": "failed",
+      "note": "Changed toward not-guilty in response to actual foundation challenge, but emits incorrect current instruction UUID (1986 instead of 8786). Substantive attribution/burden reasoning is bounded."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        6,
+        7,
+        8
+      ],
+      "status": "failed",
+      "note": "Drops Tavi's did-not-see qualifier into no-handover description/record. No-handover-observed must not become assertion that no handover occurred."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Retains attributed accounts, no-handover-seen qualifier and blue-token retained statement; proof assessment applies current concrete condition/BARD."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        8
+      ],
+      "status": "failed",
+      "note": "Explicitly attributes 'no handover occurred' to Tavi, who only states he did not see one."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        3,
+        5
+      ],
+      "status": "passed",
+      "note": "Explicit no-handover-observed qualifier retained; contradiction assessment applies concrete condition and prescribed burden."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        4
+      ],
+      "status": "failed",
+      "note": "Explicitly claims Tavi's account says no handover occurred, converting non-observation into event absence."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        4,
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Uses only permitted E-002, preserves explicit unknown receipt/presence, no excluded marker or absence inference; initial own history correct."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        5,
+        6
+      ],
+      "status": "passed",
+      "note": "Preserves both Tavi account propositions and current charge; initial no-prior-position accurate; gender pronoun remains unsupplied editorial residue."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        3,
+        4
+      ],
+      "status": "passed",
+      "note": "Unknown receipt and permitted E-002 scoped accurately, actual Crown concession retained, current initial-history/charge references."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        49
+      ],
+      "status": "failed",
+      "note": "Substantive reassessment preserves source purpose/BARD, but changedByEventId names prior judicial limited-use instruction rather than a visible deliberation event as required."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        50
+      ],
+      "status": "passed",
+      "note": "Actual prior proof-use point challenged, exclusive attribution retained, supplied-foundation omissions and stable own not-guilty reason accurate."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        48,
+        49,
+        50
+      ],
+      "status": "failed",
+      "note": "All acknowledge use/foundation concern but still maintain guilty by treating exclusively attributed account as sufficient receipt; actor50 explicitly says limited use does not bar receipt."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        9,
+        11
+      ],
+      "status": "failed",
+      "note": "Non-observation qualifier lost into account of no handover. Actor11 also invents attribution-only use limit where admitted sources may be assessed for condition."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        10
+      ],
+      "status": "passed",
+      "note": "No-handover-seen qualifier and admitted disputed accounts preserved; concrete condition/BARD and initial history applied."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "passed",
+      "note": "Retains no-handover-seen qualifier/retained token, no automatic event truth, assesses actual supplied conflicting accounts/condition and current charge. Primary corroboration remarks scoped to supplied competing record."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        6,
+        7
+      ],
+      "status": "failed",
+      "note": "Actor6 explicitly says Tavi claims no handover occurred. Actor7 asserts no primary source supports receipt despite E-001 affirmative account having unknown primary classification."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        8,
+        9
+      ],
+      "status": "passed",
+      "note": "Non-observation qualifier retained; assesses actual admitted disputed accounts and BARD without purpose expansion or preferred verdict."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        7,
+        8
+      ],
+      "status": "passed",
+      "note": "Permitted E-002 uncertainty retained, not receipt or absence proof; current charge/initial own positions correct."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        7,
+        8,
+        9
+      ],
+      "status": "passed",
+      "note": "Both source propositions retained in actual record, receipt uncertainty and actual Crown concession accurately used; only remaining permitted source."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        10
+      ],
+      "status": "passed",
+      "note": "Receipt uncertainty and burden are accurate. 'Attribution-only account' is an ambiguous source-type shorthand, not an explicit claim that admitted assessment use is barred; retain as wording risk, not a proved purpose violation."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        5,
+        6,
+        7
+      ],
+      "status": "passed",
+      "note": "Retains receipt uncertainty/presence and actual Crown concession, correct current charge/empty initial history; no excluded/private material."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        51
+      ],
+      "status": "failed",
+      "note": "Explicitly accuses correct exclusive-attribution argument of misreading use rule and permits receipt proof from source by personal low skepticism."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        52,
+        53,
+        54
+      ],
+      "status": "passed",
+      "note": "Correct source-purpose/burden challenge and scoped missing supplied foundation. Actor53 changes toward defence, cites actual visible juror05 challenge with shared source and accurate current charge; actors52/54 stable own history correct."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        51,
+        52,
+        53
+      ],
+      "status": "failed",
+      "note": "All acknowledge exclusive-use/foundation concern then retain guilt by expanding attribution into receipt proof; profile skepticism cannot change burden or source use."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        12,
+        14
+      ],
+      "status": "passed",
+      "note": "Retains no-handover-seen qualifier and current initial charge/history. 'Attribution is not proof' applies to automatic truth, not explicit bar on assessing admitted accounts; preserve wording caution."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        13
+      ],
+      "status": "failed",
+      "note": "Rationale drops non-observation qualifier into Tavi records no handover."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        15
+      ],
+      "status": "failed",
+      "note": "Correct conflicting-account assessment, but mistyped current instruction UUID (8b2b instead of 8b2f)."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "status": "passed",
+      "note": "Qualifiers retained, actual source conflict/condition/BARD assessed with accurate initial history and inventory stability; no explicit source-use ban invented."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        10,
+        11,
+        13
+      ],
+      "status": "passed",
+      "note": "No-handover-observed qualifier and retained token preserved; source-specific doubt and current initial charge/history."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        12
+      ],
+      "status": "failed",
+      "note": "Content preserves qualifier but rationale drops it to Tavi describes no handover, allowing wrong factual premise into rationale."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "passed",
+      "note": "Only permitted E-002 used with receipt uncertainty/desk presence and actual Crown concession; no excluded/private marker or inferred receipt/absence."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        11,
+        12,
+        13
+      ],
+      "status": "passed",
+      "note": "Permitted uncertainty and proof burden accurate. 'Attribution-only account' in actor12 is ambiguous type shorthand without explicit bar on assessment; wording risk retained."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "status": "passed",
+      "note": "Accurate permitted account scope (no blue token/giver identified), uncertainty, actual initial history and current charge; no excluded material."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        55
+      ],
+      "status": "failed",
+      "note": "Source-use argument is bounded, but cites older limiting instruction instead of current charge."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        56,
+        57,
+        59
+      ],
+      "status": "failed",
+      "note": "Each still credits attribution-only source as receipt proof by personal low skepticism/burden sensitivity; correct current charge IDs do not cure purpose violation."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        58
+      ],
+      "status": "passed",
+      "note": "Final review preserves concrete receipt/BARD, exclusive source use and stable initial not-guilty; supplied foundation gaps correctly scoped."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        54,
+        55,
+        57
+      ],
+      "status": "failed",
+      "note": "Continued attribution-to-proof use; actor55 additionally omits current charge reference."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        56,
+        58
+      ],
+      "status": "passed",
+      "note": "Exclusive source use applied to concrete receipt/BARD; own prior not-guilty correct. Foundation language interpreted in expressly supplied-record scope, with shorthand wording caution."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        16,
+        17,
+        21
+      ],
+      "status": "failed",
+      "note": "Non-observation qualifier lost in rationale/speech into no handover/none recorded. Actor21 also shortens unknown primary classification into no primary source."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        18,
+        19,
+        20
+      ],
+      "status": "passed",
+      "note": "Concrete conflicting-account assessment preserves observed end-state and no-handover-seen qualifier. Actor18 peer01-03 alignment matches actual inventory contributions; stability/current charge accurate."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        18,
+        19,
+        20,
+        23
+      ],
+      "status": "passed",
+      "note": "Actual disputed source conflict and non-observation qualifiers retained. Documentary-proof comments scoped to supplied unresolved record; retain wording caution without claiming actual primary classification."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        21,
+        22
+      ],
+      "status": "failed",
+      "note": "Actor21 rationale drops no-handover-seen qualifier. Actor22 explicitly claims Tavi says none occurred and returns legal-packet hash instead of charge event UUID."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        14,
+        15,
+        19
+      ],
+      "status": "failed",
+      "note": "Actors14/15 drop no-handover-observed qualifier in rationale. Actor19 claims no primary source supports handover despite unknown classification of affirmative E-001."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        16,
+        17,
+        18,
+        20
+      ],
+      "status": "passed",
+      "note": "Preserves no-handover-observed qualifier/retained token, actual source conflict and current charge/own positions. Shared inventory discussion aligns with stable assessment."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        13,
+        14,
+        15,
+        16,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Permitted E-002 presence/receipt uncertainty retained; actual Crown/Defence concession matches. No excluded markers; correct current charge/history."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        17
+      ],
+      "status": "failed",
+      "note": "Speech and rationale misattribute desk presence to Tavi, while source says Tavi saw Ellis at desk."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        14
+      ],
+      "status": "passed",
+      "note": "Accurate presence/receipt uncertainty and actual initial history/current charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "failed",
+      "note": "Transforms source unknown-whether-receipt into explicit non-observation/did-not-observe receipt. Unknown knowledge does not establish a physical observation limit."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "passed",
+      "note": "Permitted uncertainty/presence and omitted blue/giver identifiers accurate, actual closing concessions retained, own history/current charge correct. Actor15 short closing IDs verified against exact visible Crown/Defence submissions."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        60,
+        61,
+        63,
+        65,
+        68,
+        69
+      ],
+      "status": "failed",
+      "note": "Final review still treats exclusive attribution as sufficient receipt proof, often explicitly weakening use limit or invoking low personal burden sensitivity. Actors61/65 also call position stable after earlier defence-leaning reassessment, without explaining reversal."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        62,
+        64,
+        66,
+        67
+      ],
+      "status": "passed",
+      "note": "Final review retains concrete receipt/BARD, exclusive attribution purpose, supplied-record foundation scope and actual initial not-guilty history/current charge."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "status": "failed",
+      "note": "Each final-review contribution maintains guilty by treating exclusive attribution as receipt-proof permission. Actual source attributions/current charge/initial ballot references do not cure expanded use."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        68
+      ],
+      "status": "failed",
+      "note": "Correct source-use/BARD assessment and own not-guilty, but asserts E-001 is not documentary despite unknown source classification."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        22,
+        24,
+        25,
+        26,
+        28,
+        29,
+        30
+      ],
+      "status": "passed",
+      "note": "Retains source non-observation qualifier and disputed-account burden assessment. Challenges accurately scrutinize actual room's end-state/conclusive framing; no new evidence admitted or peer vote invented."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        23,
+        27
+      ],
+      "status": "failed",
+      "note": "Actor23 claims no primary source supplies receipt despite unclassified affirmative E-001. Actor27 assigns one-moment/not-continuous-watch scope absent from source; hypothetical handover/retrieval is labeled possibility, not actual fact."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "passed": [
+        70,
+        74,
+        76,
+        78,
+        79
+      ],
+      "failed": [
+        71,
+        72,
+        73,
+        75,
+        77,
+        80
+      ],
+      "notes": "Final ballots: failed outputs promote exclusive attribution-only evidence into receipt proof; passed outputs preserve the purpose restriction and current charge."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "passed": [
+        70
+      ],
+      "failed": [
+        69,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "notes": "Failed outputs treat restricted attribution as substantive receipt proof; actor70 preserves restriction."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        81
+      ],
+      "failed": [
+        81
+      ],
+      "notes": "Final ballot weakens attribution-only restriction to contents/guilt-only restriction and claims receipt proof."
+    },
+    {
+      "job": "hearing-Morgan",
+      "actors": [
+        80,
+        81
+      ],
+      "passed": [
+        80
+      ],
+      "failed": [
+        81
+      ],
+      "notes": "Actor80 preserves source restriction; actor81 claims restricted account meets BARD."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "passed": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "notes": "Preserves permitted presence/non-knowledge account, supplied-record proof limits and current charge."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "passed": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        38,
+        39
+      ],
+      "failed": [
+        37
+      ],
+      "notes": "37 invents single-moment/noncontinuous observation scope. Remaining outputs generally distinguish non-observation from non-occurrence; shorthand corroboration absence remains wording risk."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "passed": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "failed": [
+        24,
+        33
+      ],
+      "notes": "24 turns did-not-see into no-handover-occurred.33 asserts different vantage point in rationale instead of a conditional possibility. Other turns preserve source uncertainty; incomplete foundation qualifiers remain wording risks."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "passed": [
+        21,
+        27
+      ],
+      "failed": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        30
+      ],
+      "notes": "22/24/26/28/29/30 lose did-not-see qualifier in descriptions/rationales;23/25 invent token never leaving the giver's hand.21/27 retain non-observation qualifier."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        40
+      ],
+      "failed": [
+        40
+      ],
+      "notes": "Speech summarizes no handover instead of no handover seen; rationale retains qualifier."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "passed": [
+        21
+      ],
+      "failed": [
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "notes": "Unknown receipt is repeatedly rewritten as explicit non-observation, including reasons after repair.28 additionally switches Ellis's desk presence to Tavi's."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "passed": [
+        17,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "failed": [
+        18,
+        21
+      ],
+      "notes": "18/21 omit current charge ID. Other outputs retain attributed uncertainty and supplied-record scope; identifying no named giver/color means silence, not exculpatory proof."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        41,
+        42,
+        43
+      ],
+      "passed": [
+        41,
+        42,
+        43
+      ],
+      "notes": "Retains no-handover-seen qualifier/current charge; conflict assessment is jury analysis."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "passed": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "notes": "Retains actual non-observation; record-bound foundation assessment; no asserted different vantage point as fact."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "passed": [
+        32,
+        34,
+        36,
+        37,
+        40,
+        45
+      ],
+      "failed": [
+        31,
+        33,
+        35,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44
+      ],
+      "notes": "Source descriptions repeatedly drop observed qualifier (31/33/35/38/39/41/42/44).33/38 assert non-primary/non-documentary status without supplied classification;43 wrong charge ID. Remaining rows preserve observations with bounded assessment."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        30,
+        31,
+        32,
+        33,
+        42,
+        43,
+        44
+      ],
+      "passed": [
+        30,
+        32,
+        33,
+        42,
+        43,
+        44
+      ],
+      "failed": [
+        31
+      ],
+      "notes": "31 rationale asserts Tavi's own presence at desk; speech elsewhere correctly describes presence observation.44 speech borderline shorthand, interpreted with exact earlier passage/current rationale."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "passed": [
+        34,
+        35,
+        37,
+        38,
+        39
+      ],
+      "failed": [
+        36,
+        40,
+        41
+      ],
+      "notes": "36/40 rationale asserts Tavi's presence instead of Ellis's observed presence;40 speech repeats it.41 omits current charge ID."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "passed": [
+        49,
+        50,
+        53,
+        54
+      ],
+      "failed": [
+        51,
+        52
+      ],
+      "notes": "51 drops observed qualifier;52 states no handover occurred. Remaining final ballots preserve non-observation and current charge."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "passed": [
+        51,
+        53,
+        55,
+        57
+      ],
+      "failed": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        52,
+        54,
+        56
+      ],
+      "notes": "46 wrong charge plus no-handover observation.47–50/52/54/56 drop non-observation qualifier. Other outputs preserve it and current charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "failed": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "notes": "All repeat unsupported explicit non-observation of unknown receipt;37/38 additionally assert Tavi's desk presence."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "passed": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "notes": "Preserves epistemic uncertainty/current charge; no-source transfer foundation rather than proven absence."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "passed": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "notes": "Qualified non-observation/end-state; current charge."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "passed": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        51,
+        52,
+        53,
+        54
+      ],
+      "failed": [
+        50
+      ],
+      "notes": "50 rationale assigns desk presence to Tavi rather than Ellis. Remaining outputs retain presence-observation wording and uncertainty/current charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        39,
+        40
+      ],
+      "failed": [
+        39,
+        40
+      ],
+      "notes": "Still rewrites explicit unknown receipt into non-observation."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "passed": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "notes": "Preserves uncertainty and current charge."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "passed": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "notes": "Final review/ballots retain no-handover-seen qualifier and current charge."
+    },
+    {
+      "job": "conflicting-witnesses-2",
+      "actors": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "passed": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "notes": "Final ballots retain permitted attributed accounts/current charge."
+    },
+    {
+      "job": "conflicting-witnesses-3",
+      "actors": [
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "failed": [
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "notes": "Final ballots still summarize no-handover account without observed qualifier, including rationale in58."
+    },
+    {
+      "job": "later-exclusion-1",
+      "actors": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "passed": [
+        55,
+        56,
+        59,
+        60,
+        61,
+        62
+      ],
+      "failed": [
+        57,
+        58
+      ],
+      "notes": "57/58 rationale converts Ellis's observed presence into Tavi's presence. Other ballots retain presence observation/unknown receipt/current charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "failed": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "notes": "All repeat explicit non-observation unsupported by unknown-receipt source;41/44/49 also assign desk presence to Tavi."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "passed": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "notes": "Final review/ballots preserve source uncertainty and actual current charge."
+    },
+    {
+      "job": "struck-testimony-1",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "notes": "Closings/initial ballots preserve Ellis's observed presence and Mira's unknown receipt; no struck/private canary or wrong charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "failed": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "notes": "Final ballots repeat invented explicit non-observation;51/54 additionally switch observed presence identity."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        58,
+        59,
+        60
+      ],
+      "passed": [
+        58,
+        59,
+        60
+      ],
+      "notes": "Preserves exact uncertainty and current charge."
+    },
+    {
+      "job": "conflicting-witnesses-1",
+      "actors": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "passed": [
+        57,
+        58,
+        59,
+        62
+      ],
+      "failed": [
+        60,
+        61
+      ],
+      "notes": "60 speech/61 rationale drops observed qualifier. Remaining final ballots preserve source uncertainty/current charge."
+    },
+    {
+      "job": "later-exclusion-2",
+      "actors": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "failed": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "notes": "All final ballots preserve propagated invented explicit non-observation; several also change observed-person identity."
+    },
+    {
+      "job": "later-exclusion-3",
+      "actors": [
+        61,
+        62
+      ],
+      "passed": [
+        61,
+        62
+      ],
+      "notes": "Source-faithful final ballots with actual current charge."
+    },
+    {
+      "job": "struck-testimony-1",
+      "actors": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "passed": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "notes": "Preserves Mira's unknown receipt and Ellis's observed presence. Attribution-only shorthand treated as disputed source assessment, not claimed change to permission."
+    },
+    {
+      "job": "struck-testimony-2",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "passed": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "failed": [
+        2,
+        7,
+        11,
+        13
+      ],
+      "notes": "2/11 rewrite nonknowledge as disclaimed observation;7 unqualified no actual observation implies physical observation denial;13 reason says source disclaims receipt rather than knowledge. Remaining rows preserve unknown receipt; no preferred ballot criterion."
+    },
+    {
+      "job": "missing-essential-proof-1",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "notes": "Preserves supplied envelope/unknown contents; no inference token absent; initial ballots/current charge.7 Crown event reference to be validated separately."
+    },
+    {
+      "job": "missing-essential-proof-2",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "notes": "Source-faithful initial outputs preserve unknown contents/supplied burden; no blue-token finding or absence claim."
+    },
+    {
+      "job": "struck-testimony-3",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "passed": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19
+      ],
+      "failed": [
+        5,
+        17
+      ],
+      "notes": "5 rationale/17 speech puts Mira rather than Ellis at the desk. Other outputs preserve uncertainty and charge."
+    },
+    {
+      "job": "missing-essential-proof-3",
+      "actors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "passed": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "failed": [
+        1,
+        2
+      ],
+      "notes": "1 invents an earlier Defence point/agreement despite no visible prior submission;2 repeats the invented earlier Defence position. Other outputs preserve unknown contents/current charge. Further-proofs plan wording is scope-limited empty plan, not external existence proof."
+    },
+    {
+      "job": "struck-testimony-1",
+      "actors": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "passed": [
+        19,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "failed": [
+        20
+      ],
+      "notes": "20 mind-change reason says witness disclaims receipt rather than knowledge. Other outputs retain epistemic disclaimer."
+    },
+    {
+      "job": "missing-essential-proof-1",
+      "actors": [
+        7
+      ],
+      "passed": [
+        7
+      ],
+      "notes": "Cited Crown public event 7dd08805-985a-466c-acbe-5e783a00f3dc verified against actual actor7 request, exactly matching the Crown's record-bound concession."
+    }
+  ],
+  "method": "Independent partial source/semantic review found material failures. Unreviewed outputs are not counted passed; baseline mechanical completion is separate."
+}

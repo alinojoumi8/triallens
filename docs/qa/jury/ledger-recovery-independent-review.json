@@ -1,0 +1,167 @@
+{
+  "planHash": "432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6",
+  "method": "Root-agent review of the responses listed in reviewedActors, including speech, rationale and vote-change reasons, against exact actor-authorized sources, source purposes, current charge, own history and actual visible events. A mechanical/source-check pass is not an independent whole-response pass. Review may stop after a material accepted-response failure; later spot checks do not establish a whole-trial pass. Mechanical completion does not upgrade a failed quality gate.",
+  "status": "terminal_failed_quality",
+  "trials": [
+    {
+      "id": "hearing-Rowan",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        34,
+        35,
+        36,
+        46,
+        73,
+        74,
+        75,
+        76,
+        81
+      ],
+      "failures": [
+        {
+          "actor": 25,
+          "field": "jurors[0].leaning/rationale",
+          "text": "Initial ballot: guilty on issue-1. ... supplied receipt element ... addressed by the attributed, uncontradicted observation",
+          "reason": "The rationale uses E-001 as proof of the receipt condition to support a guilty ballot despite the actual permission being only attribution and the instruction explicitly barring contents/guilt proof. No other proof is supplied. Source-check acceptance does not establish compliance of this proof inference with permitted use."
+        },
+        {
+          "actor": 27,
+          "field": "jurors[0].leaning/rationale",
+          "text": "Initial ballot: guilty. ... fitting the receipt element directly",
+          "reason": "Again treats attribution-only handover account as receipt proof; absence of contradiction does not expand source permission."
+        },
+        {
+          "actor": 28,
+          "field": "jurors[0].leaning/rationale",
+          "text": "I vote guilty ... accepts that account ... not as proof of contents or any unsupplied element",
+          "reason": "Reuses attribution-only account for receipt proof. A disclaimer about contents and unsupplied elements does not permit the forbidden guilt proof use."
+        },
+        {
+          "actor": 75,
+          "field": "content/jurors[0].rationale",
+          "text": "the limited-use rule restricts contents/guilt proof, not receipt",
+          "reason": "Own adoption of a receipt-purpose carve-out unsupported by the actual only-attribution permission. A historical peer argument may be reported accurately, but does not supply this binding permission."
+        }
+      ],
+      "wordingRisks": [
+        "Actor 8 uses only records within an explicit contents scope; read as a contents limitation, not an exhaustive summary denying the handover observation.",
+        "Actor 22 states a single uncorroborated attributed account does not meet the standard; read as this juror assessment under the actual attribution-only permission, not an imported universal corroboration rule.",
+        " Actor 23 describes a receipt-burden consequence as what the instruction states; actual wording permits only account attribution and bars contents/guilt proof. This is a paraphrased effect of the actual exclusive-use permission, not a verbatim quoted instruction.",
+        " Actor 46 responds to actual turn 4 and its real receipt-purpose argument, using may target wording; the cited historical argument is accurate, while the author rationale separately preserves attribution-only use. Historical attribution must not be read as endorsing the peer permission interpretation."
+      ],
+      "mechanicalFailures": [
+        {
+          "actor": 76,
+          "eventId": "3164e153-f873-4b70-879f-fffadf646a1c",
+          "eventType": "juror_deliberation_turn",
+          "rawTopLevelCitations": [
+            "E-001"
+          ],
+          "rawJurorCitations": [],
+          "nativeSourceRefs": [],
+          "nativeValid": false,
+          "reason": "Verified juror-unit source quotes and top-level citation did not populate per-juror citations. Shared-source cause contract failed; native guard withheld ballot."
+        }
+      ]
+    },
+    {
+      "id": "hearing-Morgan",
+      "status": "failed",
+      "reviewedActors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        46,
+        47,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "failures": [
+        {
+          "actor": 24,
+          "field": "content/jurors[0].rationale",
+          "text": "The fictional receipt condition appears met ... assessed as disputed evidence within E-001's permitted use",
+          "reason": "Invents assessment permission for this hearing source. Actual E-001 permission is only attribution, with no guilt proof; credibility/profile preferences do not authorize truth use."
+        }
+      ],
+      "wordingRisks": [
+        "Actor 20 groups corroboration, contents and knowing-participation under element language; the current fixture supplies none, but the wording blurs evidence and element categories.",
+        " Actor 14 says neutral questions on the account have been exhausted. Reclassified from initial material finding after reviewing context: this can express counsel assessment that the two recorded source points were covered, and does not expressly assert a prohibition on future neutral inquiry. The universal phrasing remains overbroad and should be clarified; later repeat questions do not by themselves prove the assessment false."
+      ],
+      "reviewedChangedFinalBallots": [
+        {
+          "actor": 72,
+          "initial": "guilty",
+          "final": "not_guilty",
+          "basisEvent": "12c55736-b037-41fd-ae36-662117629a45",
+          "assessment": "Existing visible limiting instruction reconsidered; actual prior vote acknowledged, current charge used, no new exhibit or newly issued instruction claimed.",
+          "nativeValid": false,
+          "structuredLinkFailure": "Model cites an existing limiting_instruction instead of an eligible juror_deliberation_turn. Native ballot is invalid and has review-required rationale; this is not a valid changed-vote trace despite accurate prose and prior-choice acknowledgment."
+        }
+      ],
+      "mechanicalFailures": [
+        {
+          "actor": 72,
+          "eventId": "12c55736-b037-41fd-ae36-662117629a45",
+          "eventType": "limiting_instruction",
+          "nativeValid": false,
+          "reason": "Changed-vote cause is not an eligible visible deliberation event."
+        }
+      ]
+    }
+  ]
+}

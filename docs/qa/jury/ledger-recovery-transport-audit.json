@@ -1,0 +1,118 @@
+{
+  "overloadResponses": 18,
+  "identicalNextBodies": 18,
+  "differentOrMissing": 0,
+  "httpStatuses": {
+    "529": 18
+  },
+  "responses": [
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\attribution-proof-negative",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\continuous-observation-positive",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\continuous-observation-positive",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\crown_rebuttal-negative",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\knowledge-timing-negative",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\controls\\knowledge-timing-negative",
+      "actor": null,
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Rowan",
+      "actor": "hearing-Rowan-actor-15",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Rowan",
+      "actor": "hearing-Rowan-actor-21",
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Rowan",
+      "actor": "hearing-Rowan-actor-21",
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Rowan",
+      "actor": "hearing-Rowan-actor-21",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-14",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-20",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-36",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-37",
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-37",
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-48",
+      "role": "checker",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-50",
+      "role": "author",
+      "sameNextBody": true
+    },
+    {
+      "path": "D:\\myprojects\\judgeandjurry-codex\\tmp\\qa\\jury-ledger-final-v3\\tmp\\qa\\courtroom\\full-jury\\live-432144a557fdb1a4a52c30a325d45467dba4142eee145fc8c3a599f7d9c8bef6-1791190988417\\hearing-Morgan",
+      "actor": "hearing-Morgan-actor-64",
+      "role": "checker",
+      "sameNextBody": true
+    }
+  ]
+}

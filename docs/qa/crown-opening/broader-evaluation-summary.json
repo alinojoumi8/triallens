@@ -1,0 +1,25 @@
+{
+  "PlanHash": "52be31578cd957b78154af34bbb5575b06b31048bd0dbc26456486f4e9a94dd5",
+  "CheckerCases": 24,
+  "ExpectedCheckerOutcomes": 24,
+  "AuthorCases": 6,
+  "AutomatedFirstAcceptance": 4,
+  "Repaired": 2,
+  "IndependentFaithfulFinals": 4,
+  "FalseAcceptanceRoles": [
+    "author-record-2-1",
+    "author-record-2-2"
+  ],
+  "Progression": "Failed",
+  "Reviewer": "Codex AI",
+  "QualifiedHumanReview": null,
+  "Usage": {
+    "providerHttpCalls": 42,
+    "providerInputCharacters": 558360,
+    "actualTokens": 183536,
+    "actualCost": null,
+    "elapsedMs": 867157.3342
+  },
+  "RawHashPairsVerified": 42,
+  "CandidateDrift": 0
+}

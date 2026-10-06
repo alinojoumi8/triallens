@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-04",
+  "project": "D:/myprojects/judgeandjurry-codex",
+  "tests": {
+    "command": "$env:RUN_BROWSER_COVERAGE='1'; $env:BROWSER_COVERAGE='1'; npx vitest run --coverage --maxWorkers=1",
+    "exitCode": 0,
+    "passed": 295,
+    "files": 47,
+    "skipped": 0,
+    "browser": "Arguments/evidence-to-decision, courtroom recovery, and smoke journeys passed."
+  },
+  "coverage": {
+    "command": "npx tsx scripts/merge-browser-coverage.ts",
+    "exitCode": 0,
+    "statements": 84.67,
+    "branches": 81.66,
+    "functions": 84.14,
+    "lines": 85.5
+  },
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0
+  },
+  "lint": {
+    "command": "npm run lint",
+    "exitCode": 0
+  },
+  "diffCheck": {
+    "command": "git diff --check -- server/grounding.ts server/minimax.ts server/trialEngine.ts scripts/hearingEvaluation.ts scripts/juryEvaluation.ts scripts/evaluate-jury.ts tests/jurySourceBoundary.test.ts tests/nativeJuryReply.test.ts vite.config.ts",
+    "exitCode": 0
+  },
+  "rootSourceMatchesLatestTargetedCandidate": {
+    "planHash": "0b1953243c44a223ef8e4f453209296778e66575b3d24098ef6197dacff2319d",
+    "files": 50,
+    "mismatches": []
+  },
+  "earlierFailures": [
+    "Expected RED TDD regressions before each fix.",
+    "Copied-runtime browser setup omitted Vite config; fixed and rerun successfully.",
+    "Main-checkout browser navigation timed out twice during dev-server startup. Vite entry discovery was narrowed to index.html and generated QA/data/coverage paths excluded from watching; final complete suite passed."
+  ]
+}

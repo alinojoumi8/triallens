@@ -1,0 +1,108 @@
+[
+  {
+    "planHash": "0b1953243c44a223ef8e4f453209296778e66575b3d24098ef6197dacff2319d",
+    "jobs": [
+      {
+        "id": "hearing-Morgan-actor-55",
+        "state": "finished",
+        "safeOriginal": "passed",
+        "positiveProof": "failed",
+        "controlsMatched": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 4,
+          "providerInputCharacters": 198341,
+          "actualTokens": 57712,
+          "actualCost": null,
+          "elapsedMs": 140636.143
+        },
+        "independentFreshResponseReview": {
+          "id": "hearing-Morgan-actor-55",
+          "status": "passed_with_wording_risks",
+          "notes": "Preserves exclusive attribution and supplied-record scope. Defence framing agreement is explicitly present in the approved opening submission; it is not an invented concession. Broad corroboration shorthand remains a wording risk."
+        }
+      },
+      {
+        "id": "hearing-Rowan-actor-48",
+        "state": "finished",
+        "safeOriginal": "passed",
+        "positiveProof": "failed",
+        "controlsMatched": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 4,
+          "providerInputCharacters": 180690,
+          "actualTokens": 48381,
+          "actualCost": null,
+          "elapsedMs": 81456.5606
+        },
+        "independentFreshResponseReview": {
+          "id": "hearing-Rowan-actor-48",
+          "status": "passed_with_wording_risks",
+          "notes": "Preserves the fictional receipt condition and exclusive-attribution cap. No invented prior proof point. Foundation absence is read in the expressly supplied-record scope; concise rationale retains wording risk."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 8,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 106093
+    }
+  },
+  {
+    "planHash": "f311511149693366708695546efa8de89dfde543fe93776e481eddb86c7f8379",
+    "jobs": [
+      {
+        "id": "hearing-Morgan-actor-55",
+        "state": "finished",
+        "safeOriginal": "passed",
+        "positiveProof": "failed",
+        "controlsMatched": true,
+        "repairs": 2,
+        "usage": {
+          "providerHttpCalls": 7,
+          "providerInputCharacters": 353045,
+          "actualTokens": 94245,
+          "actualCost": null,
+          "elapsedMs": 151688.1157
+        },
+        "independentFreshResponseReview": {
+          "id": "hearing-Morgan-actor-55",
+          "status": "passed_with_wording_risks",
+          "notes": "Challenges an actual prior carve-out of physical receipt from the exclusive-attribution limit (jurors03/09 in request). Preserves governing limit and stable vote; broad chronology shorthand remains wording risk."
+        }
+      },
+      {
+        "id": "hearing-Rowan-actor-48",
+        "state": "finished",
+        "safeOriginal": "passed",
+        "positiveProof": "failed",
+        "controlsMatched": true,
+        "repairs": 0,
+        "usage": {
+          "providerHttpCalls": 4,
+          "providerInputCharacters": 180748,
+          "actualTokens": 45111,
+          "actualCost": null,
+          "elapsedMs": 61980.484899999996
+        },
+        "independentFreshResponseReview": {
+          "id": "hearing-Rowan-actor-48",
+          "status": "failed",
+          "notes": "Correct source-use explanation but says 'I challenge the proof point that Mira's account proves receipt'. Exact 14 prior contributions all preserve exclusive attribution and unmet proof; none supplies that claimed prior proof point. This is a peer-argument failure, separate from the corrected negation false positive."
+        }
+      }
+    ],
+    "rawIntegrity": {
+      "pairs": 11,
+      "errors": 0,
+      "failed": 0,
+      "incomplete": 0,
+      "mismatches": 0,
+      "knownTokens": 139356
+    }
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "candidate": "b144c7215300d6f8597d221d333fb960e36ce2d5f48eec6baed2b55ba77780ac",
+  "reviewer": "Root Codex independent semantic review",
+  "status": "failed",
+  "failure": "Rowan actor 16 falsely accepted non-observation inferred from unknown contents; candidate stopped. Jury trials unexecuted.",
+  "reviews": [
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        1,
+        2
+      ],
+      "status": "passed",
+      "note": "Both openings accurately attribute Mira's handover and unknown contents, retain attribution-only use, and distinguish unsupplied actual offence elements from described conduct. Defence agreement matches the visible Crown opening."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        3,
+        4,
+        5
+      ],
+      "status": "passed",
+      "note": "Objection and scoped disposition match the actual unsupported-premise question and fictional rule; pre-return instruction is timely here. Neutral direct question requests the recorded observation without presupposing contents.",
+      "editorial": [
+        "Actor 3 places a third-person paraphrase of Mira's first-person unknown-contents statement in quotation marks; meaning is faithful but exact quotation should preserve source wording."
+      ]
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "status": "passed",
+      "note": "Mira repeats only the sealed handover and unknown contents, explicitly defers unsupplied surrounding facts, and neutral questions ask what her approved account covers. Completion is counsel's proportionality judgment after both source sentences were elicited, not a claimed prohibition on neutral inquiry."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "passed",
+      "note": "Cross-examination preserves the supplied-account boundary for purpose, intent and surrounding events. Completion describes what the source covers rather than claiming those events or knowledge did not exist."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        15
+      ],
+      "status": "passed",
+      "note": "Repaired re-examination question neutrally asks whether Mira observed contents; sealed-envelope attribute is supplied. The repair is retained and not counted as first-pass success."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        16
+      ],
+      "status": "failed",
+      "note": "Unknown contents do not establish that Mira did not personally observe anything inside. The answer adds an unsupported personal-observation limit; the automated source checker falsely accepted it."
+    },
+    {
+      "job": "hearing-Rowan",
+      "actors": [
+        17,
+        18,
+        19
+      ],
+      "status": "passed",
+      "note": "Question asks personal-observation scope without asserting an answer; final witness answer correctly defers unsupplied facts rather than denying observations; examiner completion describes attribution only."
+    }
+  ]
+}
