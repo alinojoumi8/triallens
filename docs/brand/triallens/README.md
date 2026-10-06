@@ -2,6 +2,8 @@
 
 Generated on 2026-10-06 with OpenAI's built-in image generation tool (imagegen skill). These are original generated brand illustrations, not application screenshots or real case materials.
 
+The hero and emblem images are excluded from the software's AGPL license; the documentation and prompts remain AGPL-covered. See the [licensing policy](../../licensing.md).
+
 ## Files
 
 | Asset | Purpose |

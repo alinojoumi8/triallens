@@ -160,3 +160,9 @@ TrialLens is the new project name. The running app currently retains **Judge & J
 The lens represents examining a claim closely. The connected papers represent a record whose relationships can be inspected. The navy, ivory, copper, and muted teal palette carries that idea across the [hero](docs/brand/triallens/hero.png) and [emblem](docs/brand/triallens/emblem.png).
 
 *Artwork generated with OpenAI's built-in image generation tool. It is brand illustration, not an application screenshot. [Asset specifications and prompts](docs/brand/triallens/README.md).*
+
+## License
+
+The original code, documentation, and fictional samples are licensed under **[AGPL-3.0-only](LICENSE)**, with the exclusions described in the **[licensing policy](docs/licensing.md)**. Commercial use is permitted under the AGPL; separate commercial terms may be negotiated where the maintainer holds the necessary rights.
+
+The generated hero and emblem are excluded from the software license. TrialLens branding does not grant trademark rights or imply endorsement of independently operated forks.

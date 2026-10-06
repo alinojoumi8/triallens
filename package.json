@@ -1,6 +1,7 @@
 {
   "name": "judgeandjurry-codex",
   "private": true,
+  "license": "AGPL-3.0-only",
   "version": "0.0.0",
   "packageManager": "npm@11.12.1",
   "engines": {
